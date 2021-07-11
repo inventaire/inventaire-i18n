@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -eu
+
+mkdir -p ./dist/activities
+
+echo "building: en";
+./scripts/build/build_activities_en > "./dist/activities/en.json" &
+
+for lang in $(cat ./assets/translated_langs);
+do
+  echo "building: $lang";
+  ./scripts/build/build_activities_translated_lang $lang > "./dist/activities/${lang}.json" &
+done;
+
+wait
+
+echo 'build_activities: done'

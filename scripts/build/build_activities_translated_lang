@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+const [ lang ] = process.argv.slice(2)
+if (lang == null) throw new Error('missing lang')
+
+const activitiesValues = require('./lib/get_lang_activities_values')(lang)
+console.log(JSON.stringify(activitiesValues, null, 2))

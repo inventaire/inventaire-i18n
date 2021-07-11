@@ -3,5 +3,6 @@ set -eu
 
 npm run build-client
 npm run build-emails
+npm run build-activities
 npm run build-transifex-resources
 npm run update-stats

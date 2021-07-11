@@ -1,0 +1,17 @@
+#!/usr/bin/env node
+const convertMarkdown = require('./lib/convert_markdown')
+const activitiesValues = require('../../original/activities.en.json')
+const enClientDistValues = require('../../dist/client/en.json')
+
+const distValues = {}
+for (const key in activitiesValues) {
+  // Borrowing values from the client
+  const value = activitiesValues[key]
+  if (value === null) {
+    distValues[key] = enClientDistValues[key]
+  } else {
+    distValues[key] = convertMarkdown(value)
+  }
+}
+
+console.log(JSON.stringify(distValues, null, 2))
