@@ -10,6 +10,7 @@
     "build": "./scripts/build/build",
     "build-client": "./scripts/build/build_client",
     "build-emails": "./scripts/build/build_emails",
+    "build-activities": "./scripts/build/build_activities",
     "build-transifex-resources": "./scripts/build/build_transifex_resources",
     "checkout-master": "git checkout ./dist && git checkout master",
     "fetch-translations": "./scripts/fetch/fetch_translations",
