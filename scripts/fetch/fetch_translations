@@ -15,6 +15,7 @@ fetch_resource_translations(){
 }
 
 fetch_resource_translations 'emails'
+fetch_resource_translations 'activities'
 fetch_resource_translations 'fullkey'
 fetch_resource_translations 'shortkey'
 ./scripts/fetch/fetch_wikidata_translations
