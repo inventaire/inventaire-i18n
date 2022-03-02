@@ -26,7 +26,7 @@
   "P227": "GND-identigilo (Germanio)",
   "P243": "OCLC-numero en WorldCat",
   "P268": "BNF (Francio) identigilo",
-  "P269": "SUDOC (Francio) identigilo",
+  "P269": "idRef (Francio) identigilo",
   "P349": "NDL-identigilo (Japanio)",
   "P361": "parto de",
   "P437": "distribuo",
@@ -88,5 +88,5 @@
   "P5491": null,
   "P5571": "numero de libro en NooSFere",
   "P6338": null,
-  "P7400": null
+  "P7400": "LibraryThing identigilo de aŭtoro"
 }

@@ -26,7 +26,7 @@
   "P227": "GND-Kennung",
   "P243": "OCLC-Kennung",
   "P268": "BnF-Kennung",
-  "P269": "SUDOC-Normdatenkennung",
+  "P269": "IdRef-Normdatenkennung",
   "P349": "NDL-Kennung",
   "P361": "ist Teil von",
   "P437": "Materialart/Vertriebsweg",
