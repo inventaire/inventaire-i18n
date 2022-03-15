@@ -38,6 +38,8 @@
   "group_invitation_inventory": "Már láthatod a **%{groupName}** csoport tagjai által [itt](%{pathname}), megosztott könyveket, de szükséged van egy fiókra, hogy hozzáférhess mindazokhoz a könyvekhez, amelyet a csoport megoszt.",
   "group_invite_button": "Menj a csoport oldalára a meghívás elfogadásához vagy elutasításához.",
   "group_invite_subject": "%{actingUserUsername} meghívott, hogy csatlakozza a %{groupName} csoporthoz!",
+  "group_join_request_button": null,
+  "group_join_request_subject": null,
   "last_nearby_books": "új könyv a közeli emberek leltárjaiban",
   "last_nearby_books_more": null,
   "last_network_books": "Új könyvek a barátaid és csoportjaid leltárjaiban",

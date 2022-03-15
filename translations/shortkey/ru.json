@@ -59,6 +59,7 @@
   "group_default_description": null,
   "group_invite_notification": "вас пригласили присоединиться к группе",
   "group_invitor": "%{username} пригласил вас присоединиться",
+  "group_join_request_notification": null,
   "group_kick_confirmation": "Вы уверены, что хотите удалите **%{username}** из группы?",
   "group_make_admin_confirmation": "Вы уверены, что хотите сделать **%{username}** админом группы?",
   "group_make_admin_warning": "Это необратимо, и админа нельзя удалить из группы, даже с помощью другого админа",

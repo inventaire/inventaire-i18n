@@ -59,6 +59,7 @@
   "group_default_description": "se böckerna som medlemmar av gruppen %{groupName} vill ge bort, låna ut eller sälja",
   "group_invite_notification": "du har blivit inbjudan att delta i en grupp",
   "group_invitor": "%{username} bjöd in dig att delta",
+  "group_join_request_notification": null,
   "group_kick_confirmation": "Är du säker att du vill ta bort **%{username}** från gruppen?",
   "group_make_admin_confirmation": "Är du säker på att du vill göra **%{username}** till admin av gruppen?",
   "group_make_admin_warning": "Det här kan inte ångras och en admin kan inte tas bort från en grupp, inte ens av en annan admin",

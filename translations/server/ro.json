@@ -38,6 +38,8 @@
   "group_invitation_inventory": null,
   "group_invite_button": null,
   "group_invite_subject": null,
+  "group_join_request_button": null,
+  "group_join_request_subject": null,
   "last_nearby_books": null,
   "last_nearby_books_more": null,
   "last_network_books": null,

@@ -59,6 +59,7 @@
   "group_default_description": "グループ %{groupName} 内の譲渡、貸出、販売しようとしている本のメンバーを見る",
   "group_invite_notification": "グループ参加に招待された",
   "group_invitor": "%{username} さんがあなたを招待しています",
+  "group_join_request_notification": null,
   "group_kick_confirmation": "本当に**%{username}** さんをグループから削除しますか？",
   "group_make_admin_confirmation": "本当に**%{username}** さんをグループの管理者にしますか？",
   "group_make_admin_warning": "この操作は取り消しできず、他の管理者であってもこの管理者をグループから削除することはできません",

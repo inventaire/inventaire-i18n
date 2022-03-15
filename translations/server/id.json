@@ -38,6 +38,8 @@
   "group_invitation_inventory": "Anda dapat langsung melihat buku-buku anggota **%{groupName}** yang dibagikan ke publik di [sini](%{pathname}), tapi anda perlu memiliki akun untuk mengakses semua buku yang dibagikan di grup",
   "group_invite_button": "pergi ke halaman grup untuk menerima atau menolak undangan",
   "group_invite_subject": "%{actingUserUsername} mengundang anda untuk bergabung ke %{groupName}!",
+  "group_join_request_button": null,
+  "group_join_request_subject": null,
   "last_nearby_books": "buku terbaru di inventori orang-orang di sekitar anda",
   "last_nearby_books_more": "...dan [%{smart_count} lagi](https://inventaire.io/inventory/nearby)",
   "last_network_books": "buku-buku di inventori teman-teman dan grup anda",

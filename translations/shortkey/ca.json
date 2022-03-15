@@ -59,6 +59,7 @@
   "group_default_description": "mira els llibres que els membres del grup %{groupName} volen donar, deixar o vendre",
   "group_invite_notification": "has estat convidat a afegir-te a un grup",
   "group_invitor": "%{username} t'ha convidat a afegir-te",
+  "group_join_request_notification": null,
   "group_kick_confirmation": "Estàs segur que vols eliminar **%{username}** del grup?",
   "group_make_admin_confirmation": "Estàs segur que vols fer **%{username}** l'administrador del grup?",
   "group_make_admin_warning": "Això no es pot desfer i un administrador no pot ser eliminat d'un grup, ni per un altre administrador. ",

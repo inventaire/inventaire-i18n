@@ -59,6 +59,7 @@
   "group_default_description": "перегляньте книги членів групи %{groupName}, які дарують, позичають чи продають",
   "group_invite_notification": "вас запрошено приєднатися до групи",
   "group_invitor": "%{username} запросив(ла) вас приєднатися",
+  "group_join_request_notification": null,
   "group_kick_confirmation": "Ви точно хочете прогнати **%{username}** з групи?",
   "group_make_admin_confirmation": "Ви впевненні, що це хороша ідея дати Правлячий перстень **%{username}** для адміністрування групи?",
   "group_make_admin_warning": "Цю дію неможливо скасувати і адмін не може бути вилученим з групи, навіть іншим адміном",

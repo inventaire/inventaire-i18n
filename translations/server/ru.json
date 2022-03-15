@@ -38,6 +38,8 @@
   "group_invitation_inventory": null,
   "group_invite_button": "пройдите на страницу группы, чтобы принять или отклонить приглашение",
   "group_invite_subject": "%{actingUserUsername} приглашает вас присоединиться к группе %{groupName}!",
+  "group_join_request_button": null,
+  "group_join_request_subject": null,
   "last_nearby_books": null,
   "last_nearby_books_more": "...и [%{smart_count} more](https://inventaire.io/inventory/nearby)",
   "last_network_books": null,

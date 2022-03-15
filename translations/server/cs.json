@@ -38,6 +38,8 @@
   "group_invitation_inventory": "Veřejné knihy členů skupiny **%{groupName}** už můžeš vidět [zde](%{pathname}), ale potřebuješ účet, abys měl/a přístup ke všem knihám, které skupina sdílí.",
   "group_invite_button": "běž na stránku skupiny přijmout nebo odmítnout pozvánku",
   "group_invite_subject": "%{actingUserUsername} tě pozval do skupiny %{groupName}!",
+  "group_join_request_button": null,
+  "group_join_request_subject": null,
   "last_nearby_books": "nové knihy v katalozích lidí v okolí",
   "last_nearby_books_more": "...a [%{smart_count} další](https://inventaire.io/inventory/nearby) |||| ...a [%{smart_count} další](https://inventaire.io/inventory/nearby) |||| ...a [%{smart_count} dalších](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nové knihy v katalozích tvých přátel a skupin",

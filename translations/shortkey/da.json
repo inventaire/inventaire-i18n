@@ -59,6 +59,7 @@
   "group_default_description": "se de bøger medlemerne af gruppen %{groupName} gerne vil give væk, udlåne eller sælge",
   "group_invite_notification": "du er blevet inviteret til at blive medlem af en gruppe",
   "group_invitor": "%{username} inviterede dig til at blive medlem",
+  "group_join_request_notification": null,
   "group_kick_confirmation": "er du sikker på du vil fjerne **%{username}** fra gruppen?",
   "group_make_admin_confirmation": "er du sikker på at du vil gøre **%{username}** til admin af gruppen?",
   "group_make_admin_warning": "dette kan ikke gøres om og en admin kan ikke fjernes fra gruppen, heller ikke af en anden admin",

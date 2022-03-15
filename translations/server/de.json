@@ -38,6 +38,8 @@
   "group_invitation_inventory": "Die kannst bereits die Bücher sehen, die Mitglieder von **%{Gruppenname}** öffentlich [hier](%{Pfadname}) teilen, aber Du brauchst ein Konto, um Zugang zu allen Büchern zu haben, die in der Gruppe geteilt werden.",
   "group_invite_button": "Gehe zur Gruppenseite um die Beitrittseinladung zu beantworten.",
   "group_invite_subject": "%{actingUserUsername} hat dich zur Gruppe %{groupName} eingeladen!",
+  "group_join_request_button": null,
+  "group_join_request_subject": null,
   "last_nearby_books": "neue Bücher in Inventaren in deiner Umgebung",
   "last_nearby_books_more": "...und [%{smart_count} mehr](https://inventaire.io/inventory/nearby)",
   "last_network_books": "neue Bücher in den Inventaren deiner Freunde und Gruppen",

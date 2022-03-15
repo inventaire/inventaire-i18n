@@ -38,6 +38,8 @@
   "group_invitation_inventory": "Du kan redan se de böcker som medlemmarna i **%{groupName}** delar publikt [här](%{pathname}) men du behöver ett konto för att få tillgång till alla böcker som gruppen delar.",
   "group_invite_button": "Gå till sidan för gruppen för att godkänna eller avböja inbjudan.",
   "group_invite_subject": "%{actingUserUsername} bjuder in dig att gå med i gruppen %{groupName}!",
+  "group_join_request_button": null,
+  "group_join_request_subject": null,
   "last_nearby_books": "nya böcker i användares inventeringar nära dig",
   "last_nearby_books_more": "...och [%{smart_count} till](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nya böcker i dina vänners och gruppers inventeringar",

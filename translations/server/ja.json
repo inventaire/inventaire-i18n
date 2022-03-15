@@ -38,6 +38,8 @@
   "group_invitation_inventory": null,
   "group_invite_button": "グループのページに行って招待を承認または拒否する",
   "group_invite_subject": "%{actingUserUsername} さんがあなたを次のグループに招待しました %{groupName}！",
+  "group_join_request_button": null,
+  "group_join_request_subject": null,
   "last_nearby_books": "近くの人々の新しい本",
   "last_nearby_books_more": "...そして [%{smart_count} 以上](https://inventaire.io/inventory/nearby)",
   "last_network_books": "あなたの友達やコミュニティ内の新しい本",

@@ -38,6 +38,8 @@
   "group_invitation_inventory": "Du kan alllerede se bøgerne **%{groupName}**, som medlemmerne deler offentligt [here](%{pathname}), men for at få adgang til alle bøgerne gruppen deler, bliver du nødt til at tilmelde dig.",
   "group_invite_button": "gå til gruppens side for at acceptere eller afvise invitationen",
   "group_invite_subject": "%{actingUserUsername} inviterede dig til at være med i gruppen %{groupName}!",
+  "group_join_request_button": null,
+  "group_join_request_subject": null,
   "last_nearby_books": "nye bøger i nærliggende folks beholdninger",
   "last_nearby_books_more": "...og [%{smart_count} mere](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nye bøger i dine venner og gruppers oversigter",

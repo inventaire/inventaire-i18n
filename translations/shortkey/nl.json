@@ -59,6 +59,7 @@
   "group_default_description": "Bekijk de boeken die leden van de groep %{groupName} willen geven, lenen of verkopen",
   "group_invite_notification": "je bent uitgenodigd tot een groep",
   "group_invitor": "%{username} heeft je uitgenodigd",
+  "group_join_request_notification": null,
   "group_kick_confirmation": "Ben je zeker dat je **%{username}** wil verwijderen uit de groep?",
   "group_make_admin_confirmation": "Ben je zeker dat je **%{username}** groepsadministrator wil maken?",
   "group_make_admin_warning": "Dit kan niet ongedaan gemaakt worden en een admin kan niet van een groep verwijderd worden, zelfs niet door een andere admin",

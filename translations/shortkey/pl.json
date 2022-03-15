@@ -59,6 +59,7 @@
   "group_default_description": null,
   "group_invite_notification": null,
   "group_invitor": null,
+  "group_join_request_notification": null,
   "group_kick_confirmation": null,
   "group_make_admin_confirmation": null,
   "group_make_admin_warning": null,

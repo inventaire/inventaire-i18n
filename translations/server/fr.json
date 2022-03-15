@@ -38,6 +38,8 @@
   "group_invitation_inventory": "Vous pouvez déjà voir les livres publics des membres de %{groupName} [ici](%{pathname}), mais il vous faut un compte pour accéder à la totalité des livres partagés par le groupe.",
   "group_invite_button": "aller à la page du groupe pour accepter ou décliner l'invitation",
   "group_invite_subject": "%{actingUserUsername} vous invite à rejoindre le groupe %{groupName} !",
+  "group_join_request_button": "Ouvrir les paramètres du groupe pour accepter ou refuser la requête de %{requesterUsername}",
+  "group_join_request_subject": "%{requesterUsername} a demandé à rejoindre le groupe %{groupName}",
   "last_nearby_books": "les derniers livres ajoutés près de chez vous",
   "last_nearby_books_more": "...et [encore %{smart_count} autre](https://inventaire.io/inventory/nearby) |||| ...et [encore %{smart_count} autres](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nouveaux livres dans l'inventaire de vos ami⋅e⋅s et groupes",
