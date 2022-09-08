@@ -38,7 +38,7 @@
   "group_invite_button": "iri al la paĝo de la grupo por akcepti aŭ malakcepti la inviton",
   "group_invite_subject": "%{actingUserUsername} invitis vin membriĝi la grupon %{groupName}!",
   "group_join_request_button": null,
-  "group_join_request_subject": null,
+  "group_join_request_subject": "%{requesterUsername} petas membriĝi la grupon %{groupName}",
   "last_nearby_books": "novaj libroj en stoko de proksimuloj",
   "last_nearby_books_more": "... kaj [%{smart_count} pli](https://inventaire.io/inventory/nearby)",
   "last_network_books": "novaj libroj en stokoj de viaj amikoj kaj grupoj",
