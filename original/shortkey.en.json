@@ -181,6 +181,7 @@
   "username_change_confirmation": "Your current username is **%{currentUsername}**<br>Are you sure you want to change for **%{requestedUsername}**?",
   "username_change_warning": " You shouldn't change your username too often, as it's the way others can find you",
   "username_tip": "Username can be anything made of 1 to 20 letters, figures or _",
+  "users_count_have_this_book": "%{smart_count} user has this book |||| %{smart_count} users have this book",
   "waiting_accepted": "waiting for %{username} to accept the request",
   "waiting_confirmation": "waiting for %{username}'s reception confirmation",
   "waiting_confirmation_one_way": "Once confirmed, [the book](/items/%{itemId}) will be moved to %{username}'s inventory.",
