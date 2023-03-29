@@ -1,4 +1,5 @@
 {
+  "WEBLATE_UPDATE_TEST2": "123",
   "accepted": "%{username} accepted your request",
   "active_transactions_count": "you have **%{smart_count}** [ongoing transaction](%{href}) |||| you have **%{smart_count}** [ongoing transactions](%{href})",
   "activity summary": "activity summary",
