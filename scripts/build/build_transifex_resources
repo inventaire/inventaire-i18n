@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-set -eu
-
-mkdir -p ./dist/transifex
-transifexify ./original/*.en.json
-cp ./original/*en.transifex.json ./dist/transifex
