@@ -8,8 +8,7 @@
   },
   "scripts": {
     "build": "./scripts/build/build",
-    "build-client": "./scripts/build/build_client",
-    "build-server": "./scripts/build/build_server",
+    "build-components": "./scripts/build/build_components",
     "checkout-master": "git checkout ./dist && git checkout master",
     "fetch-translations": "./scripts/fetch/fetch_translations",
     "test": "echo \"Error: no test specified\" && exit 1",

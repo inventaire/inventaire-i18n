@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+const [ lang, component ] = process.argv.slice(2)
+if (lang == null) throw new Error('missing lang')
+
+const componentValues = require('./lib/get_component_values')({ component, lang })
+const wikidataValues = require('./lib/get_lang_wikidata_values')({ component, lang })
+
+const distValues = Object.assign({}, componentValues, wikidataValues)
+console.log(JSON.stringify(distValues, null, 2))

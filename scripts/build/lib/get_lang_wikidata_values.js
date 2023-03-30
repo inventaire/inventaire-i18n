@@ -1,10 +1,16 @@
-const propertiesList = require('../../../original/wikidata.properties_list')
-const enValues = require('../../../translations/wikidata/en.json')
 
-module.exports = lang => {
-  const langValues = require(`../../../translations/wikidata/${lang}.json`)
+const enValues = require('../../../src/wikidata/en.json')
+const { getComponentWikidataPropertiesIds } = require('../../utils')
+const propertiesLists = {
+  server: getComponentWikidataPropertiesIds('server'),
+  client: getComponentWikidataPropertiesIds('client'),
+}
+
+module.exports = ({ component, lang }) => {
+  const langValues = require(`../../../src/wikidata/${lang}.json`)
 
   const distValues = {}
+  const propertiesList = propertiesLists[component]
 
   for (const prop of propertiesList) {
     distValues[prop] = langValues[prop] || enValues[prop]

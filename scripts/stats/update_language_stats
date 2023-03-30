@@ -2,12 +2,12 @@
 let lang
 const getLangKeysCount = require('./lib/get_lang_keys_count')
 const getLangDefaultRegion = require('./lib/get_lang_default_region')
-const { active: activeLangs } = require('../../assets/langs')
+const releaseLanguages = require('../../assets/release_languages')
 const { writeFileSync } = require('fs')
 
 const completionData = {}
 
-for (lang of activeLangs) {
+for (lang of releaseLanguages) {
   completionData[lang] = getLangKeysCount(lang)
 }
 

@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -eu
 
-npm run build-client
-npm run build-server
-npm run update-stats
+echo 'build commponents'
+./scripts/build/build_components
+
+echo 'update language stats'
+./scripts/stats/update_language_stats

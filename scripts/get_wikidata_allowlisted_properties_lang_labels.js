@@ -1,19 +1,14 @@
 #!/usr/bin/env node
 const { getManyEntities } = require('wikidata-sdk')
 const { readFileSync, promises: fsPromises  } = require('fs')
-const { uniq, sortPropertiesByNumericId } = require('./utils')
+const { uniq, sortPropertiesByNumericId, getComponentWikidataPropertiesIds } = require('./utils')
 const { writeFile } = fsPromises
 const languages = readFileSync('./assets/translated_langs').toString().trim().split(' ')
 // 'en' isn't considered a translated language, as it's the original language for other translated assets
 languages.push('en')
-const getProperties = folder => {
-  return readFileSync(`./src/${folder}/keys_translated_from_wikidata`)
-  .toString()
-  .trim()
-  .split('\n')
-}
-const serverProperties = getProperties('server')
-const clientProperties = getProperties('client')
+
+const serverProperties = getComponentWikidataPropertiesIds('server')
+const clientProperties = getComponentWikidataPropertiesIds('client')
 const properties = uniq(serverProperties.concat(clientProperties)).sort(sortPropertiesByNumericId)
 
 const fetch = require('node-fetch')
