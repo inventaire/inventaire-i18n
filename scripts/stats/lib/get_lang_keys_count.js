@@ -1,6 +1,6 @@
 const transifexResources = [ 'server', 'shortkey', 'fullkey' ]
 const wikidataPropertiesList = require('../../../original/wikidata.properties_list')
-const pick = require('./pick')
+const { pick } = require('../utils')
 
 module.exports = lang => {
   const translatedResourcesCount = getResourcesTranslatedCount(lang)

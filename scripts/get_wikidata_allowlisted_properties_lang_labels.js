@@ -1,11 +1,21 @@
 #!/usr/bin/env node
 const { getManyEntities } = require('wikidata-sdk')
 const { readFileSync, promises: fsPromises  } = require('fs')
+const { uniq, sortPropertiesByNumericId } = require('./utils')
 const { writeFile } = fsPromises
 const languages = readFileSync('./assets/translated_langs').toString().trim().split(' ')
 // 'en' isn't considered a translated language, as it's the original language for other translated assets
 languages.push('en')
-const properties = require('../original/wikidata.properties_list')
+const getProperties = folder => {
+  return readFileSync(`./src/${folder}/keys_translated_from_wikidata`)
+  .toString()
+  .trim()
+  .split('\n')
+}
+const serverProperties = getProperties('server')
+const clientProperties = getProperties('client')
+const properties = uniq(serverProperties.concat(clientProperties)).sort(sortPropertiesByNumericId)
+
 const fetch = require('node-fetch')
 const { green } = require('tiny-chalk')
 
@@ -36,7 +46,7 @@ const prepareForSave = allProperties => {
 const saveTranslationFiles = async () => {
   for (const lang in labelPerLanguage) {
     const data = labelPerLanguage[lang]
-    await writeFile(`translations/wikidata/${lang}.json`, JSON.stringify(data, null, 2) + '\n')
+    await writeFile(`src/wikidata/${lang}.json`, JSON.stringify(data, null, 2) + '\n')
     console.log(green(`fetched: wikidata - ${lang}`))
   }
 }
