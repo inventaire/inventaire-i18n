@@ -27,3 +27,35 @@ npm run build
 git pull origin master
 npm run build
 ```
+
+## Translated strings format
+Inventaire i18n strings are tailored to work with the [Polyglot](http://airbnb.io/polyglot.js/) library
+
+### Interpolation
+Some strings will contain variables between brackets: `%{some_variable}`. Those variable names should not be translated:
+```json
+// in fr.json
+{
+  "greetings": "Salut %{name} !"
+}
+```
+
+### Pluralization
+A value can have different cases depending on a number, that will be passed in place of `%{smart_count}`. The different cases must be separated by `||||`. The number of cases will then depend on the language:
+
+In languages such as English, there are only two plural forms: singular and not-singular.
+```json
+// in en.json
+{
+  "books_count": "%{smart_count} book |||| %{smart_count} books"
+}
+```
+In other languages such as Czech, there might be more cases:
+```json
+// in cz.json
+{
+  "books_count": "%{smart_count} kniha |||| %{smart_count} knihy |||| %{smart_count} knih"
+}
+```
+
+See [Polyglot documentation on pluralization](https://airbnb.io/polyglot.js/#pluralization)
