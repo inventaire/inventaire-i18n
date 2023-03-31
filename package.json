@@ -2,7 +2,7 @@
   "name": "inventaire-i18n",
   "type": "module",
   "version": "1.0.0",
-  "description": "repository hosting inventaire i18n strings and scripts",
+  "description": "Repository hosting inventaire i18n strings and scripts",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -10,11 +10,9 @@
   "scripts": {
     "build": "./scripts/build/build",
     "build-components": "./scripts/build/build_components",
-    "checkout-master": "git checkout ./dist && git checkout master",
     "git-pre-commit": "./scripts/pull_weblate_commits",
     "fetch-translations": "./scripts/fetch/fetch_translations",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "update-dist": "./scripts/update_dist",
     "update-stats": "./scripts/stats/update_language_stats.js"
   },
   "keywords": [],

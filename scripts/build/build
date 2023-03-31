@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -eu
 
+rm -rf ./dist
+
 echo 'build commponents'
 ./scripts/build/build_components
 

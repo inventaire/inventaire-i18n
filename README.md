@@ -1,63 +1,29 @@
 # inventaire-i18n
-[i18n](https://en.wikipedia.org/wiki/I18n) files for Inventaire:
-* client: `dist/client`
-* server: `dist/server`
 
+This repository bundles together translations (a.k.a. [i18n](https://en.wikipedia.org/wiki/I18n) strings) from the [Inventaire Weblate project](https://weblate.framasoft.org/engage/inventaire/), as well as some [Wikidata](https://wikidata.org) properties, into JSON files that are then consumed by the [server](https://github.com/inventaire/inventaire) and [client](https://github.com/inventaire/inventaire-client).
 
-## install
-### development
+## Development
+### Install
 ```sh
 git clone https://github.com/inventaire/inventaire-i18n
 cd inventaire-i18n
 npm install
-# Customize ./config/local.coffee Transifex username and password to be able to fetch
-# translated strings
+# This will fetch the latest commits from Weblate, as well as strings from Wikidata.
+# Those updated Wikidata strings can then be commited.
 npm run fetch-translations
 npm run build
 ```
 
-If you dont want to fetch translations, you can use the `dist` branch locally : simply copy paste the translated files into the `public` folder :
-
+## Production
+### Install
 ```sh
-git checkout dist
-cd client
-mkdir public/i18n
-cp inventaire-i18n/dist/client/* ./public/i18n
+git clone https://github.com/inventaire/inventaire-i18n
+cd inventaire-i18n
+npm install --production
+npm run build
 ```
-
-### production
-Building requires to
-* set a username and password in `./config/local.coffee` to be authentified on Transifex
-* make a SPARQL request per translated languages to get the list of properties
-
-To prevent having to pass by those in production, the [`dist` branch](https://github.com/inventaire/inventaire-i18n/tree/dist) provides builds ready for production
+### Pull latest translations
 ```sh
-# Use dist files updated
-git clone https://github.com/inventaire/inventaire-i18n --branch dist
+git pull origin master
+npm run build
 ```
-
-## fetch
-Refresh `./translations` by fetching the latest translations from [Inventaire Transifex project](https://www.transifex.com/inventaire/inventaire) and [Wikidata](https://wikidata.org)
-```sh
-npm run fetch-translations
-```
-Wikidata properties aren't refreshed if a file already exist as it can take a while to fetch, but a refresh can be forced by deleting the current files:
-```sh
-rm ./translations/wikidata/*.json
-npm run fetch-translations
-```
-
-## build
-Populates `./dist/client` and `./dist/server` with the previously fetched resources
-```sh
-npm run build-client
-npm run build-server
-```
-
-Built values are tailored to work with [Polyglot](http://airbnb.io/polyglot.js/)
-
-## push
-To make the translations available to the server and the client:
-* Commit on the `master` branch
-* Run `npm run update-dist` to update the `dist` branch and make the built files available to the server and client
-* In the server or client repo, run `npm run update-i18n` to fetch the latest dist files
