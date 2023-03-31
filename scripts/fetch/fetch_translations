@@ -4,11 +4,8 @@ set -eu
 log_green(){ echo -e "\e[0;32m${@}\e[0;30m" ; }
 log_blue(){ echo -e "\e[0;34m${@}\e[0;30m" ; }
 
-log_blue "setup weblate remote"
-git remote show weblate > /dev/null || git remote add weblate https://weblate.framasoft.org/git/inventaire/server/
-
 log_blue "pull weblate commits"
-git pull weblate master
+./scripts/pull_weblate_commits
 
 log_blue "fetch wikidata translations"
 ./scripts/fetch/fetch_wikidata_translations
