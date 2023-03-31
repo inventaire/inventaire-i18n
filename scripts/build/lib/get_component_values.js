@@ -1,10 +1,11 @@
-const convertMarkdown = require('./convert_markdown')
+import { convertMarkdown } from '#scripts/build/lib/convert_markdown'
+import { readSrcFile } from '#scripts/utils'
 
-module.exports = ({ component, lang }) => {
-  const enValues = require('../../../src/server/en.json')
+export async function getComponentValues ({ component, lang }) {
+  const enValues = await readSrcFile(`${component}/en.json`)
   let langValues = {}
   if (lang !== 'en') {
-    langValues = require(`../../../src/${component}/${lang}.json`)
+    langValues = await readSrcFile(`${component}/${lang}.json`)
   }
   const distValues = {}
 

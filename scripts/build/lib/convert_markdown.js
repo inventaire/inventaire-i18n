@@ -1,4 +1,4 @@
-const linkify = require('./linkify')
+import { linkify } from '#scripts/build/lib/linkify'
 
 const convertMarkdownBoldAndItalic = text => {
   return text?.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
@@ -23,4 +23,6 @@ const convertMarkdownLinks = text => {
 // used by String::replace to pass text -> $1 and url -> $2 values
 const dynamicLink = linkify('$1', '$2')
 
-module.exports = text => convertMarkdownLinks(convertMarkdownBoldAndItalic(text))
+export function convertMarkdown (text) {
+  return convertMarkdownLinks(convertMarkdownBoldAndItalic(text))
+}

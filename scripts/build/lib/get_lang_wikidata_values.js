@@ -1,13 +1,15 @@
 
-const enValues = require('../../../src/wikidata/en.json')
-const { getComponentWikidataPropertiesIds } = require('../../utils')
+import { getComponentWikidataPropertiesIds } from '#scripts/utils'
+import { readSrcFile } from '#scripts/utils'
+
+const enValues = await readSrcFile(`wikidata/en.json`)
 const propertiesLists = {
-  server: getComponentWikidataPropertiesIds('server'),
-  client: getComponentWikidataPropertiesIds('client'),
+  server: await getComponentWikidataPropertiesIds('server'),
+  client: await getComponentWikidataPropertiesIds('client'),
 }
 
-module.exports = ({ component, lang }) => {
-  const langValues = require(`../../../src/wikidata/${lang}.json`)
+export async function getLangWikidataValues ({ component, lang }) {
+  const langValues = await readSrcFile(`wikidata/${lang}.json`)
 
   const distValues = {}
   const propertiesList = propertiesLists[component]

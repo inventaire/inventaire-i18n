@@ -1,26 +1,26 @@
-const weblateComponents = [ 'server', 'client' ]
+import { readSrcFile } from '#scripts/utils'
 
-module.exports = lang => {
-  const translatedResourcesCount = getResourcesTranslatedCount(lang)
-  const wikidataTranslatedPropertiesCount = countTranslatedWikidataProperties(lang)
+export async function getLangKeysCount (lang) {
+  const translatedResourcesCount = await getResourcesTranslatedCount(lang)
+  const wikidataTranslatedPropertiesCount = await countTranslatedWikidataProperties(lang)
   return translatedResourcesCount + wikidataTranslatedPropertiesCount
 }
 
-const getResourcesTranslatedCount = lang => {
-  return weblateComponents
-  .map(getCount(lang))
-  .reduce(sum, 0)
+async function getResourcesTranslatedCount (lang) {
+  const [ serverValuesCount, clientValuesCount ] = await Promise.all([
+    getCount('server', lang),
+    getCount('client', lang),
+  ])
+  return serverValuesCount + clientValuesCount
 }
 
-const getCount = lang => component => {
-  const data = require(`../../../src/${component}/${lang}.json`)
+async function getCount (component, lang) {
+  const data = await readSrcFile(`${component}/${lang}.json`)
   return nonEmptyStringValuesCount(data)
 }
 
-const sum = (total, next) => total + next
-
-const countTranslatedWikidataProperties = lang => {
-  const data = require(`../../../src/wikidata/${lang}.json`)
+async function countTranslatedWikidataProperties (lang) {
+  const data = await readSrcFile(`wikidata/${lang}.json`)
   return nonEmptyStringValuesCount(data)
 }
 

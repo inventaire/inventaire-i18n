@@ -4,7 +4,9 @@ const specialCaseRegions = {
   en: 'en_US',
   ja: 'ja_JP',
   no: 'nb_NO',
-  sv: 'sv_SE'
+  sv: 'sv_SE',
 }
 
-module.exports = lang => specialCaseRegions[lang] || `${lang}_${lang.toUpperCase()}`
+export function getLangDefaultRegion (lang) {
+  return specialCaseRegions[lang] || `${lang}_${lang.toUpperCase()}`
+}

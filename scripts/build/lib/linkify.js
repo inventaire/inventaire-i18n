@@ -1,4 +1,4 @@
-module.exports = (text, url) => {
+export function linkify (text, url) {
   const isExternalLink = url[0] !== '/'
   // on rel='noopener' see: https://mathiasbynens.github.io/rel-noopener
   const openOutsideAttributes = isExternalLink ? 'target="_blank" rel="noopener"' : ''

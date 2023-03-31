@@ -5,4 +5,4 @@ echo 'build commponents'
 ./scripts/build/build_components
 
 echo 'update language stats'
-./scripts/stats/update_language_stats
+./scripts/stats/update_language_stats.js

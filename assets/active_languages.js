@@ -1,4 +1,4 @@
-module.exports = [
+export const activeLanguages = [
   'ar',
   'bn',
   'ca',
