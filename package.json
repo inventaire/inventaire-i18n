@@ -12,6 +12,7 @@
     "build-components": "./scripts/build/build_components",
     "git-pre-commit": "./scripts/pull_weblate_commits",
     "fetch-translations": "./scripts/fetch/fetch_translations",
+    "reorder-all-resources": "./scripts/reorder/reorder_all_resources",
     "test": "echo \"Error: no test specified\" && exit 1",
     "update-stats": "./scripts/stats/update_language_stats.js"
   },
@@ -30,6 +31,7 @@
     "#root/*": "./*"
   },
   "devDependencies": {
-    "@vercel/git-hooks": "^1.0.0"
+    "@vercel/git-hooks": "^1.0.0",
+    "json-apply": "^1.0.1"
   }
 }
