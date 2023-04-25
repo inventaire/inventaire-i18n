@@ -34,7 +34,7 @@
   "email_invitation_subject": "%{username} invited you to share your books on Inventaire.io!",
   "email_invitation_user_inventory": "You can already see %{username}'s public books [here](%{pathname}) but you need an account to have access to all the books %{username} wants to share with you.",
   "friend_accepted_request_button": "go to %{username}'s inventory",
-  "friend_accepted_request_subject": "%{username} accepted your request!",
+  "friend_accepted_request_subject": "%{username} accepted your friendship request!",
   "friendship_request_button": "go to %{username}'s inventory to accept the invitation",
   "friendship_request_subject": "%{username} invites you to connect your inventories!",
   "giving_personalized": "%{username} is giving it",
