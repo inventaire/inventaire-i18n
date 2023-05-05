@@ -13,5 +13,5 @@
   "km_away": "%{distance} км звідси",
   "lending_personalized": "%{username} може позичити це",
   "lending_personalized_strong": "**%{username}** може позичити це",
-  "user_news": "Вітання, %{username}!",
+  "user_news": "Вітання, %{username}!"
 }

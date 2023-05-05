@@ -20,5 +20,5 @@
   "news": "أخبار",
   "no_activity": "لا نشاط للعرض",
   "selling_personalized": "يتم بيعه من قبل %{username}",
-  "selling_personalized_strong": "يتم بيعه من قبل **%{username}**",
+  "selling_personalized_strong": "يتم بيعه من قبل **%{username}**"
 }
