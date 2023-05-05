@@ -12,6 +12,7 @@
     "build-components": "./scripts/build/build_components",
     "git-pre-commit": "./scripts/pull_weblate_commits",
     "fetch-translations": "./scripts/fetch/fetch_translations",
+    "remove-matching-keys": "./scripts/maintenance/remove_matching_keys",
     "reorder-all-resources": "./scripts/reorder/reorder_all_resources",
     "test": "echo \"Error: no test specified\" && exit 1",
     "update-stats": "./scripts/stats/update_language_stats.js"
