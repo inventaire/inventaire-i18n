@@ -4,5 +4,5 @@
   "x_minutes_ago": "%{smart_count} λεπτό πριν |||| %{smart_count} λεπτά πριν",
   "x_months_ago": "%{smart_count} μήνας πριν |||| %{smart_count} μήνες πριν",
   "x_seconds_ago": "%{smart_count} δευτερόλεπτα πριν |||| %{smart_count} δευτερόλεπτα πριν",
-  "x_years_ago": "%{smart_count} χρόνος πριν |||| %{smart_count} χρόνια πριν",
+  "x_years_ago": "%{smart_count} χρόνος πριν |||| %{smart_count} χρόνια πριν"
 }

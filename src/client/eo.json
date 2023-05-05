@@ -49,5 +49,5 @@
   "x_minutes_ago": "antaŭ %{smart_count} minuto |||| antaŭ %{smart_count} minutoj",
   "x_months_ago": "antaŭ %{smart_count} monato |||| antaŭ %{smart_count} monatoj",
   "x_seconds_ago": "antaŭ %{smart_count} sekundo |||| antaŭ %{smart_count} sekundoj",
-  "x_years_ago": "antaŭ %{smart_count} jaro |||| antaŭ %{smart_count} jaroj",
+  "x_years_ago": "antaŭ %{smart_count} jaro |||| antaŭ %{smart_count} jaroj"
 }

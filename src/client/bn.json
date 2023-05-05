@@ -130,5 +130,5 @@
   "username or password is incorrect": "ব্যবহারকারী নাম বা পাসওয়ার্ড সঠিক নয়",
   "username_change_confirmation": "আপনার বর্তমান ব্যবহারকারী নাম হল**%{currentUsername}**<br>আপনি কি নিশ্চিত আপনি তা পরিবর্তন করে  **%{requestedUsername}** রাখতে চান?",
   "validate": "নিশ্চিত করুন",
-  "yes": "হ্যাঁ",
+  "yes": "হ্যাঁ"
 }

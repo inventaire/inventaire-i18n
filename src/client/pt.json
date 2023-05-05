@@ -7,5 +7,5 @@
   "x_minutes_ago": "há %{smart_count} minuto |||| há %{smart_count} minutos",
   "x_months_ago": "há %{smart_count} mês |||| há %{smart_count} meses",
   "x_seconds_ago": "há %{smart_count} segundos |||| há %{smart_count} segundos",
-  "x_years_ago": "há %{smart_count} ano |||| há %{smart_count} anos",
+  "x_years_ago": "há %{smart_count} ano |||| há %{smart_count} anos"
 }
