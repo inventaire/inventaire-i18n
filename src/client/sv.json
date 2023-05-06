@@ -594,7 +594,7 @@
   "no value": "inget värde",
   "no_transaction": "Inget i denna kategori",
   "non-monetary donations": "icke-monetära donationer",
-  "non_monetary_donations": "Det största och enkaste du kan bidra med är att **hjälpa andra hitta projektet**: [bjud in dina vänner att dela sina bokskatter](/network/users/invite), sprid ord om projektet över internet, skriv ett blogginlägg eller en instruktionsartikel … var kreativ!<br>Men det finns också [andra sätt att bidra](https://trello.com/c/VIkw1d8q)",
+  "non_monetary_donations": "Det största och enklaste du kan bidra med är att **hjälpa andra hitta projektet**: [bjud in dina vänner att dela sina bokskatter](/network/users/invite), sprid ord om projektet över internet, skriv ett blogginlägg eller en instruktionsartikel … var kreativ!<br>Men det finns också [andra sätt att bidra](https://trello.com/c/VIkw1d8q)",
   "not found": "hittades ej",
   "not_imported_books": "importen var ofullständig. Följande böcker har inte importerats: %{failedImports}",
   "notes": "anteckningar",
