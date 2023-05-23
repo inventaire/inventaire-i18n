@@ -1,5 +1,6 @@
 {
   "Ctrl+Enter to send": "Ctrl+Enter per enviar",
+  "Friends & Groups": "Amics i Grups",
   "I can lend it": "Puc deixar-lo",
   "I have it and it's available for:": "El tinc i està disponible per:",
   "I'm giving it": "El dono",
@@ -141,7 +142,6 @@
   "friend_accepted_request": "%{username} ha acceptat la teva petició",
   "friend_accepted_request_notification": "un amic ha acceptat la teva petició",
   "friends": "amics",
-  "friends & groups": "amics i grups",
   "friends and groups": "amics i grups",
   "friends requests": "peticions dels amics",
   "from": "de",
