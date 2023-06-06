@@ -33,7 +33,7 @@
   "email_invitation_subject": "%{username} hat Dich eingeladen, Deine Bücher auf Inventaire.io zu teilen!",
   "email_invitation_user_inventory": "Du kannst jetzt schon die öffentlichen Bücher von %{username} [hier anschauen](%{pathname}), aber du benötigst einen Account um alle freigegebenen Bücher von %{username} zu sehen.",
   "friend_accepted_request_button": "Gehe zu %{username}s Inventar.",
-  "friend_accepted_request_subject": "%{username} hat Deine Anfrage angenommen!",
+  "friend_accepted_request_subject": "%{username} hat Deine Freundschaftsanfrage angenommen!",
   "friendship_request_button": "Gehe zu  %{username}'s Inventar um die Einladung anzunehmen",
   "friendship_request_subject": "%{username} lädt Dich ein, Eure Inventare zu verbinden!",
   "giving_personalized": "%{username} verschenkt es",
