@@ -48,6 +48,7 @@
   "lending_personalized": "%{username} може позичити це",
   "lending_personalized_strong": "**%{username}** може позичити це",
   "news": "новини",
+  "no_activity": "немає діяльності для показу",
   "publisher_has_new_edition": "До [%{objectLabel}](%{objectUrl}) віднесено нову редакцію: [%{subjectLabel}](%{subjectUrl})",
   "reset_password_button": "Скинути пароль",
   "reset_password_subject": "Скинути пароль до Inventaire",
