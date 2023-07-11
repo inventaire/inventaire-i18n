@@ -169,7 +169,7 @@
   "all": "Alle",
   "all languages": "alle Sprachen",
   "all publishers": "alle Verlage",
-  "all_editions_count": "Es gibt %{smart_count} Ausgabe dieses Werks |||| Es gibt %{smart_count} Ausgaben dieses Werks",
+  "all_editions_count": "Es gibt %{smart_count} Ausgabe dieses Werkes |||| Es gibt %{smart_count} Ausgaben dieses Werkes",
   "allow": "Erlauben",
   "and of what can be done with them:": "und sage Anderen, was sie damit machen können:",
   "any year": "beliebiges Jahr",
