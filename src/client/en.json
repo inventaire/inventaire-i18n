@@ -1,4 +1,5 @@
 {
+  "\"%{name}\" is already the group name": "\"%{name}\" is already the group name",
   "A collection or an edition from this publisher is missing in the common database?": "A collection or an edition from this publisher is missing in the common database?",
   "A series or a work by this author is missing in the common database?": "A series or a work by this author is missing in the common database?",
   "A shelf name is required": "A shelf name is required",
@@ -43,6 +44,7 @@
   "Go to the author's page": "Go to the author's page",
   "Go to the edition's page": "Go to the edition's page",
   "Go to the work's page": "Go to the work's page",
+  "Group picture": "Group picture",
   "Hide non-selected shelves": "Hide non-selected shelves",
   "I can lend it": "I can lend it",
   "I have it and it's available for:": "I have it and it's available for:",
