@@ -1,4 +1,5 @@
 {
+  "\"%{name}\" is already the group name": "”%{name}” finns redan i gruppnamnet",
   "A collection or an edition from this publisher is missing in the common database?": "Saknas en samling eller utgåva från det här förlaget i den gemensamma databasen?",
   "A series or a work by this author is missing in the common database?": "Saknas något av författarens verk eller serier i den gemensamma databasen?",
   "A shelf name is required": "Hyllan måste ha ett namn",
@@ -41,6 +42,7 @@
   "Go to the author's page": "Gå till författarens sida",
   "Go to the edition's page": "Gå till utgåvans sida",
   "Go to the work's page": "Gå till verkets sida",
+  "Group picture": "Gruppbild",
   "Hide non-selected shelves": "Dölj omarkerade hyllor",
   "I can lend it": "Jag kan låna ut den",
   "I have it and it's available for:": "Jag har den och vill göra följande med den:",
