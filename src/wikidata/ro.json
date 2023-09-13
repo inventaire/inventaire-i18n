@@ -13,7 +13,6 @@
   "P112": "fondator",
   "P127": "proprietar",
   "P135": "curent",
-  "P136": "gen",
   "P144": "bazat pe",
   "P155": "precedat(ă) de",
   "P156": "succedat(ă) de",
@@ -25,6 +24,7 @@
   "P214": "identificator VIAF",
   "P227": "identificator GND",
   "P243": "OCLC",
+  "P244": "identificator LCCN",
   "P268": "identificator BNF",
   "P269": "identificator idRef",
   "P349": "identificator NDL",
@@ -53,6 +53,7 @@
   "P1085": null,
   "P1104": "număr de pagini",
   "P1143": null,
+  "P1144": "LCCN",
   "P1182": null,
   "P1274": "Titlu ID la ISFDB",
   "P1292": null,
@@ -88,5 +89,8 @@
   "P5491": null,
   "P5571": null,
   "P6338": null,
-  "P7400": null
+  "P7400": null,
+  "P7823": null,
+  "P8063": null,
+  "P8383": null
 }

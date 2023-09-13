@@ -13,7 +13,6 @@
   "P112": "pendiri",
   "P127": "dimiliki oleh",
   "P135": "aliran",
-  "P136": "genre",
   "P144": "berdasarkan pada",
   "P155": "didahului oleh",
   "P156": "dilanjutkan oleh",
@@ -25,6 +24,7 @@
   "P214": "penanda VIAF",
   "P227": "penanda GND",
   "P243": "penanda OCLC",
+  "P244": "ID otoritas Perpustakaan Kongres Amerika Serikat",
   "P268": "ID BnF",
   "P269": "penanda idRef",
   "P349": "penanda otoritas NDL",
@@ -53,6 +53,7 @@
   "P1085": null,
   "P1104": "jumlah halaman",
   "P1143": null,
+  "P1144": null,
   "P1182": null,
   "P1274": null,
   "P1292": null,
@@ -88,5 +89,8 @@
   "P5491": null,
   "P5571": null,
   "P6338": "penatawarna",
-  "P7400": null
+  "P7400": null,
+  "P7823": null,
+  "P8063": null,
+  "P8383": "ID karya Goodreads"
 }

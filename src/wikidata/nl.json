@@ -13,7 +13,6 @@
   "P112": "opgericht door",
   "P127": "eigendom van",
   "P135": "stroming",
-  "P136": "genre",
   "P144": "gebaseerd op",
   "P155": "vorige",
   "P156": "volgende",
@@ -25,6 +24,7 @@
   "P214": "VIAF-identificatiecode",
   "P227": "GND-identificatiecode",
   "P243": "OCLC-identificatiecode",
+  "P244": "LCAuth-identificatiecode",
   "P268": "BnF-identificatiecode",
   "P269": "idRef-identificatiecode",
   "P349": "NDL-identificatiecode",
@@ -53,6 +53,7 @@
   "P1085": "LibraryThing-identificatiecode voor werk",
   "P1104": "aantal pagina's",
   "P1143": "BN-identificatiecode",
+  "P1144": "LCOC LCCN-identificatiecode (bibliografisch)",
   "P1182": "LIBRIS-identificatiecode",
   "P1274": "ISFDB-identificatiecode voor werk",
   "P1292": "DNB-identificatiecode voor editie",
@@ -88,5 +89,8 @@
   "P5491": "BD Gest'-identificatiecode voor auteur",
   "P5571": "NooSFere-identificatiecode voor boek",
   "P6338": "colorist",
-  "P7400": "LibraryThing-identificatiecode voor auteur"
+  "P7400": "LibraryThing-identificatiecode voor auteur",
+  "P7823": "BookBrainz-identificatiecode voor werk",
+  "P8063": "BookBrainz-identificatiecode voor uitgever",
+  "P8383": "Goodreads-identificatiecode voor werk"
 }

@@ -13,7 +13,6 @@
   "P112": "fundador",
   "P127": "proprietário",
   "P135": "movimento",
-  "P136": "género",
   "P144": "baseado em",
   "P155": "precedido por",
   "P156": "sucedido por",
@@ -25,6 +24,7 @@
   "P214": "identificador VIAF",
   "P227": "identificador GND",
   "P243": "número de controle da Online Computer Library Center",
+  "P244": "número de controlo da Biblioteca do Congresso",
   "P268": "identificador BnF",
   "P269": "identificador idRef",
   "P349": "identificador da Biblioteca Nacional da Dieta",
@@ -53,6 +53,7 @@
   "P1085": "identificador de obra LibraryThing",
   "P1104": "número de páginas",
   "P1143": null,
+  "P1144": "número de controlo da Biblioteca do Congresso (EUA)",
   "P1182": null,
   "P1274": null,
   "P1292": null,
@@ -88,5 +89,8 @@
   "P5491": null,
   "P5571": null,
   "P6338": null,
-  "P7400": null
+  "P7400": null,
+  "P7823": null,
+  "P8063": null,
+  "P8383": "identificador Goodreads da obra"
 }

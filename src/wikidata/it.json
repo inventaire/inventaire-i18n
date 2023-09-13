@@ -13,7 +13,6 @@
   "P112": "fondatore",
   "P127": "proprietario",
   "P135": "movimento",
-  "P136": "genere",
   "P144": "basato su",
   "P155": "preceduto da",
   "P156": "seguito da",
@@ -25,6 +24,7 @@
   "P214": "identificativo VIAF",
   "P227": "identificativo GND",
   "P243": "identificativo OCLC",
+  "P244": "identificativo della Biblioteca del Congresso",
   "P268": "identificativo BNF",
   "P269": "identificativo idRef",
   "P349": "identificativo NDL",
@@ -39,7 +39,7 @@
   "P674": "personaggi",
   "P675": "identificativo Google Books",
   "P737": "influenzato da",
-  "P747": "edito in",
+  "P747": "edizioni o traduzioni",
   "P840": "ambientazione geografica",
   "P856": "sito web ufficiale",
   "P906": "identificativo SELIBR",
@@ -53,6 +53,7 @@
   "P1085": "identificativo LibraryThing",
   "P1104": "numero di pagine",
   "P1143": "identificativo BN (Argentina)",
+  "P1144": "LCCN (bibliografica)",
   "P1182": "identificativo LIBRIS di un'edizione",
   "P1274": "identificativo ISFDB di un titolo",
   "P1292": "identificativo DNB di un'edizione",
@@ -88,5 +89,8 @@
   "P5491": "identificativo BD Gest'",
   "P5571": "identificativo NooSFere di un libro",
   "P6338": "colorista",
-  "P7400": "identificativo LibraryThing di un autore"
+  "P7400": "identificativo LibraryThing di un autore",
+  "P7823": null,
+  "P8063": null,
+  "P8383": "identificativo Goodreads di un'opera"
 }

@@ -13,7 +13,6 @@
   "P112": "kurucu",
   "P127": "sahibi",
   "P135": "akımı",
-  "P136": "türü",
   "P144": "uyarlandığı eser",
   "P155": "öncesinde",
   "P156": "sonrasında",
@@ -25,6 +24,7 @@
   "P214": "VIAF kimliği",
   "P227": "GND kimliği",
   "P243": "OCLC kontrol numarası",
+  "P244": "ABD Kongre Kütüphanesi yetki kimliği",
   "P268": "BNF kimliği",
   "P269": "idRef yetkili kimliği",
   "P349": "Japonya Ulusal Diet Kütüphanesi kimliği",
@@ -53,6 +53,7 @@
   "P1085": "LibraryThing eser kimliği",
   "P1104": "sayfa sayısı",
   "P1143": "BNA sürüm kimliği",
+  "P1144": "ABD Kongre Kontrol Numarası Kütüphanesi (LCCN) (bibliyografik)",
   "P1182": "LIBRIS sürümleri",
   "P1274": "Internet Spekülatif Kurgu Veritabanı başlık kimliği",
   "P1292": "DNB sürümleri",
@@ -66,7 +67,7 @@
   "P1982": "Anime News Network kişi kimliği",
   "P1983": "Anime News Network şirket kimliği",
   "P1984": "Anime News Network manga kimliği",
-  "P2002": "Twitter kullanıcı adı",
+  "P2002": "X kullanıcı adı",
   "P2003": "Instagram kullanıcı adı",
   "P2013": "Facebook kimliği",
   "P2397": "YouTube kanal kimliği",
@@ -88,5 +89,8 @@
   "P5491": "BD Gest' yazar kimliği",
   "P5571": "NooSFere kitap kimliği",
   "P6338": "renk uzmanı",
-  "P7400": "LibraryThing yazar kimliği"
+  "P7400": "LibraryThing yazar kimliği",
+  "P7823": null,
+  "P8063": null,
+  "P8383": "Goodreads eser kimliği"
 }

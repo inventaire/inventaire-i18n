@@ -13,7 +13,6 @@
   "P112": "zakladatel",
   "P127": "vlastník",
   "P135": "umělecký směr",
-  "P136": "žánr",
   "P144": "podle",
   "P155": "předchozí",
   "P156": "následující",
@@ -25,6 +24,7 @@
   "P214": "VIAF",
   "P227": "identifikátor GND",
   "P243": "kontrolní číslo OCLC",
+  "P244": "identifikátor LCAuth",
   "P268": "BNF ID",
   "P269": "IdRef ID",
   "P349": "NDL",
@@ -53,6 +53,7 @@
   "P1085": null,
   "P1104": "počet stran",
   "P1143": null,
+  "P1144": "ID v databázi Library of Congress (LCCN)",
   "P1182": null,
   "P1274": null,
   "P1292": "kód DNB",
@@ -88,5 +89,8 @@
   "P5491": null,
   "P5571": null,
   "P6338": "kolorista",
-  "P7400": null
+  "P7400": null,
+  "P7823": null,
+  "P8063": null,
+  "P8383": null
 }

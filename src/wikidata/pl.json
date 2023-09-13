@@ -4,7 +4,7 @@
   "P27": "obywatelstwo",
   "P31": "jest to",
   "P39": "funkcja",
-  "P50": "napisane przez",
+  "P50": "autor(ka)",
   "P58": "scenarzysta",
   "P69": "uczył się w",
   "P103": "język ojczysty",
@@ -13,7 +13,6 @@
   "P112": "założyciel",
   "P127": "właściciel",
   "P135": "prąd",
-  "P136": "gatunek",
   "P144": "na podstawie",
   "P155": "poprzednik",
   "P156": "następca",
@@ -25,6 +24,7 @@
   "P214": "identyfikator VIAF",
   "P227": "identyfikator GND",
   "P243": "OCLC",
+  "P244": "identyfikator LCCN",
   "P268": "identyfikator BnF",
   "P269": "identyfikator idRef",
   "P349": "identyfikator NDL",
@@ -53,6 +53,7 @@
   "P1085": "identyfikator LibraryThing",
   "P1104": "liczba stron",
   "P1143": "identyfikator BN (Argentyna)",
+  "P1144": "identyfikator bibliograficzny Biblioteki Kongresu",
   "P1182": null,
   "P1274": "identyfikator tytułu ISFDB",
   "P1292": "identyfikator DNB",
@@ -88,5 +89,8 @@
   "P5491": "identyfikator autora BD Gest'",
   "P5571": null,
   "P6338": null,
-  "P7400": null
+  "P7400": null,
+  "P7823": null,
+  "P8063": null,
+  "P8383": "identyfikator dzieła Goodreads"
 }

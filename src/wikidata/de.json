@@ -13,7 +13,6 @@
   "P112": "Gründer",
   "P127": "Eigentümer",
   "P135": "Stilrichtung",
-  "P136": "Genre",
   "P144": "basiert auf",
   "P155": "Vorgänger",
   "P156": "Nachfolger",
@@ -25,6 +24,7 @@
   "P214": "VIAF-Kennung",
   "P227": "GND-Kennung",
   "P243": "OCLC-Kennung",
+  "P244": "LCAuth-Kennung",
   "P268": "BnF-Kennung",
   "P269": "IdRef-Normdatenkennung",
   "P349": "NDL-Kennung",
@@ -53,6 +53,7 @@
   "P1085": "LibraryThing-Werk-ID",
   "P1104": "Anzahl der Seiten",
   "P1143": "BNA-Editionen",
+  "P1144": "Library of Congress bibliographische ID",
   "P1182": "LIBRIS-Editionen",
   "P1274": "ISFDB-Titelkennung",
   "P1292": "DNB-Editionen-ID",
@@ -84,9 +85,12 @@
   "P4285": "Theses.fr Personen ID",
   "P5199": null,
   "P5331": "OCLC-Werkkennung",
-  "P5361": "BNB-Personenkennung",
+  "P5361": "BNB-Personenkennung (eingestellt)",
   "P5491": "BD Gest' Autoren ID",
   "P5571": "NooSFere Buch ID",
   "P6338": "Colorist",
-  "P7400": "LibraryThing-Autorenkennung"
+  "P7400": "LibraryThing-Autorenkennung",
+  "P7823": "BookBrainz-Werk-ID",
+  "P8063": "BookBrainz-Verlags-ID",
+  "P8383": "Goodreads-Werk-ID"
 }

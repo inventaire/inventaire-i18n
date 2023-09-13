@@ -13,7 +13,6 @@
   "P112": "grundlægger",
   "P127": "ejet af",
   "P135": "bevægelse",
-  "P136": "genre",
   "P144": "baseret på",
   "P155": "forrige",
   "P156": "næste",
@@ -25,6 +24,7 @@
   "P214": "VIAF",
   "P227": "GND-identifikator",
   "P243": "OCLC",
+  "P244": "LCAuth",
   "P268": "BNF",
   "P269": "idRef-ID",
   "P349": "NDL-nummer",
@@ -53,6 +53,7 @@
   "P1085": "LibraryThing-værk-ID",
   "P1104": "sideantal",
   "P1143": null,
+  "P1144": "LCOC LCCN",
   "P1182": null,
   "P1274": null,
   "P1292": null,
@@ -66,7 +67,7 @@
   "P1982": "Anime News Network person-ID",
   "P1983": null,
   "P1984": "Anime News Network manga ID",
-  "P2002": "Twitter-konto",
+  "P2002": "X-konto",
   "P2003": "Instagram-konto",
   "P2013": "Facebook-ID",
   "P2397": "YouTube-kanal-ID",
@@ -88,5 +89,8 @@
   "P5491": "BD Gest' forfatter-ID",
   "P5571": null,
   "P6338": null,
-  "P7400": null
+  "P7400": null,
+  "P7823": null,
+  "P8063": null,
+  "P8383": null
 }

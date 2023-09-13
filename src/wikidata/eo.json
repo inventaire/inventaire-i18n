@@ -13,7 +13,6 @@
   "P112": "fondinto",
   "P127": "posedanto",
   "P135": "movado",
-  "P136": "ĝenro",
   "P144": "surbaze de",
   "P155": "antaŭulo",
   "P156": "sekvulo",
@@ -25,6 +24,7 @@
   "P214": "VIAF (internacia) identigilo",
   "P227": "GND-identigilo (Germanio)",
   "P243": "OCLC-numero en WorldCat",
+  "P244": "LCCN (Usono) identigilo",
   "P268": "BNF (Francio) identigilo",
   "P269": "idRef (Francio) identigilo",
   "P349": "NDL-identigilo (Japanio)",
@@ -53,6 +53,7 @@
   "P1085": "LibraryThing-a verkonumero",
   "P1104": "nombro de paĝoj",
   "P1143": null,
+  "P1144": null,
   "P1182": null,
   "P1274": "numero de titolo ĉe ISFDB",
   "P1292": null,
@@ -88,5 +89,8 @@
   "P5491": null,
   "P5571": "numero de libro en NooSFere",
   "P6338": null,
-  "P7400": "LibraryThing identigilo de aŭtoro"
+  "P7400": "LibraryThing identigilo de aŭtoro",
+  "P7823": "BookBrainz-a verkonumero",
+  "P8063": "BookBrainz-a eldonejonumero",
+  "P8383": "Goodreads-a verkonumero"
 }
