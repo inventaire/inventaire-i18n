@@ -92,5 +92,8 @@
   "P7400": "identificador LibraryThing de un autor",
   "P7823": null,
   "P8063": "identificador BookBrainz de editorial",
-  "P8383": "identificador Goodreads de obra"
+  "P8383": "identificador Goodreads de obra",
+  "P9191": "letrista",
+  "P10836": "entintador",
+  "P10837": "dibujante"
 }

@@ -92,5 +92,8 @@
   "P7400": "LibraryThing-Autorenkennung",
   "P7823": "BookBrainz-Werk-ID",
   "P8063": "BookBrainz-Verlags-ID",
-  "P8383": "Goodreads-Werk-ID"
+  "P8383": "Goodreads-Werk-ID",
+  "P9191": "Letterer",
+  "P10836": "Inker",
+  "P10837": "Comiczeichner"
 }

@@ -39,7 +39,7 @@
   "P674": "szereplők",
   "P675": "Google Könyvek-azonosító",
   "P737": "hatással volt rá",
-  "P747": "kiadás",
+  "P747": "kiadása/fordítása",
   "P840": "cselekmény helyszíne",
   "P856": "hivatalos weboldal",
   "P906": "SELIBR",
@@ -50,7 +50,7 @@
   "P1025": null,
   "P1044": null,
   "P1066": "tanár",
-  "P1085": "LibraryThing munkaazonosító",
+  "P1085": "LibraryThing-műazonosító",
   "P1104": "oldalak száma",
   "P1143": null,
   "P1144": "LCOC LCCN",
@@ -92,5 +92,8 @@
   "P7400": null,
   "P7823": null,
   "P8063": null,
-  "P8383": "Goodreads-műazonosító"
+  "P8383": "Goodreads-műazonosító",
+  "P9191": null,
+  "P10836": null,
+  "P10837": null
 }

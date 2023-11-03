@@ -88,9 +88,12 @@
   "P5361": null,
   "P5491": null,
   "P5571": "numero de libro en NooSFere",
-  "P6338": null,
+  "P6338": "kolorigisto",
   "P7400": "LibraryThing identigilo de aŭtoro",
   "P7823": "BookBrainz-a verkonumero",
   "P8063": "BookBrainz-a eldonejonumero",
-  "P8383": "Goodreads-a verkonumero"
+  "P8383": "Goodreads-a verkonumero",
+  "P9191": null,
+  "P10836": null,
+  "P10837": null
 }

@@ -92,5 +92,8 @@
   "P7400": "LibraryThing-identificatiecode voor auteur",
   "P7823": "BookBrainz-identificatiecode voor werk",
   "P8063": "BookBrainz-identificatiecode voor uitgever",
-  "P8383": "Goodreads-identificatiecode voor werk"
+  "P8383": "Goodreads-identificatiecode voor werk",
+  "P9191": "beletteraar",
+  "P10836": "inkter",
+  "P10837": "stripschetser"
 }

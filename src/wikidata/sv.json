@@ -87,10 +87,13 @@
   "P5331": "verk-ID på OCLC",
   "P5361": "British National Bibliography person-ID",
   "P5491": "BD Gest' author-ID",
-  "P5571": "bok-ID på NooSFere",
+  "P5571": "bok-ID på Noosfere",
   "P6338": "färgläggare",
   "P7400": "författar-ID på LibraryThing",
   "P7823": "BookBrainz verk-ID",
   "P8063": null,
-  "P8383": "verk-ID på Goodreads"
+  "P8383": "verk-ID på Goodreads",
+  "P9191": null,
+  "P10836": null,
+  "P10837": null
 }

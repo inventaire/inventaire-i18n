@@ -39,7 +39,7 @@
   "P674": "personaggi",
   "P675": "identificativo Google Books",
   "P737": "influenzato da",
-  "P747": "edizioni o traduzioni",
+  "P747": "edizione o traduzione",
   "P840": "ambientazione geografica",
   "P856": "sito web ufficiale",
   "P906": "identificativo SELIBR",
@@ -92,5 +92,8 @@
   "P7400": "identificativo LibraryThing di un autore",
   "P7823": null,
   "P8063": null,
-  "P8383": "identificativo Goodreads di un'opera"
+  "P8383": "identificativo Goodreads di un'opera",
+  "P9191": "letterista",
+  "P10836": "inchiostratore",
+  "P10837": "illustratore di fumetti"
 }

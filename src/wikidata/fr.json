@@ -2,7 +2,7 @@
   "P17": "pays",
   "P18": "image",
   "P27": "pays de citoyenneté",
-  "P31": "nature de l'élément",
+  "P31": "nature de l’élément",
   "P39": "fonction",
   "P50": "auteur ou autrice",
   "P58": "scénariste",
@@ -92,5 +92,8 @@
   "P7400": "identifiant LibraryThing d'un auteur",
   "P7823": "identifiant BookBrainz d'une œuvre",
   "P8063": "identifiant BookBrainz d'un éditeur",
-  "P8383": "identifiant Goodreads d'une œuvre"
+  "P8383": "identifiant Goodreads d'une œuvre",
+  "P9191": "lettreur ou lettreuse",
+  "P10836": "encreur ou encreuse",
+  "P10837": "dessinateur ou dessinatrice"
 }
