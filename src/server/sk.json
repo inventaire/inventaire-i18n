@@ -1,3 +1,22 @@
 {
-  "P407": "jazyk"
+  "P123": "vydavateľstvo",
+  "P136": "žáner",
+  "P407": "jazyk",
+  "P577": "dátum vydania",
+  "P629": "vydanie",
+  "P921": "hlavná téma",
+  "accepted_timeline_action": "%{username} prijal vašu požiadavku",
+  "active_transactions_count": "máte **%{smart_count}** [prebiehajúcu transakciu](%{href}) |||| máte **%{smart_count}** [prebiehajúcich transakcií](%{href})",
+  "activity summary": "súhrn aktivít",
+  "activity_summary_meta": "Zhrnutia vašich aktivít sa zasielajú pravidelne každých %{periodicity} dní. Frekvenciu zasielania môžete zmeniť alebo zasielanie týchto e-mailov úplne zrušiť vo vašom [e-mailovom nastavení](%{settingsHref}). Ak by ste chceli čokoľvek pridať do týchto sumárnych zhrnutí, môžete vaše návrhy zaslať v odpovedi na tento e-mail",
+  "activity_summary_title": "Váš súhrn aktivít",
+  "and_x_more_books_to_inventory": "o [%{itemsLength} viac](%{link})",
+  "author_has_new_work": "Nové dielo bolo pridané do [%{objectLabel}](%{objectUrl}): [%{subjectLabel}](%{subjectUrl})",
+  "cancelled_timeline_action": "%{username} zrušil transakciu",
+  "collection_has_new_edition": "Nové vydanie bolo pridané do [%{objectLabel}](%{objectUrl}): [%{subjectLabel}](%{subjectUrl})",
+  "confirmed_timeline_action": "%{username} potvrdil prijatie knihy",
+  "create_items_activity": "Nová kniha",
+  "declined_timeline_action": "%{username} zamietol vašu žiadosť",
+  "did you know?": "vedeli ste?",
+  "did_you_know_1": "Ak vaši priatelia nie sú ešte na inventaire.io, môžete ich [pozvať e-mailom](https://inventaire.io/network/users/invite) na zdieľanie vašich knižníc!"
 }
