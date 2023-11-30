@@ -24,7 +24,7 @@ npm run build
 ```
 ### Pull latest translations
 ```sh
-git pull origin master
+git pull origin main
 npm run build
 ```
 
