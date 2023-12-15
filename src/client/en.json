@@ -135,6 +135,7 @@
   "The group description can not be longer than 5000 characters": "The group description can not be longer than 5000 characters",
   "The group name can not be longer than 80 characters": "The group name can not be longer than 80 characters",
   "There is nothing here": "There is nothing here",
+  "This person already has that role": "This person already has that role",
   "Too many entities requested (%{entitiesCount}). Only %{limit} are displayed.": "Too many entities requested (%{entitiesCount}). Only %{limit} are displayed.",
   "View book": "View book",
   "Visible by": "Visible by",
