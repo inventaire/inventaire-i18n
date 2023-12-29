@@ -1,4 +1,12 @@
 {
+  "\"%{name}\" is already the group name": "\"%{name}\" είναι ήδη το όνομα της ομάδας σας",
+  "A collection or an edition from this publisher is missing in the common database?": "Μια συλλογή ή μια έκδοση από αυτόν τον εκδότη λείπει από τη κοινή βάση δεδομένων;",
+  "A series or a work by this author is missing in the common database?": "Μια σειρά ή ένα έργο αυτού του συγγραφέα λείπει από τη κοινή βάση δεδομένων;",
+  "A shelf name is required": "Απαιτείται όνομα ραφιού",
+  "A work of this series is missing in the common database?": "Ένα έργο αυτής της σειράς λείπει από τη κοινή βάση δεδομένων;",
+  "API": "ΔΠΕ (API)",
+  "P123": "εκδότης",
+  "P136": "είδος",
   "x_days_ago": "%{smart_count} μέρα πριν |||| %{smart_count} μέρες πριν",
   "x_hours_ago": "%{smart_count} ώρα πριν |||| %{smart_count} ώρες πριν",
   "x_minutes_ago": "%{smart_count} λεπτό πριν |||| %{smart_count} λεπτά πριν",
