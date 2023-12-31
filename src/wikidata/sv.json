@@ -20,7 +20,7 @@
   "P179": "serie",
   "P195": "samling",
   "P212": "ISBN-13",
-  "P213": "ISNI",
+  "P213": "ISNI-ID",
   "P214": "VIAF-ID",
   "P227": "Deutsche Nationalbibliotheks katalog-id-nummer",
   "P243": "OCLC-kontrollnummer",
@@ -70,7 +70,8 @@
   "P2002": "Twitterkonto",
   "P2003": "Instagramkonto",
   "P2013": "Facebookkonto",
-  "P2397": "kanal-id på YouTube",
+  "P2397": "YouTube kanal-id",
+  "P2607": "BookBrainz författar-ID",
   "P2679": "författare till förord",
   "P2680": "författare till efterord",
   "P2963": "författar-id på Goodreads",
@@ -93,7 +94,7 @@
   "P7823": "BookBrainz verk-ID",
   "P8063": null,
   "P8383": "verk-ID på Goodreads",
-  "P9191": null,
-  "P10836": null,
+  "P9191": "serietextare",
+  "P10836": "rentecknare",
   "P10837": null
 }
