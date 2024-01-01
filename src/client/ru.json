@@ -169,8 +169,6 @@
   "delete_account_confirmation": "Вы уверены, что хотите удалить аккаунт \"**%{username}**\"?",
   "delete_item_confirmation": "Вы точно хотите удалить **%{title}** из вашей описи?",
   "description": "описание",
-  "destroy group": "расформировать группу",
-  "destroy_group_confirmation": "Вы уверены, что хотите закрыть группу **%{groupName}**?",
   "details": "подробности",
   "discard friend request": "отклонить запрос на добавление в друзья",
   "discard user's request to join the group": "отклонить запрос пользователя на присоединение к группе",

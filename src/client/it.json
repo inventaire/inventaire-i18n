@@ -226,8 +226,6 @@
   "deleted": "eliminato",
   "deleted user": "utente eliminato",
   "description": "descrizione",
-  "destroy group": "distruggi il gruppo",
-  "destroy_group_confirmation": "Sei sicuro di voler eliminare il gruppo **%{groupName}**?",
   "details": "dettagli",
   "details_placeholder": "Potresti volere aggiungere qualche dettaglio sugli oggetti o sulla transazione",
   "discard friend request": "abbandona la richiesta di contatto",

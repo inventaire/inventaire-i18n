@@ -125,8 +125,6 @@
   "delete your account": "verwijder je account",
   "delete_account_confirmation": "Ben je zeker dat je di account wil verwijderen, \"**%{username}**\"?",
   "description": "beschrijving",
-  "destroy group": "groep verwijderen",
-  "destroy_group_confirmation": "ben je zeker dat je de groep  **%{groupName}** wil vernietigen?",
   "details": "details",
   "details_placeholder": "je zou wat meer details kunnen geven over het werk of de transactie",
   "discard friend request": "vriendschapsverzoek negeren",

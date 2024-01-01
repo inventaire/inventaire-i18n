@@ -108,8 +108,6 @@
   "delete your account": "hesabınızı silin",
   "delete_account_confirmation": "\"**%{username}**\" hesabınızı silmek istediğinizden emin misiniz?",
   "description": "açıklamalar",
-  "destroy group": "grubu sil",
-  "destroy_group_confirmation": "**%{groupName}** grubunu silmek istediğinizden emin misiniz?",
   "details": "detaylar",
   "details_placeholder": "öğe veya işlem hakkında daha fazla ayrıntı vermek isteyebilirsiniz",
   "discard friend request": "arkadaşlık isteğini sil",

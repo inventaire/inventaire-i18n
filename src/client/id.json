@@ -166,8 +166,6 @@
   "delete_item_confirmation": "Apakah anda yakin ingin menghapus **%{title}** dari inventori anda?",
   "delete_items_confirmation": "Apakah anda yakin ingin menghapus **%{amount}** buku terpilih dari inventori anda?",
   "description": "deskripsi",
-  "destroy group": "bubarkan grup",
-  "destroy_group_confirmation": "Apakah anda yakin mau membubarkan grup **%{groupName}**?",
   "details": "rincian",
   "details_placeholder": "anda mungkin ingin memberikan rincian terhadap barang atau transaksi",
   "discard friend request": "hapus permintaan pertemanan",

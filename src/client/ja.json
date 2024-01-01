@@ -108,8 +108,6 @@
   "delete your account": "あなたのアカウントを削除",
   "delete_account_confirmation": "本当にあなたのアカウント\"**%{username}**\"を削除しますか？",
   "description": "説明",
-  "destroy group": "グループを削除",
-  "destroy_group_confirmation": "本当にグループ **%{groupName}**を削除しても良いですか？",
   "details": "詳細",
   "details_placeholder": "アイテムや取引についてより詳細に説明したい場合に記述",
   "discard friend request": "友達リクエストを無視",

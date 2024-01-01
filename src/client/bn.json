@@ -309,8 +309,6 @@
   "deleted": "মুছে ফেলা হয়েছে",
   "deleted user": "মুছিত ব্যবহারকারী",
   "description": "বিবরণ",
-  "destroy group": "গোষ্ঠীটিকে নষ্ট করুন",
-  "destroy_group_confirmation": "আপনি কি নিশ্চিত যে আপনি **%{groupName}** গ্রুপটি ধ্বংস(নষ্ট) করতে চান?",
   "details": "বিস্তারিত",
   "details_placeholder": "আপনি আইটেম বা লেনদেন সম্পর্কে আরো বিস্তারিত দিতে চাইতে পারেন",
   "discard friend request": "বন্ধুর অনুরোধ বাতিল করুন",

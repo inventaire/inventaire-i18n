@@ -7,7 +7,6 @@
   "delete_account_confirmation": "Ĉu vi certas ke vi volas forigi la konton \"**%{username}**\"?",
   "delete_item_confirmation": "Ĉu vi certas ke vi volas forigi **%{title}** de via stoko?",
   "delete_items_confirmation": "Ĉu vi certas ke vi volas forigi tiujn **%{amount}** elektajn librojn de via stoko?",
-  "destroy_group_confirmation": "Ĉu vi certas ke vi volas forigi la grupon **%{groupName}**?",
   "details_placeholder": "pli da detalojn pri la datumero aŭ la interŝanĝo?",
   "display_mode": "montra modo",
   "edit_entity": "redakti \"%{entity}\"",

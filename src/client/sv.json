@@ -339,8 +339,6 @@
   "deleted": "raderad",
   "deleted user": "raderad användare",
   "description": "beskrivning",
-  "destroy group": "radera grupp",
-  "destroy_group_confirmation": "Vill du verkligen upplösa gruppen **%{groupName}**?",
   "details": "detaljer",
   "details_placeholder": "du kanske vill ge mer detaljer om artikeln eller transaktionen",
   "discard friend request": "ta bort vänförfrågan",

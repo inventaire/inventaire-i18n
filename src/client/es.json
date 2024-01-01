@@ -190,8 +190,6 @@
   "delete_list_confirmation": "¿Tienes claro que quieres eliminar la lista \"**%{name}**\"?",
   "delete_shelf_confirmation": "¿Tienes claro que quieres eliminar la estantería \"**%{name}**\"?",
   "description": "descripción",
-  "destroy group": "disolver el grupo",
-  "destroy_group_confirmation": "¿Está seguro de querer destruir el grupo **%{groupName}**?",
   "details": "detalles",
   "details_placeholder": "Tal vez quiera dar más detalles sobre el ítem o la transacción",
   "discard friend request": "rechazar petición de amistad",

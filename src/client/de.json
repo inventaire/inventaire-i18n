@@ -323,8 +323,6 @@
   "deleted": "gelöscht",
   "deleted user": "gelöschter User",
   "description": "Beschreibung",
-  "destroy group": "Gruppe löschen",
-  "destroy_group_confirmation": "Bist Du sicher, dass Du die Gruppe **%{groupName}** zerstören willst?",
   "details": "Details",
   "details_placeholder": "Weitere Details zum Eintrag oder der Transaktion",
   "discard friend request": "Freundschaftsanfrage löschen",

@@ -95,8 +95,6 @@
   "delete_item_confirmation": "Esteu segur que voleu suprimir **%{title}** de l'inventari?",
   "delete_items_confirmation": "Esteu segur que voleu suprimir els **%{amount}** llibres seleccionats de l'inventari?",
   "description": "descripció",
-  "destroy group": "destrueix el grup",
-  "destroy_group_confirmation": "Estàs segur que vols destruir el grup **%{groupName}**?",
   "details": "detalls",
   "details_placeholder": "potser vols afegir més detalls a l'ítem o a la transacció",
   "discard friend request": "descarta petició d'amistat",

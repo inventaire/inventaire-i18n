@@ -259,8 +259,6 @@
   "deleted": "видалено",
   "deleted user": "видалений користувач",
   "description": "опис",
-  "destroy group": "розформувати групу",
-  "destroy_group_confirmation": "Ви точно хочете закрити групу **%{groupName}**?",
   "details": "подробиці",
   "details_placeholder": "ви можете додати більше подробиць про екземпляр чи операцію",
   "discard friend request": "відкинути запит на дружбу",

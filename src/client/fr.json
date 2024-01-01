@@ -338,8 +338,6 @@
   "deleted": "supprimé",
   "deleted user": "utilisateur supprimé",
   "description": "description",
-  "destroy group": "supprimer le groupe",
-  "destroy_group_confirmation": "Êtes vous sûr de vouloir détruire le groupe **%{groupName}** ?",
   "details": "détails",
   "details_placeholder": "des informations à donner sur l'objet ou la transaction ?",
   "discard friend request": "décliner la demande d'ajout en ami⋅e",

@@ -170,8 +170,6 @@
   "delete_item_confirmation": "تأكيد إزالة **%{title}** من مخزونك؟",
   "delete_items_confirmation": "تأكيد إزالة كل الـ **%{amount}** المُختارة من الكتب من مخزونك؟",
   "description": "وصف",
-  "destroy group": "تدمير المجموعة",
-  "destroy_group_confirmation": "تأكيد تدمير مجموعة  **%{groupName}**؟",
   "details": "التفاصيل",
   "details_placeholder": "لربما تريد/ين إعطاء المزيد من التفاصيل حول العنصر أو المعاملة",
   "discard friend request": "نبذ (تجاهل) طلب الصداقة",
