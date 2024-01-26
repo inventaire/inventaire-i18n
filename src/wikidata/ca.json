@@ -95,7 +95,10 @@
   "P7823": "identificador BookBrainz d'obra",
   "P8063": "identificador BookBrainz d'editorial",
   "P8383": "identificador Goodreads d'obra",
+  "P8513": "identificador LibraryThing de sèrie",
   "P9191": "lletrista",
   "P10836": "entintador",
-  "P10837": "dibuixant"
+  "P10837": "dibuixant",
+  "P12048": "identificador BookBrainz de sèrie",
+  "P12319": "identificador Babelio de sèrie"
 }

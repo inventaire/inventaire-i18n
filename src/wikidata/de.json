@@ -95,7 +95,10 @@
   "P7823": "BookBrainz-Werk-ID",
   "P8063": "BookBrainz-Verlags-ID",
   "P8383": "Goodreads-Werkkennung",
+  "P8513": "LibraryThing Reihe-ID",
   "P9191": "Letterer",
   "P10836": "Inker",
-  "P10837": "Comiczeichner"
+  "P10837": "Comiczeichner",
+  "P12048": "BookBrainz Reihen-ID",
+  "P12319": null
 }

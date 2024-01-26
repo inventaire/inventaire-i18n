@@ -95,7 +95,10 @@
   "P7823": "BookBrainz verk-ID",
   "P8063": null,
   "P8383": "Goodreads verk-ID",
+  "P8513": "LibraryThing serie-ID",
   "P9191": "serietextare",
   "P10836": "rentecknare",
-  "P10837": null
+  "P10837": null,
+  "P12048": "BookBrainz serie-ID",
+  "P12319": "Babelio serie-ID"
 }

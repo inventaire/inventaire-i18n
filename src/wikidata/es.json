@@ -95,7 +95,10 @@
   "P7823": null,
   "P8063": "identificador BookBrainz de editorial",
   "P8383": "identificador Goodreads de obra",
+  "P8513": null,
   "P9191": "letrista",
   "P10836": "entintador",
-  "P10837": "dibujante"
+  "P10837": "dibujante",
+  "P12048": null,
+  "P12319": null
 }

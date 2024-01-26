@@ -95,7 +95,10 @@
   "P7823": "identifiant BookBrainz d'une œuvre",
   "P8063": "identifiant BookBrainz d'un éditeur",
   "P8383": "identifiant Goodreads d'une œuvre",
+  "P8513": "identifiant LibraryThing d'une série",
   "P9191": "lettreur ou lettreuse",
   "P10836": "encreur ou encreuse",
-  "P10837": "dessinateur ou dessinatrice"
+  "P10837": "dessinateur ou dessinatrice",
+  "P12048": null,
+  "P12319": "Babelio serial ID"
 }
