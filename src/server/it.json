@@ -1,6 +1,7 @@
 {
   "P123": "editore",
   "P136": "genere",
+  "P1412": "lingua di espressione",
   "P407": "lingua",
   "P577": "data di pubblicazione",
   "P629": "edizione di",
@@ -33,7 +34,7 @@
   "email_invitation_subject": "%{username} ti ha invitato a condividere i tuoi libri su Inventaire.io!",
   "email_invitation_user_inventory": "Puoi già vedere i libri pubblici di %{username} [qui](%{pathname}) ma hai bisogno di un account per aver accesso a tutti i libri che %{username} vuole condividere con te.",
   "friend_accepted_request_button": "vai all'inventario di %{username}",
-  "friend_accepted_request_subject": "%{username} ha accettato la tua richiesta!",
+  "friend_accepted_request_subject": "%{username} ha accettato la tua richiesta di amicizia!",
   "friendship_request_button": "vai all'inventario di %{username} per accettare l'invito",
   "friendship_request_subject": "%{username} ti ha invitato a connettere i tuoi inventari!",
   "giving_personalized": "%{username} lo sta dando",
