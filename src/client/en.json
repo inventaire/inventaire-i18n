@@ -971,6 +971,7 @@
   "works_based_on_work": "Works based on %{name}",
   "works_in_this_genre": "Works in the genre %{name}",
   "works_inspired_by_work": "Works inspired by %{name}",
+  "works_replying_to_work": "Works written in response to this work",
   "wrong password": "wrong password",
   "x_days_ago": "%{smart_count} day ago |||| %{smart_count} days ago",
   "x_hours_ago": "%{smart_count} hour ago |||| %{smart_count} hours ago",
