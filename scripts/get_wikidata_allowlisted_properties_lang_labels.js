@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 import { writeFile } from 'node:fs/promises'
-import fetch from 'node-fetch'
 import { green } from 'tiny-chalk'
 import wdk from 'wikibase-sdk/wikidata.org'
 import { uniq, sortPropertiesByNumericId, getComponentWikidataPropertiesIds } from '#scripts/utils'
