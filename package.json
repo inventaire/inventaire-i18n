@@ -10,7 +10,6 @@
   "scripts": {
     "build": "./scripts/build/build",
     "build-components": "./scripts/build/build_components",
-    "git-pre-commit": "./scripts/pull_weblate_commits",
     "fetch-translations": "./scripts/fetch/fetch_translations",
     "find-duplicated-keys": "./scripts/maintenance/find_duplicated_keys",
     "remove-matching-keys": "./scripts/maintenance/remove_matching_keys",
@@ -33,7 +32,6 @@
     "#root/*": "./*"
   },
   "devDependencies": {
-    "@vercel/git-hooks": "^1.0.0",
     "json-apply": "^1.0.1"
   }
 }
