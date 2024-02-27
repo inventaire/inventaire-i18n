@@ -1,1 +1,1 @@
-export * from './assets/active_languages'
+export * from './assets/active_languages.js'
