@@ -4,9 +4,14 @@
   "version": "1.0.0",
   "description": "Repository hosting inventaire i18n strings and scripts",
   "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "files": [
+    "assets",
+    "dist",
+    "README.md",
+    "scripts",
+    "src",
+    "translations"
+  ],
   "scripts": {
     "build": "./scripts/build/build",
     "build-components": "./scripts/build/build_components",
