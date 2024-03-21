@@ -101,5 +101,6 @@
   "P10836": "Inker",
   "P10837": "Comiczeichner",
   "P12048": "BookBrainz Reihen-ID",
-  "P12319": null
+  "P12319": null,
+  "P12351": "BookBrainz Editions-ID"
 }

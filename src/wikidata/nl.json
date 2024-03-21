@@ -39,7 +39,7 @@
   "P674": "personage",
   "P675": "Google Books-identificatiecode",
   "P737": "beïnvloed door",
-  "P747": "editie",
+  "P747": "heeft editie",
   "P840": "locatie van verhaal",
   "P856": "officiële website",
   "P906": "SELIBR-identificatiecode",
@@ -101,5 +101,6 @@
   "P10836": "inkter",
   "P10837": "stripschetser",
   "P12048": "BookBrainz-identificatiecode voor serie",
-  "P12319": "Babelio-identificatiecode voor serie"
+  "P12319": "Babelio-identificatiecode voor serie",
+  "P12351": "BookBrainz-identificatiecode voor editie"
 }

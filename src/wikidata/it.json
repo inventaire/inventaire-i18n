@@ -67,7 +67,7 @@
   "P1982": "identificativo Anime News Network di una persona",
   "P1983": "identificativo Anime News Network di un'azienda",
   "P1984": "identificativo Anime News Network di un manga",
-  "P2002": "nome utente Twitter",
+  "P2002": "nome utente X",
   "P2003": "nome utente Instagram",
   "P2013": "identificativo Facebook",
   "P2397": "identificativo YouTube di un canale",
@@ -101,5 +101,6 @@
   "P10836": "inchiostratore",
   "P10837": "illustratore di fumetti",
   "P12048": null,
-  "P12319": null
+  "P12319": null,
+  "P12351": null
 }

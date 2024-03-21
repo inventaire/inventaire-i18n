@@ -101,5 +101,6 @@
   "P10836": "encreur ou encreuse",
   "P10837": "dessinateur ou dessinatrice",
   "P12048": null,
-  "P12319": "Babelio serial ID"
+  "P12319": "identifiant Babelio d'une série",
+  "P12351": null
 }

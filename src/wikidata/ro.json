@@ -39,7 +39,7 @@
   "P674": "personaje",
   "P675": null,
   "P737": "influențe",
-  "P747": null,
+  "P747": "are ediție sau traducere",
   "P840": "locul acțiunii",
   "P856": "site oficial",
   "P906": "identificator SELIBR",
@@ -101,5 +101,6 @@
   "P10836": null,
   "P10837": null,
   "P12048": null,
-  "P12319": null
+  "P12319": null,
+  "P12351": null
 }

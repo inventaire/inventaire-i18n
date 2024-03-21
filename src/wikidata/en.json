@@ -41,7 +41,7 @@
   "P737": "influenced by",
   "P747": "has edition or translation",
   "P840": "narrative location",
-  "P856": "official website URL",
+  "P856": "official website",
   "P906": "SELIBR ID",
   "P941": "inspired by",
   "P950": "National Library of Spain ID",
@@ -101,5 +101,6 @@
   "P10836": "inker",
   "P10837": "penciller",
   "P12048": "BookBrainz series ID",
-  "P12319": "Babelio series ID"
+  "P12319": "Babelio series ID",
+  "P12351": "BookBrainz edition ID"
 }
