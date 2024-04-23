@@ -1,2 +1,20 @@
 {
+  "Add this work to your inventory or to a list": "Adaugă aceasă lucrare inventarului tau , sau într-o lista",
+  "Friends & Groups": "Prieteni și Grupuri",
+  "Inventory": "Inventar",
+  "You already have this book in your inventory:": "Deja deții această carte în inventarul tău:",
+  "You need to select items to be able to edit the selection": "Trebuie sa selectezi obiecte pentru a le putea edita selecția",
+  "Your inventory": "Inventarul tău",
+  "add to my inventory": "adaugă inventarului meu",
+  "add_item_text": "Adăugând **%{label}** inventarului",
+  "as you are not a member of the group, you can only see members' public books": "Deoarece nu ești un membru al grupului, poți vedea doar cărțile publice ale membrilor",
+  "email will not be publicly displayed.": "Emailul nu va fii arătat public.",
+  "first publication date": "prima data a publicației",
+  "friends and groups": "prietenii și grupuri",
+  "friends and some groups": "Prieteni și câteva grupuri",
+  "your friends": "prietenii tai",
+  "your friends and communities are the best library": "prietenii tai și comunicațiile sunt cea mai buna librărie",
+  "your friends and communities are your best library": "prietenii tai și comunicațiile sunt cea mai buna librărie",
+  "your message": "mesajul tău",
+  "your position isn't set yet": "poziția nu este setată încă"
 }
