@@ -424,6 +424,7 @@
   "public": "Public",
   "publication date": "Dată publicație",
   "publication year": "An de publicație",
+  "published_in": "Ediții publicate în %{name}",
   "return to the author's page": "reveniți la pagina autorului",
   "saving would create a new author": "Salvarea ar crea un autor nou",
   "see profile": "vezi profilul",
