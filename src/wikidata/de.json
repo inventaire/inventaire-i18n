@@ -67,7 +67,7 @@
   "P1982": "Anime News Network Personen-ID",
   "P1983": "Anime News Network Organisationen-ID",
   "P1984": "Anime News Network Manga-ID",
-  "P2002": "Twitter (X)-Benutzername",
+  "P2002": "X-Benutzername",
   "P2003": "Instagram-Benutzername",
   "P2013": "Facebook-Profilkennung",
   "P2397": "YouTube-Kanal-Kennung",
@@ -106,5 +106,6 @@
   "P10837": "Comiczeichner",
   "P12048": "BookBrainz Reihen-ID",
   "P12319": null,
-  "P12351": "BookBrainz Editions-ID"
+  "P12351": "BookBrainz Editions-ID",
+  "P12852": null
 }

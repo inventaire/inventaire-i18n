@@ -106,5 +106,6 @@
   "P10837": "penciller",
   "P12048": "BookBrainz series ID",
   "P12319": "Babelio series ID",
-  "P12351": "BookBrainz edition ID"
+  "P12351": "BookBrainz edition ID",
+  "P12852": "NooSFere publisher ID"
 }

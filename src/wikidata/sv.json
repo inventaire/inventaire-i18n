@@ -20,7 +20,7 @@
   "P179": "serie",
   "P195": "samling",
   "P212": "ISBN-13",
-  "P213": "ISNI-ID",
+  "P213": "ISNI",
   "P214": "VIAF-ID",
   "P227": "Deutsche Nationalbibliotheks katalog-id-nummer",
   "P243": "OCLC-kontrollnummer",
@@ -106,5 +106,6 @@
   "P10837": "serietecknare",
   "P12048": "BookBrainz serie-ID",
   "P12319": "Babelio serie-ID",
-  "P12351": null
+  "P12351": null,
+  "P12852": null
 }

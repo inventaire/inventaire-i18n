@@ -69,7 +69,7 @@
   "P1984": null,
   "P2002": "Twitter-brukernavn",
   "P2003": "Instagram-konto",
-  "P2013": "Facebook-ID",
+  "P2013": "Facebook brukernavn",
   "P2397": "YouTube-kanal-ID",
   "P2607": "BookBrainz forfatter-ID",
   "P2675": "tilsvar på",
@@ -93,10 +93,10 @@
   "P5571": null,
   "P5792": "NooSFere serie-ID",
   "P6221": null,
-  "P6338": null,
+  "P6338": "kolorist",
   "P6901": null,
   "P6947": "Goodreads serie-ID",
-  "P7400": null,
+  "P7400": "LibraryThing forfatter-ID",
   "P7823": null,
   "P8063": null,
   "P8383": null,
@@ -106,5 +106,6 @@
   "P10837": null,
   "P12048": null,
   "P12319": null,
-  "P12351": null
+  "P12351": null,
+  "P12852": null
 }

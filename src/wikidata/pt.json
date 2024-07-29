@@ -67,7 +67,7 @@
   "P1982": null,
   "P1983": null,
   "P1984": null,
-  "P2002": "nome do perfil no Twitter",
+  "P2002": "nome do perfil no X",
   "P2003": "nome do perfil no Instagram",
   "P2013": "identificador no Facebook",
   "P2397": "identificador de canal do YouTube",
@@ -88,7 +88,7 @@
   "P5199": null,
   "P5331": "identificador OCLC da obra",
   "P5361": null,
-  "P5491": null,
+  "P5491": "identificador BD Gest' de autor",
   "P5570": null,
   "P5571": null,
   "P5792": null,
@@ -106,5 +106,6 @@
   "P10837": "desenhista",
   "P12048": null,
   "P12319": null,
-  "P12351": null
+  "P12351": null,
+  "P12852": null
 }

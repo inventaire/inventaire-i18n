@@ -54,7 +54,7 @@
   "P1104": "nombre de pages",
   "P1143": "identifiant BN (Argentine)",
   "P1144": "LoC éditions",
-  "P1182": "identifiant LIBRIS",
+  "P1182": "identifiant LIBRIS édition",
   "P1274": "identifiant ISFDB d'un titre",
   "P1292": "identifiant DNB (éditions)",
   "P1412": "langues parlées, écrites ou signées",
@@ -106,5 +106,6 @@
   "P10837": "dessinateur ou dessinatrice",
   "P12048": null,
   "P12319": "identifiant Babelio d'une série",
-  "P12351": null
+  "P12351": null,
+  "P12852": "identifiant d'une maison d'édition sur NooSFere"
 }

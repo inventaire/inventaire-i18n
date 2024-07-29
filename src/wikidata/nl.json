@@ -106,5 +106,6 @@
   "P10837": "stripschetser",
   "P12048": "BookBrainz-identificatiecode voor serie",
   "P12319": "Babelio-identificatiecode voor serie",
-  "P12351": "BookBrainz-identificatiecode voor editie"
+  "P12351": "BookBrainz-identificatiecode voor editie",
+  "P12852": "NooSFere-identificatiecode voor uitgever"
 }

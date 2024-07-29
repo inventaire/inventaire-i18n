@@ -18,7 +18,7 @@
   "P156": "következő",
   "P166": "elnyert díj",
   "P179": "sorozat, amelynek része",
-  "P195": "gyűjtemény",
+  "P195": "gyűjtemény, ahol található",
   "P212": "ISBN-13",
   "P213": "ISNI",
   "P214": "VIAF-azonosító",
@@ -47,7 +47,7 @@
   "P950": "BNE-azonosító",
   "P957": "ISBN-10",
   "P1006": "NTA-azonosító",
-  "P1025": null,
+  "P1025": "SUDOC-azonosító",
   "P1044": null,
   "P1066": "tanár",
   "P1085": "LibraryThing-műazonosító",
@@ -56,7 +56,7 @@
   "P1144": "LCOC LCCN",
   "P1182": "LIBRIS kiadások",
   "P1274": "ISFDB-műazonosító",
-  "P1292": null,
+  "P1292": "DNB-kiadásazonosító",
   "P1412": "beszélt nyelvek",
   "P1433": "mű, amelyben megjelent",
   "P1545": "sorszám",
@@ -78,7 +78,7 @@
   "P2963": "GoodReads-szerzőazonosító",
   "P2969": "GoodReads-könyvazonosító",
   "P3035": "kiadó ISBN-előtagja",
-  "P3184": null,
+  "P3184": "Cseh Nemzeti Bibliográfia-azonosító",
   "P3630": "Babelio-szerzőazonosító",
   "P3631": "Babelio-műazonosító",
   "P4033": "Mastodon-cím",
@@ -106,5 +106,6 @@
   "P10837": null,
   "P12048": null,
   "P12319": null,
-  "P12351": null
+  "P12351": null,
+  "P12852": null
 }

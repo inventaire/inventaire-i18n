@@ -7,7 +7,7 @@
   "P50": "autor",
   "P58": "guionista",
   "P69": "formació a",
-  "P103": "llengua materna",
+  "P103": "llengua inicial",
   "P106": "ocupació",
   "P110": "il·lustrador",
   "P112": "fundador",
@@ -52,7 +52,7 @@
   "P1066": "professors",
   "P1085": "identificador LibraryThing",
   "P1104": "nombre de pàgines",
-  "P1143": "identificador BN (Argentina)",
+  "P1143": "identificador BNMM d'edició",
   "P1144": "edicions LoC",
   "P1182": "identificador LIBRIS",
   "P1274": "identificador ISFDB de títol",
@@ -106,5 +106,6 @@
   "P10837": "dibuixant",
   "P12048": "identificador BookBrainz de sèrie",
   "P12319": "identificador Babelio de sèrie",
-  "P12351": "identificador BookBrainz d'edició"
+  "P12351": "identificador BookBrainz d'edició",
+  "P12852": "identificador NooSFere d'editorial"
 }
