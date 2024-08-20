@@ -94,6 +94,7 @@
   "P5792": "identificador NooSFere de sèrie",
   "P6221": "identificador NooSFere d'història",
   "P6338": "acoloridor",
+  "P6634": "identificador LinkedIn de perfil personal",
   "P6901": "identificador NooSFere d'edició",
   "P6947": "identificador Goodreads de sèrie",
   "P7400": "identificador LibraryThing d'autor",
@@ -104,8 +105,10 @@
   "P9191": "lletrista",
   "P10836": "entintador",
   "P10837": "dibuixant",
+  "P11892": "nom d'usuari de Threads",
   "P12048": "identificador BookBrainz de sèrie",
   "P12319": "identificador Babelio de sèrie",
   "P12351": "identificador BookBrainz d'edició",
+  "P12361": "nom d'usuari de Bluesky",
   "P12852": "identificador NooSFere d'editorial"
 }

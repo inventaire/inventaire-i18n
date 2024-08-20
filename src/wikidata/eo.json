@@ -94,6 +94,7 @@
   "P5792": "numero de serio en NooSFere",
   "P6221": "numero de rakonto en NooSFere",
   "P6338": "kolorigisto",
+  "P6634": null,
   "P6901": "numero de eldono en NooSFere",
   "P6947": "numero de serio ĉe Goodreads",
   "P7400": "LibraryThing identigilo de aŭtoro",
@@ -104,8 +105,10 @@
   "P9191": null,
   "P10836": null,
   "P10837": null,
+  "P11892": "Threads-uzantonomo",
   "P12048": null,
   "P12319": null,
   "P12351": null,
+  "P12361": null,
   "P12852": null
 }

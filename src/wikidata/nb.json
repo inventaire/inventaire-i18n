@@ -94,6 +94,7 @@
   "P5792": "NooSFere serie-ID",
   "P6221": null,
   "P6338": "kolorist",
+  "P6634": "LinkedIn personlig profil-ID",
   "P6901": null,
   "P6947": "Goodreads serie-ID",
   "P7400": "LibraryThing forfatter-ID",
@@ -104,8 +105,10 @@
   "P9191": null,
   "P10836": null,
   "P10837": null,
+  "P11892": "Threads-brukernavn",
   "P12048": null,
   "P12319": null,
   "P12351": null,
+  "P12361": "Bluesky-brukernavn",
   "P12852": null
 }

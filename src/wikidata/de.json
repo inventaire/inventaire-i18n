@@ -94,6 +94,7 @@
   "P5792": null,
   "P6221": null,
   "P6338": "Colorist",
+  "P6634": "LinkedIn-Personenkennung",
   "P6901": null,
   "P6947": "Goodreads-Buchreihenkennung",
   "P7400": "LibraryThing-Autorenkennung",
@@ -104,8 +105,10 @@
   "P9191": "Letterer",
   "P10836": "Inker",
   "P10837": "Comiczeichner",
+  "P11892": "Threads-Benutzername",
   "P12048": "BookBrainz Reihen-ID",
   "P12319": null,
   "P12351": "BookBrainz Editions-ID",
+  "P12361": "Bluesky-Benutzername",
   "P12852": null
 }

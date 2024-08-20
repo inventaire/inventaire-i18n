@@ -94,6 +94,7 @@
   "P5792": "NooSFere-identificatiecode voor serie",
   "P6221": "NooSFere-identificatiecode voor verhaal",
   "P6338": "colorist",
+  "P6634": "LinkedIn-identificatiecode voor persoonsprofiel",
   "P6901": "NooSFere-identificatiecode voor editie",
   "P6947": "Goodreads-identificatiecode voor boekenserie",
   "P7400": "LibraryThing-identificatiecode voor auteur",
@@ -104,8 +105,10 @@
   "P9191": "beletteraar",
   "P10836": "inkter",
   "P10837": "stripschetser",
+  "P11892": "Threads-identificatiecode voor gebruikersnaam",
   "P12048": "BookBrainz-identificatiecode voor serie",
   "P12319": "Babelio-identificatiecode voor serie",
   "P12351": "BookBrainz-identificatiecode voor editie",
+  "P12361": "Bluesky-identificatiecode voor gebruikersnaam",
   "P12852": "NooSFere-identificatiecode voor uitgever"
 }

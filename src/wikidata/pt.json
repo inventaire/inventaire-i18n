@@ -94,6 +94,7 @@
   "P5792": null,
   "P6221": null,
   "P6338": null,
+  "P6634": null,
   "P6901": null,
   "P6947": null,
   "P7400": null,
@@ -104,8 +105,10 @@
   "P9191": null,
   "P10836": "arte-finalista",
   "P10837": "desenhista",
+  "P11892": "nome do perfil no Threads",
   "P12048": null,
   "P12319": null,
   "P12351": null,
+  "P12361": null,
   "P12852": null
 }

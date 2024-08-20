@@ -94,6 +94,7 @@
   "P5792": "NooSFere serie-ID",
   "P6221": "NooSFere berättelse-ID",
   "P6338": "färgläggare",
+  "P6634": "LinkedIn person-ID",
   "P6901": "NooSFere utgåva-ID",
   "P6947": "Goodreads serie-ID",
   "P7400": "LibraryThing författar-ID",
@@ -104,8 +105,10 @@
   "P9191": "serietextare",
   "P10836": "rentecknare",
   "P10837": "serietecknare",
+  "P11892": "Threadskonto",
   "P12048": "BookBrainz serie-ID",
   "P12319": "Babelio serie-ID",
   "P12351": null,
+  "P12361": "Blueskyanvändarnamn",
   "P12852": null
 }

@@ -94,6 +94,7 @@
   "P5792": "identificador de serie de NooSFere",
   "P6221": null,
   "P6338": "colorista",
+  "P6634": "Identificador perfil personal en Linkedin",
   "P6901": null,
   "P6947": "identificador Goodreads de serie",
   "P7400": "identificador LibraryThing de un autor",
@@ -104,8 +105,10 @@
   "P9191": "letrista",
   "P10836": "entintador",
   "P10837": "dibujante",
+  "P11892": "nombre de usuario de Threads",
   "P12048": null,
   "P12319": null,
   "P12351": null,
+  "P12361": null,
   "P12852": null
 }

@@ -94,6 +94,7 @@
   "P5792": "identificativo NooSFere di una serie",
   "P6221": null,
   "P6338": "colorista",
+  "P6634": "profilo personale su LinkedIn",
   "P6901": null,
   "P6947": "identificativo Goodreads di una serie",
   "P7400": "identificativo LibraryThing di un autore",
@@ -104,8 +105,10 @@
   "P9191": "letterista",
   "P10836": "inchiostratore",
   "P10837": "illustratore di fumetti",
+  "P11892": "nome utente Threads",
   "P12048": null,
   "P12319": null,
   "P12351": null,
+  "P12361": "handle Bluesky",
   "P12852": null
 }

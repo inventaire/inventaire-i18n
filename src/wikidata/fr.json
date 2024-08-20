@@ -94,6 +94,7 @@
   "P5792": "identifiant NooSFere d'une série",
   "P6221": "identifiant NooSFere d'une œuvre littéraire",
   "P6338": "coloriste",
+  "P6634": "identifiant LinkedIn d'un profil",
   "P6901": "identifiant NooSFere d'une édition",
   "P6947": "identifiant Goodreads d'une série",
   "P7400": "identifiant LibraryThing d'un auteur",
@@ -104,8 +105,10 @@
   "P9191": "lettreur ou lettreuse",
   "P10836": "encreur ou encreuse",
   "P10837": "dessinateur ou dessinatrice",
+  "P11892": "identifiant Threads d'un profil",
   "P12048": null,
   "P12319": "identifiant Babelio d'une série",
   "P12351": null,
+  "P12361": "identifiant Bluesky",
   "P12852": "identifiant d'une maison d'édition sur NooSFere"
 }
