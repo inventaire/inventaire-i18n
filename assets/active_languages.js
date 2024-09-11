@@ -9,6 +9,7 @@ export const activeLanguages = [
   'en',
   'eo',
   'es',
+  'fi',
   'fr',
   'hu',
   'id',
@@ -23,6 +24,7 @@ export const activeLanguages = [
   'ru',
   'sk',
   'sv',
+  'th',
   'tr',
   'uk',
 ]
