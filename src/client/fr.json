@@ -144,7 +144,7 @@
   "The following data is missing on the Wikidata entity, which of those should be imported to Wikidata?": "Ces données manquent sur l'entité Wikidata, lesquelles devraient être importées sur Wikidata ?",
   "The group description can not be longer than 5000 characters": "Le nom du groupe ne peut pas être plus long que 80 caractères",
   "The group name can not be longer than 80 characters": "Le nom du groupe ne peut pas être plus long que 80 caractères",
-  "There is nothing here": "Il n'y a rien à voir ici",
+  "There is nothing here": "Il n'y a rien ici",
   "There should be at least one label": "Il devrait y avoir au moins un libellé",
   "This person already has that role": "Cette personne a déjà ce rôle",
   "Too many entities requested (%{entitiesCount}). Only %{limit} are displayed.": "Trop d'entités demandées (%{entitiesCount}). Seules %{limit} entitées sont affichées.",
