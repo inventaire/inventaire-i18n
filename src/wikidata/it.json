@@ -64,6 +64,7 @@
   "P1412": "lingue parlate o scritte",
   "P1433": "pubblicato in",
   "P1545": "numero d'ordine",
+  "P1581": "blog ufficiale",
   "P1680": "sottotitolo",
   "P1844": "identificativo HathiTrust",
   "P1938": "identificativo Progetto Gutenberg di un autore",
@@ -88,6 +89,7 @@
   "P4084": "identificativo MyAnimeList di una persona",
   "P4087": "identificativo MyAnimeList di un manga",
   "P4285": "identificativo theses.fr",
+  "P4369": "identificativo Cairn di un autore",
   "P5199": "identificativo British Library",
   "P5331": "identificativo OCLC di un'opera",
   "P5361": "identificativo BNB",
@@ -114,5 +116,6 @@
   "P12319": null,
   "P12351": null,
   "P12361": "handle Bluesky",
-  "P12852": null
+  "P12852": null,
+  "P13004": null
 }

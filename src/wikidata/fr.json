@@ -64,6 +64,7 @@
   "P1412": "langues parlées, écrites ou signées",
   "P1433": "publié dans",
   "P1545": "rang dans la série",
+  "P1581": "blog officiel",
   "P1680": "sous-titre",
   "P1844": "identifiant HathiTrust",
   "P1938": "identifiant Projet Gutenberg d'auteur",
@@ -88,6 +89,7 @@
   "P4084": "identifiant MyAnimeList de personne",
   "P4087": "identifiant MyAnimeList d'un manga",
   "P4285": "identifiant theses.fr",
+  "P4369": "identifiant Cairn d'un auteur",
   "P5199": "identifiant British Library",
   "P5331": "identifiant OCLC d'une œuvre",
   "P5361": "identifiant British National Bibliography",
@@ -95,7 +97,7 @@
   "P5570": "identifiant NooSFere d'un auteur",
   "P5571": "identifiant NooSFere d'un livre",
   "P5792": "identifiant NooSFere d'une série",
-  "P6221": "identifiant NooSFere d'une œuvre littéraire",
+  "P6221": "identifiant NooSFere d'une nouvelle",
   "P6338": "coloriste",
   "P6634": "identifiant LinkedIn d'un profil",
   "P6901": "identifiant NooSFere d'une édition",
@@ -114,5 +116,6 @@
   "P12319": "identifiant Babelio d'une série",
   "P12351": null,
   "P12361": "identifiant Bluesky",
-  "P12852": "identifiant d'une maison d'édition sur NooSFere"
+  "P12852": "identifiant d'une maison d'édition sur NooSFere",
+  "P13004": null
 }

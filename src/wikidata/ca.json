@@ -64,6 +64,7 @@
   "P1412": "llengua parlada, escrita o signada",
   "P1433": "publicat a",
   "P1545": "ordre dins la sèrie",
+  "P1581": "blog oficial",
   "P1680": "subtítol",
   "P1844": "identificador HathiTrust",
   "P1938": "identificador Projecte Gutenberg d'autor",
@@ -88,6 +89,7 @@
   "P4084": "identificador MyAnimeList de persona",
   "P4087": "identificador MyAnimeList de manga",
   "P4285": "identificador Theses.fr de persona",
+  "P4369": "identificador Cairn d'autor",
   "P5199": "sistema numèric de la Biblioteca Britànica",
   "P5331": "identificador OCLC d'obra",
   "P5361": "identificador BNB de persona",
@@ -114,5 +116,6 @@
   "P12319": "identificador Babelio de sèrie",
   "P12351": "identificador BookBrainz d'edició",
   "P12361": "nom d'usuari de Bluesky",
-  "P12852": "identificador NooSFere d'editorial"
+  "P12852": "identificador NooSFere d'editorial",
+  "P13004": "identificador NooSFere de col·lecció"
 }

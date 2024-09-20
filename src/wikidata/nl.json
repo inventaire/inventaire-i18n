@@ -64,6 +64,7 @@
   "P1412": "taalbeheersing",
   "P1433": "gepubliceerd in",
   "P1545": "volgnummer",
+  "P1581": "officiële blog",
   "P1680": "ondertitel",
   "P1844": "HathiTrust-identificatiecode",
   "P1938": "Gutenberg-identificatiecode voor auteur",
@@ -88,6 +89,7 @@
   "P4084": "MyAnimeList-identificatiecode voor persoon of groep mensen",
   "P4087": "MyAnimeList-identificatiecode voor manga",
   "P4285": "Theses.fr-identificatiecode voor persoon",
+  "P4369": "Cairn-identificatiecode voor auteur",
   "P5199": "British Library-identificatiecode",
   "P5331": "OCLC-identificatiecode voor werk",
   "P5361": "BNB-identificatiecode voor persoon",
@@ -114,5 +116,6 @@
   "P12319": "Babelio-identificatiecode voor serie",
   "P12351": "BookBrainz-identificatiecode voor editie",
   "P12361": "Bluesky-identificatiecode voor gebruikersnaam",
-  "P12852": "NooSFere-identificatiecode voor uitgever"
+  "P12852": "NooSFere-identificatiecode voor uitgever",
+  "P13004": "NooSFere-identificatiecode voor redactionele collectie"
 }

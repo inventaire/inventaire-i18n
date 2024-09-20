@@ -64,6 +64,7 @@
   "P1412": "línguas faladas, escritas ou assinadas",
   "P1433": "publicado em",
   "P1545": "ordem na série",
+  "P1581": "blogue oficial",
   "P1680": "subtítulo",
   "P1844": "identificador do HathiTrust",
   "P1938": "identificador de autor no Projeto Gutenberg",
@@ -88,6 +89,7 @@
   "P4084": null,
   "P4087": null,
   "P4285": null,
+  "P4369": null,
   "P5199": null,
   "P5331": "identificador OCLC da obra",
   "P5361": null,
@@ -114,5 +116,6 @@
   "P12319": null,
   "P12351": null,
   "P12361": null,
-  "P12852": null
+  "P12852": null,
+  "P13004": null
 }

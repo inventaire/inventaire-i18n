@@ -64,6 +64,7 @@
   "P1412": "ovládané jazyky",
   "P1433": "publikováno v",
   "P1545": "pořadové číslo",
+  "P1581": "oficiální blog",
   "P1680": "podtitul",
   "P1844": null,
   "P1938": "identifikátor autora v projektu Gutenberg",
@@ -88,6 +89,7 @@
   "P4084": "Identifikátor osoby MyAnimeList",
   "P4087": "Identifikátor mangy MyAnimeList",
   "P4285": "Theses.fr ID osoby",
+  "P4369": null,
   "P5199": null,
   "P5331": null,
   "P5361": null,
@@ -114,5 +116,6 @@
   "P12319": null,
   "P12351": null,
   "P12361": null,
-  "P12852": null
+  "P12852": null,
+  "P13004": null
 }

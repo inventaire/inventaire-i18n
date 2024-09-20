@@ -64,6 +64,7 @@
   "P1412": "talte eller skrevne språk",
   "P1433": "publisert i",
   "P1545": "nummer i rekken",
+  "P1581": "offisiell blogg",
   "P1680": "undertittel",
   "P1844": "HathiTrust-ID",
   "P1938": "Prosjekt Gutenberg ID",
@@ -88,6 +89,7 @@
   "P4084": null,
   "P4087": "MyAnimeList-manga-ID",
   "P4285": null,
+  "P4369": null,
   "P5199": "British Librarys systemnummer",
   "P5331": "OCLC verk-ID",
   "P5361": null,
@@ -114,5 +116,6 @@
   "P12319": null,
   "P12351": null,
   "P12361": "Bluesky-brukernavn",
-  "P12852": null
+  "P12852": null,
+  "P13004": null
 }

@@ -64,6 +64,7 @@
   "P1412": "talte sprog",
   "P1433": "udgivet i",
   "P1545": "ordningsnummer",
+  "P1581": "blog",
   "P1680": "undertitel",
   "P1844": null,
   "P1938": "Projekt Gutenberg-forfatter-ID",
@@ -88,6 +89,7 @@
   "P4084": "MyAnimeList persons-id",
   "P4087": "MyAnimeList manga-id",
   "P4285": null,
+  "P4369": null,
   "P5199": null,
   "P5331": "OCLC værk-ID",
   "P5361": "BNB person-ID",
@@ -114,5 +116,6 @@
   "P12319": null,
   "P12351": null,
   "P12361": "Bluesky brugernavn",
-  "P12852": null
+  "P12852": null,
+  "P13004": null
 }

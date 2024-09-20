@@ -64,6 +64,7 @@
   "P1412": "porozumiewa się w języku",
   "P1433": "opublikowano w",
   "P1545": "liczba porządkowa",
+  "P1581": "oficjalny blog",
   "P1680": "podtytuł",
   "P1844": "identyfikator HathiTrust",
   "P1938": "identyfikator w Projekcie Gutenberg",
@@ -88,6 +89,7 @@
   "P4084": "identyfikator osoby w MyAnimeList",
   "P4087": "identyfikator mangi w MyAnimeList",
   "P4285": "identyfikator  osoby w theses.fr",
+  "P4369": "identyfikator osoby w Cairn",
   "P5199": null,
   "P5331": "identyfikator pracy w OCLC",
   "P5361": "identyfikator osoby w BNB",
@@ -114,5 +116,6 @@
   "P12319": null,
   "P12351": null,
   "P12361": null,
-  "P12852": null
+  "P12852": null,
+  "P13004": null
 }

@@ -1,7 +1,7 @@
 {
   "P17": "land",
   "P18": "bild",
-  "P27": "medborgare i",
+  "P27": "nationalitet",
   "P31": "instans av",
   "P39": "befattning",
   "P50": "författare",
@@ -64,6 +64,7 @@
   "P1412": "talade, skrivna eller tecknade språk",
   "P1433": "publicerad i",
   "P1545": "ordningsnummer",
+  "P1581": "blogg",
   "P1680": "undertitel",
   "P1844": "HathiTrust-ID",
   "P1938": "Projekt Gutenberg författar-ID",
@@ -88,6 +89,7 @@
   "P4084": "MyAnimeList person-ID",
   "P4087": "MyAnimeList manga-ID",
   "P4285": "theses.fr person-id",
+  "P4369": null,
   "P5199": "British Librarys systemnummer",
   "P5331": "OCLC verk-ID",
   "P5361": "British National Bibliography person-ID",
@@ -114,5 +116,6 @@
   "P12319": "Babelio serie-ID",
   "P12351": null,
   "P12361": "Blueskyanvändarnamn",
-  "P12852": null
+  "P12852": null,
+  "P13004": null
 }

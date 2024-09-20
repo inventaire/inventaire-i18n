@@ -64,6 +64,7 @@
   "P1412": "konuştuğu, yazdığı diller",
   "P1433": "yayınlandığı",
   "P1545": "sıra numarası",
+  "P1581": "resmî bloğu",
   "P1680": "alt yazı",
   "P1844": "HathiTrust kimliği",
   "P1938": "Gutenberg Projesi yazar kimliği",
@@ -88,6 +89,7 @@
   "P4084": "MyAnimeList kişi kimliği",
   "P4087": "MyAnimeList manga kimliği",
   "P4285": "Theses.fr kişi kimliği",
+  "P4369": "Cairn yazar kimliği",
   "P5199": "İngiliz Kütüphanesi sistem numarası",
   "P5331": "OCLC eser kimliği",
   "P5361": "BNB kişi kimliği",
@@ -114,5 +116,6 @@
   "P12319": null,
   "P12351": null,
   "P12361": null,
-  "P12852": null
+  "P12852": null,
+  "P13004": null
 }

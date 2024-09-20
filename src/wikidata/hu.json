@@ -64,6 +64,7 @@
   "P1412": "beszélt nyelvek",
   "P1433": "mű, amelyben megjelent",
   "P1545": "sorszám",
+  "P1581": "hivatalos blog",
   "P1680": "alcím",
   "P1844": "HathiTrust-azonosító",
   "P1938": "Project Gutenberg-szerzőazonosító",
@@ -88,6 +89,7 @@
   "P4084": null,
   "P4087": null,
   "P4285": null,
+  "P4369": null,
   "P5199": null,
   "P5331": "OCLC-műazonosító",
   "P5361": "BNB-személyazonosító",
@@ -114,5 +116,6 @@
   "P12319": null,
   "P12351": null,
   "P12361": null,
-  "P12852": null
+  "P12852": null,
+  "P13004": null
 }

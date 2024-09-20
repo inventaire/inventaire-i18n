@@ -64,6 +64,7 @@
   "P1412": "gesprochene oder publizierte Sprachen",
   "P1433": "veröffentlicht in",
   "P1545": "Ordnungsnummer",
+  "P1581": "offizielle Blog-URL",
   "P1680": "Untertitel",
   "P1844": "HathiTrust-ID",
   "P1938": "Project-Gutenberg-Autorenkennung",
@@ -88,6 +89,7 @@
   "P4084": "MyAnimeList Personen ID",
   "P4087": "MyAnimeList-Manga-ID",
   "P4285": "Theses.fr Personen ID",
+  "P4369": "CAIRN-ID",
   "P5199": null,
   "P5331": "OCLC-Werkkennung",
   "P5361": "BNB-Personenkennung (eingestellt)",
@@ -114,5 +116,6 @@
   "P12319": null,
   "P12351": "BookBrainz Editions-ID",
   "P12361": "Bluesky-Benutzername",
-  "P12852": "NooSFere Verlags-ID"
+  "P12852": "NooSFere Verlags-ID",
+  "P13004": null
 }
