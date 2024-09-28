@@ -50,7 +50,7 @@
   "group_join_request_button": "%{requesterUsername}'র অনুরোধ গ্রহণ বা প্রত্যাখ্যান করার জন্য গ্রুপ সেটিংয়ে যান।",
   "group_join_request_subject": "%{requesterUsername} %{groupName} গ্রুপে যোগদানের অনুরোধ করেছেন",
   "inventorying_personalized": "%{username}-এর কাছে এটি আছে",
-  "inventorying_personalized_strong": " **%{username}**-এর কাছে এটি আছে",
+  "inventorying_personalized_strong": "**%{username}**-এর কাছে এটি আছে",
   "km_away": "%{distance} কি.মি. দূরে",
   "last_nearby_books": "কাছাকাছি মানুষের ইনভেনটোরিজে নতুন বই",
   "last_nearby_books_more": "…এবং [%{smart_count} আরো](https://inventaire.io/inventory/nearby)",
