@@ -28,6 +28,7 @@
   "P268": "identifiant Bibliothèque nationale de France",
   "P269": "identifiant IdRef",
   "P349": "identifiant Bibliothèque nationale de la Diète",
+  "P356": "DOI",
   "P361": "partie de",
   "P437": "format de distribution",
   "P463": "membre de",
@@ -39,7 +40,7 @@
   "P674": "personnages",
   "P675": "identifiant Google Livres",
   "P737": "influencé par",
-  "P747": "édition",
+  "P747": "édition ou traduction",
   "P840": "lieu de l'action",
   "P856": "site officiel",
   "P906": "identifiant SELIBR",
@@ -82,6 +83,7 @@
   "P2963": "identifiant Goodreads d'un auteur",
   "P2969": "identifiant Goodreads d'une édition",
   "P3035": "préfixe ISBN de l'éditeur",
+  "P3155": "identifiant Projet Runeberg d'un livre",
   "P3184": "identifiant de la bibliographie nationale tchèque",
   "P3630": "identifiant Babelio d'un auteur",
   "P3631": "identifiant Babelio d'un livre",
@@ -116,6 +118,6 @@
   "P12319": "identifiant Babelio d'une série",
   "P12351": null,
   "P12361": "identifiant Bluesky",
-  "P12852": "identifiant d'une maison d'édition sur NooSFere",
-  "P13004": null
+  "P12852": "identifiant NooSFere d'une maison d'édition",
+  "P13004": "identifiant NooSFere d'une collection éditoriale"
 }
