@@ -1005,6 +1005,7 @@
   "works": "works",
   "works_about_entity": "Works about %{name}",
   "works_based_on_work": "Works based on %{name}",
+  "works_in_this_form": "Works in the form of a %{name}",
   "works_in_this_genre": "Works in the genre %{name}",
   "works_inspired_by_work": "Works inspired by %{name}",
   "works_replying_to_work": "Works written in response to this work",
