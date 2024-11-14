@@ -35,6 +35,7 @@
   "P496": "identificador ORCID",
   "P569": "data de naixement",
   "P570": "data de defunció",
+  "P571": "data de creació o fundació",
   "P648": "identificador Open Library",
   "P655": "traductor",
   "P674": "personatges",
@@ -120,5 +121,6 @@
   "P12351": "identificador BookBrainz d'edició",
   "P12361": "nom d'usuari de Bluesky",
   "P12852": "identificador NooSFere d'editorial",
-  "P13004": "identificador NooSFere de col·lecció"
+  "P13004": "identificador NooSFere de col·lecció",
+  "P13137": "identificador ISFDB de col·lecció editorial"
 }

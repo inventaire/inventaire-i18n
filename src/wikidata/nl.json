@@ -17,7 +17,7 @@
   "P155": "vorige",
   "P156": "volgende",
   "P166": "onderscheiding",
-  "P179": "serie",
+  "P179": "deel van serie",
   "P195": "collectie",
   "P212": "ISBN-13",
   "P213": "ISNI",
@@ -35,6 +35,7 @@
   "P496": "ORCID-identificatiecode",
   "P569": "geboortedatum",
   "P570": "overlijdensdatum",
+  "P571": "datum van oprichting of creatie",
   "P648": "Open Library-identificatiecode",
   "P655": "vertaler",
   "P674": "personage",
@@ -120,5 +121,6 @@
   "P12351": "BookBrainz-identificatiecode voor editie",
   "P12361": "Bluesky-identificatiecode voor gebruikersnaam",
   "P12852": "NooSFere-identificatiecode voor uitgever",
-  "P13004": "NooSFere-identificatiecode voor redactionele collectie"
+  "P13004": "NooSFere-identificatiecode voor redactionele collectie",
+  "P13137": null
 }

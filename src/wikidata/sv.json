@@ -1,7 +1,7 @@
 {
   "P17": "land",
   "P18": "bild",
-  "P27": "nationalitet",
+  "P27": "medborgare i",
   "P31": "instans av",
   "P39": "befattning",
   "P50": "författare",
@@ -28,13 +28,14 @@
   "P268": "id-nummer i Frankrikes nationalbiblioteks katalog",
   "P269": "idRef-ID SUDOC",
   "P349": "NDL-ID",
-  "P356": "doi",
+  "P356": "DOI",
   "P361": "del av",
   "P437": "utgivningsformat",
   "P463": "medlem av",
   "P496": "ORCID-id",
   "P569": "födelsedatum",
   "P570": "dödsdatum",
+  "P571": "datum för grundande eller skapande",
   "P648": "Open Library-ID",
   "P655": "översättare",
   "P674": "rollfigurer",
@@ -120,5 +121,6 @@
   "P12351": null,
   "P12361": "Blueskyanvändarnamn",
   "P12852": null,
-  "P13004": null
+  "P13004": null,
+  "P13137": null
 }

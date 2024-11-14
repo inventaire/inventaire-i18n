@@ -35,6 +35,7 @@
   "P496": "ORCID-Kennung",
   "P569": "Geburtsdatum",
   "P570": "Sterbedatum",
+  "P571": "Datum der Gründung, Erstellung, Entstehung, Erbauung",
   "P648": "Open-Library-Kennung",
   "P655": "Übersetzer",
   "P674": "Figuren",
@@ -120,5 +121,6 @@
   "P12351": "BookBrainz Editions-ID",
   "P12361": "Bluesky-Benutzername",
   "P12852": "NooSFere Verlags-ID",
-  "P13004": null
+  "P13004": null,
+  "P13137": null
 }

@@ -35,6 +35,7 @@
   "P496": "identificador ORCID",
   "P569": "data de nascimento",
   "P570": "data de morte",
+  "P571": "data de criação ou fundação",
   "P648": "identificador Open Library",
   "P655": "tradutor",
   "P674": "personagens",
@@ -42,7 +43,7 @@
   "P737": "influenciado por",
   "P747": "edição",
   "P840": "local da narrativa",
-  "P856": "sítio web oficial",
+  "P856": "sítio oficial",
   "P906": "SELIBR",
   "P941": "inspirado por",
   "P950": "identificador BNE",
@@ -118,7 +119,8 @@
   "P12048": null,
   "P12319": null,
   "P12351": null,
-  "P12361": null,
+  "P12361": "nome de usuário no Bluesky",
   "P12852": null,
-  "P13004": null
+  "P13004": null,
+  "P13137": null
 }

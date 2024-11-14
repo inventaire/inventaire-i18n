@@ -35,6 +35,7 @@
   "P496": "kód ORCID",
   "P569": "datum narození",
   "P570": "datum úmrtí",
+  "P571": "datum vytvoření / založení",
   "P648": "identifikátor Open Library",
   "P655": "překladatel",
   "P674": "postavy",
@@ -120,5 +121,6 @@
   "P12351": null,
   "P12361": null,
   "P12852": null,
-  "P13004": null
+  "P13004": null,
+  "P13137": null
 }
