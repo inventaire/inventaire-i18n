@@ -17,6 +17,8 @@
   "Always dreamed of a collaborative library for your coworking / association / book club? Here it is!": "Always dreamed of a collaborative library for your coworking / association / book club? Here it is!",
   "Are you sure you want to delete this statement?": "Are you sure you want to delete this statement?",
   "Articles & videos": "Articles & videos",
+  "Bibliographic data are data about works, editions, authors, publishers, etc. In Inventaire, those data are known as [entities](https://wiki.inventaire.io/wiki/Glossary#Entity).": "Bibliographic data are data about works, editions, authors, publishers, etc. In Inventaire, those data are known as [entities](https://wiki.inventaire.io/wiki/Glossary#Entity).",
+  "Bibliographic data contributions": "Bibliographic data contributions",
   "Biblographic data": "Biblographic data",
   "Can't find what you are searching?": "Can't find what you are searching?",
   "Change author role": "Change author role",
@@ -64,6 +66,7 @@
   "Go to the series' page": "Go to the series' page",
   "Go to the work's page": "Go to the work's page",
   "Group picture": "Group picture",
+  "Helping to improve Wikidata thus also improves Inventaire, but also many other projects using those same data! [Learn More](https://wiki.inventaire.io/wiki/Entities_data).": "Helping to improve Wikidata thus also improves Inventaire, but also many other projects using those same data! [Learn More](https://wiki.inventaire.io/wiki/Entities_data).",
   "Hide non-selected shelves": "Hide non-selected shelves",
   "I can lend it": "I can lend it",
   "I have it and it's available for:": "I have it and it's available for:",
@@ -73,6 +76,7 @@
   "Image preview": "Image preview",
   "Include all your present and future groups": "Include all your present and future groups",
   "Inventaire - your friends and communities are your best library": "Inventaire - your friends and communities are your best library",
+  "Inventaire primarily finds its bibliographic data in [Wikidata](https://www.wikidata.org/), an open collaborative database built to support Wikipedia and the other [Wikimedia](https://www.wikimedia.org/) projects.": "Inventaire primarily finds its bibliographic data in [Wikidata](https://www.wikidata.org/), an open collaborative database built to support Wikipedia and the other [Wikimedia](https://www.wikimedia.org/) projects.",
   "Inventories": "Inventories",
   "Inventory": "Inventory",
   "Items without shelf": "Items without shelf",
@@ -1047,5 +1051,7 @@
   "your position isn't set yet": "your position isn't set yet",
   "your profile contains information about you": "your profile contains information about you",
   "your request to join is waiting for approval": "your request to join is waiting for approval",
-  "your_item_was_requested_notification": "one of your books as been requested"
+  "your_item_was_requested_notification": "one of your books as been requested",
+  "An [Inventaire](https://inventaire.io/) instance": "An [Inventaire](https://inventaire.io/) instance",
+  "An [Inventaire](https://inventaire.io/) instance managed by [%{orgName}](%{orgUrl})": "An [Inventaire](https://inventaire.io/) instance managed by [%{orgName}](%{orgUrl})"
 }
