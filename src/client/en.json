@@ -1047,5 +1047,7 @@
   "your position isn't set yet": "your position isn't set yet",
   "your profile contains information about you": "your profile contains information about you",
   "your request to join is waiting for approval": "your request to join is waiting for approval",
-  "your_item_was_requested_notification": "one of your books as been requested"
+  "your_item_was_requested_notification": "one of your books as been requested",
+  "An [Inventaire](https://inventaire.io/) instance": "An [Inventaire](https://inventaire.io/) instance",
+  "An [Inventaire](https://inventaire.io/) instance managed by [%{orgName}](%{orgUrl})": "An [Inventaire](https://inventaire.io/) instance managed by [%{orgName}](%{orgUrl})"
 }
