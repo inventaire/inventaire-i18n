@@ -69,6 +69,7 @@
   "P1581": "officiële blog",
   "P1680": "ondertitel",
   "P1844": "HathiTrust-identificatiecode",
+  "P1889": "niet gelijk aan",
   "P1938": "Gutenberg-identificatiecode voor auteur",
   "P1960": "Google Scholar-identificatiecode voor auteur",
   "P1982": "Anime News Network-identificatiecode voor persoon",
@@ -122,5 +123,5 @@
   "P12361": "Bluesky-identificatiecode voor gebruikersnaam",
   "P12852": "NooSFere-identificatiecode voor uitgever",
   "P13004": "NooSFere-identificatiecode voor redactionele collectie",
-  "P13137": null
+  "P13137": "ISFDB-identificatiecode voor redactionele collectie"
 }
