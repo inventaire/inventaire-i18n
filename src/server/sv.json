@@ -51,7 +51,7 @@
   "group_join_request_subject": "%{requesterUsername} vill gå med i gruppen %{groupName}",
   "inventorying_personalized": "%{username} har den",
   "inventorying_personalized_strong": "**%{username}** har den",
-  "km_away": "%{distance} km bort",
+  "km_away": "%{distance} km från dig",
   "last_nearby_books": "nya böcker i användares inventeringar nära dig",
   "last_nearby_books_more": "…och [%{smart_count} till](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nya böcker i dina vänners och gruppers inventeringar",
