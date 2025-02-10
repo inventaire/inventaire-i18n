@@ -21,7 +21,7 @@
   "P195": "collection",
   "P212": "ISBN-13",
   "P213": "ISNI",
-  "P214": "VIAF ID",
+  "P214": "VIAF cluster ID",
   "P227": "GND ID",
   "P243": "OCLC control number",
   "P244": "Library of Congress authority ID",
