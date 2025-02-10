@@ -4,7 +4,7 @@ set -eu
 rm -rf ./dist
 
 echo 'build commponents'
-./scripts/build/build_components
+./scripts/build/build_components.sh
 
 echo 'update language stats'
 ./scripts/stats/update_language_stats.js

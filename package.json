@@ -13,12 +13,12 @@
     "translations"
   ],
   "scripts": {
-    "build": "./scripts/build/build",
-    "build-components": "./scripts/build/build_components",
-    "fetch-translations": "./scripts/fetch/fetch_translations",
-    "find-duplicated-keys": "./scripts/maintenance/find_duplicated_keys",
-    "remove-matching-keys": "./scripts/maintenance/remove_matching_keys",
-    "reorder-all-resources": "./scripts/reorder/reorder_all_resources",
+    "build": "./scripts/build/build.sh",
+    "build-components": "./scripts/build/build_components.sh",
+    "fetch-translations": "./scripts/fetch/fetch_translations.sh",
+    "find-duplicated-keys": "./scripts/maintenance/find_duplicated_keys.sh",
+    "remove-matching-keys": "./scripts/maintenance/remove_matching_keys.sh",
+    "reorder-all-resources": "./scripts/reorder/reorder_all_resources.sh",
     "test": "echo \"Error: no test specified\" && exit 1",
     "update-stats": "./scripts/stats/update_language_stats.js"
   },
