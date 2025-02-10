@@ -1011,7 +1011,7 @@
   "wikidata entities can't link to inventaire entities": "Wikidata-entiteter kan inte länka till entiteter på inventaire",
   "wikidata_edit_intro": "Du har begärt att få redigera data om **%{label}** som lagras hos [Wikidata](https://wikidata.org), den öppna databas byggd på samarbete från vilken inventaire.io härmtar det mesta av informationen om böcker, författare, serier etc. Att förbättra Wikidata hjälper därför Inventaire, men även alla andra projekt som använder samma data!",
   "wikidata_move_intro": "Du har begärt att få redigera data om **%{label}** till [Wikidata](https://wikidata.org), den öppna databas byggd på samarbete från vilken inventaire.io härmtar det mesta av informationen om böcker, författare, serier etc. Förträffligt! Detta innebär att du inte bara hjälper Inventaire, utan även bidrar till att förbättra Wikidata och de många andra projekten som använder dess data!",
-  "work": "arbete",
+  "work": "verk",
   "work from which this is an edition": "verk som detta är en utgåva av",
   "work image": "bild på verk",
   "works": "verk",
