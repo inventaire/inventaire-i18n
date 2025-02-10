@@ -14,7 +14,7 @@
   "and_x_more_books_to_inventory": "e [altri %{itemsLength}](%{link})",
   "author_has_new_work": "Una nuova opera è stata attribuita a [%{objectLabel}](%{objectUrl}): [%{subjectLabel}](%{subjectUrl})",
   "cancelled_timeline_action": "%{username} ha annullato la transazione",
-  "collection_has_new_edition": "Una nuova edizione è stata aggiunta a [%{objectLabel}](%{objectUrl}): [%{subjectLabel}](%{subjectUrl})",
+  "collection_has_new_edition": "Una nuova edizione è stata aggiunta: [%{subjectLabel}](%{subjectUrl})",
   "confirmed_timeline_action": "%{username} ha confermato di aver ricevuto il libro",
   "create_items_activity": "Nuovo libro",
   "declined_timeline_action": "%{username} ha declinato la tua richiesta",
