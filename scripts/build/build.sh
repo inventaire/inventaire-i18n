@@ -8,3 +8,5 @@ echo 'build commponents'
 
 echo 'update language stats'
 ./scripts/stats/update_language_stats.js
+
+./scripts/maintenance/detect_suspicious_html_markup.sh
