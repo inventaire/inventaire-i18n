@@ -51,6 +51,7 @@
   "Entities can be merged when one is a duplicate of the other.": "Entities can be merged when one is a duplicate of the other.",
   "FAQ": "FAQ",
   "Failed to reset password. You can retry below.": "Failed to reset password. You can retry below.",
+  "Fediverse followers of %{actorName}": "Fediverse followers of %{actorName}",
   "Fediverse integration": "Fediverse integration",
   "Fetch more": "Fetch more",
   "Filter by": "Filter by",
