@@ -60,8 +60,6 @@
   "books": "kitaplar",
   "books_by_author": "%{author} - kitaplar",
   "browse": "göz at",
-  "call_to_connect_welcome_message": "arkadaşlarınızın ve toplulukların kitaplarının sonsuz envanteri!",
-  "call_to_connect_welcome_title": "Inventaire'ye Hoşgeldiniz",
   "can't find anyone with that name": "bu ismi taşıyan birini bulamadık",
   "can't reach the server": "sunucuya erişilemiyor",
   "cancel": "iptal",

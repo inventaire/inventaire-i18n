@@ -268,8 +268,6 @@
   "books_by_author": "%{author} – böcker",
   "bot": "robot",
   "browse": "bläddra",
-  "call_to_connect_welcome_message": "det oändliga inventariet av dina vänners och gemenskapers böcker!",
-  "call_to_connect_welcome_title": "Välkommen till Inventaire",
   "can you tell us more about this work and this particular edition?": "har du mer information om verket och den här utgåvan i synnerhet?",
   "can't delete Wikidata entity": "kan inte radera Wikidata-entitet",
   "can't find anyone with that name": "hittar ingen med det namnet",

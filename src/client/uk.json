@@ -165,8 +165,6 @@
   "books_by_author": "%{author} - книги",
   "bot": "бот",
   "browse": "огляд",
-  "call_to_connect_welcome_message": "нескінченний каталог книг ваших друзів і спільноти",
-  "call_to_connect_welcome_title": "Ласкаво просимо до Inventaire",
   "can you tell us more about this work and this particular edition?": "чи могли б ви розповісти докладніше про цю роботу та це видання?",
   "can't find anyone with that name": "не вдалося нікого знайти з таким іменем",
   "can't reach the server": "сервер недоступний",

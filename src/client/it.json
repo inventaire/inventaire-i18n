@@ -166,8 +166,6 @@
   "books_by_author": "%{author} - libri",
   "bot": "bot",
   "browse": "sfoglia",
-  "call_to_connect_welcome_message": "l'inventario infinito dei libri dei tuoi amici e comunità!",
-  "call_to_connect_welcome_title": "Benvenuto su Inventaire",
   "can you tell us more about this work and this particular edition?": "sai dirci di più su quest'opera e su questa particolare edizione?",
   "can't delete Wikidata entity": "impossibile eliminare elemento Wikidata",
   "can't find anyone with that name": "nessun risultato con questo nome",

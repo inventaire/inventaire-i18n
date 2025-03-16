@@ -221,8 +221,6 @@
   "books_by_author": "%{লেখক} - বই",
   "bot": "বট",
   "browse": "খুঁজুন",
-  "call_to_connect_welcome_message": "আপনার বন্ধু এবং সম্প্রদায়ের বইয়ের অসীম ইনভেণ্টরি!",
-  "call_to_connect_welcome_title": "ইনভেণ্টেয়ারে স্বাগতম",
   "can you tell us more about this work and this particular edition?": "আপনি এই কাজ এবং এই বিশেষ সংস্করণ সম্পর্কে আমাদের আরও বলতে পারেন?",
   "can't delete Wikidata entity": "উইকিউপাত্ত আইটেম মুছে ফেলতে পারবেন না",
   "can't find anyone with that name": "এই নামের কাউকে খুঁজে পাওয়া যাচ্ছে না",

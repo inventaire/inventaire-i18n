@@ -60,8 +60,6 @@
   "books": "本",
   "books_by_author": "%{author} - 本",
   "browse": "ブラウズ",
-  "call_to_connect_welcome_message": "あなたの友達やコミュニティの本による無限の書庫です！",
-  "call_to_connect_welcome_title": "Inventaire（書庫管理）にようこそ",
   "can't find anyone with that name": "この名前の人が見当たりません",
   "can't reach the server": "サーバの応答がありません",
   "cancel": "キャンセル",

@@ -302,8 +302,6 @@
   "books_by_author": "%{author} - llibres",
   "bot": "bot",
   "browse": "explora",
-  "call_to_connect_welcome_message": "l'inventari infinit de llibres dels teus amics i comunitats!",
-  "call_to_connect_welcome_title": "Benvingut a Inventaire",
   "can you tell us more about this work and this particular edition?": "pots explicar-nos més sobre aquesta obra i aquesta edició en particular?",
   "can't delete Wikidata entity": "no pot esborrar-se una entitat de la Viquipèdia",
   "can't find anyone with that name": "no s'ha trobat ningú amb aquest nom",

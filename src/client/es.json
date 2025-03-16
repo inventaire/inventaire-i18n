@@ -304,8 +304,6 @@
   "books_by_author": "%{author} - libros",
   "bot": "bot",
   "browse": "navegar",
-  "call_to_connect_welcome_message": "el inventario infinito de libros de sus amigos y comunidades",
-  "call_to_connect_welcome_title": "Bienvenido a Inventaire",
   "can you tell us more about this work and this particular edition?": "¿Nos puedes contar más sobre esta obra y esta edición concreta?",
   "can't delete Wikidata entity": "no se puede eliminar una instancia de Wikidata",
   "can't find anyone with that name": "no se encuentra a nadie con ese nombre",

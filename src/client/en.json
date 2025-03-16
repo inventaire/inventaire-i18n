@@ -305,8 +305,6 @@
   "books_by_author": "%{author} - books",
   "bot": "bot",
   "browse": "browse",
-  "call_to_connect_welcome_message": "the infinite inventory of your friends' and communities' books!",
-  "call_to_connect_welcome_title": "Welcome on Inventaire",
   "can you tell us more about this work and this particular edition?": "can you tell us more about this work and this particular edition?",
   "can't delete Wikidata entity": "can't delete Wikidata entity",
   "can't find anyone with that name": "can't find anyone with that name",

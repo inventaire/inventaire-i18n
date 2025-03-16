@@ -147,8 +147,6 @@
   "books": "книги",
   "books successfully added to your inventory": "книги успешно добавлены в вашу опись",
   "books_by_author": "%{author} - книги",
-  "call_to_connect_welcome_message": "бесконечные перечни книг ваших друзей и сообществ!",
-  "call_to_connect_welcome_title": "Добро пожаловать на Inventaire",
   "can't find anyone with that name": "не могу найти никого с таким именем",
   "can't reach the server": "сервер не отвечает",
   "cancel": "отмена",
