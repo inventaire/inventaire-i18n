@@ -6,7 +6,7 @@
   "accepted_timeline_action": "%{username} přijal/a tvoji žádost",
   "active_transactions_count": "máš **%{smart_count}** [probíhající transakci](%{href}) |||| máš **%{smart_count}** [probíhající transakce](%{href}) |||| máš **%{smart_count}** [probíhajících transakcí](%{href})",
   "activity summary": "souhrn aktivity",
-  "activity_summary_meta": "Souhrny tvé aktivity ti posíláme %{periodicity} dny. Tuto dobu můžeš změnit, nebo vypnout tyto e-maily ve svém [nastavení e-mailových notifikací](%{settingsHref}). Pokud bys rád/a, aby se něco objevilo v těchto souhrnech aktivity, pošli nám návrh v odpovědi na tento e-mail.",
+  "activity_summary_meta": "Souhrny tvé aktivity ti posíláme %{periodicity} dny. Tuto dobu můžeš změnit, nebo vypnout tyto e-maily ve svém [nastavení e-mailových notifikací](%{settingsHref}).",
   "activity_summary_title": "Tvůj souhrn aktivity",
   "cancelled_timeline_action": "%{username} zrušil/a transakci",
   "confirmed_timeline_action": "%{username} potvrdil/a, že obdržel/a knihu",

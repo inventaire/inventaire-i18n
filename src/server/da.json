@@ -6,7 +6,7 @@
   "accepted_timeline_action": "%{username} accepterede din anmodning ",
   "active_transactions_count": "du ",
   "activity summary": "aktivitetsresumé",
-  "activity_summary_meta": "Dit aktivitetsresumé bliver sendt hver  %{periodicity} dag. Du kan ændre denne hyppighed eller sågar deaktivere disse mails i dine [mail notifikationsindstillinger](%{settingsHref}).",
+  "activity_summary_meta": "Dit aktivitetsresumé bliver sendt hver %{periodicity} dag. Du kan ændre denne hyppighed eller sågar deaktivere disse mails i dine [mail notifikationsindstillinger](%{settingsHref}).",
   "activity_summary_title": "Dit aktivitetsresumé",
   "cancelled_timeline_action": "%{username} aflyste overførslen",
   "confirmed_timeline_action": "%{username} bekræftede at have modtaget bogen",

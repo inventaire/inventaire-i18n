@@ -9,7 +9,7 @@
   "accepted_timeline_action": "%{username} ha acceptat la vostra petició",
   "active_transactions_count": "té una **%{smart_count}** [ongoing transaction](%{href}) |||| té una **%{smart_count}** [ongoing transactions](%{href})",
   "activity summary": "resum d'activitat",
-  "activity_summary_meta": "Els seus resums d'activitat s'envien cada %{periodicity} dies. Pot canviar la periodicitat o cancel·lar l'enviament de correus electrònics a les [preferències de correu](%{settingsHref}). Si hi ha res que vulgueu que s'afegeixi als resums d'activitat, pot enviar els seus suggeriments donant resposta a aquest correu.",
+  "activity_summary_meta": "Els seus resums d'activitat s'envien cada %{periodicity} dies. Pot canviar la periodicitat o cancel·lar l'enviament de correus electrònics a les [preferències de correu](%{settingsHref}).",
   "activity_summary_title": "El teu resum d'activitat",
   "and_x_more_books_to_inventory": "i [%{itemsLength} més](%{link})",
   "author_has_new_work": "Una nova obra s'ha atribuït: [%{subjectLabel}](%subjectUrl})",

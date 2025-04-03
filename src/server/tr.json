@@ -5,7 +5,7 @@
   "accepted_timeline_action": "%{username} isteğinizi onayladı",
   "active_transactions_count": "**%{smart_count}** [devam eden işleminiz] var(%{href}) |||| **%{smart_count}** [devam eden işlemleriniz] var(%{href})",
   "activity summary": "etkinlik özeti",
-  "activity_summary_meta": "Etkinlik özetleriniz her %{periodicity} günde bir defa gönderilir. Bu aralığı değiştirebilir veya [e-posta bildirim ayarları] 'nızdan (% {settingsHref}) bu e-postaları devre dışı bırakabilirsiniz. Bu etkinlik özetlerinde görülecek bir şey varsa, bu e-postayı yanıtlayarak önerilerinizi gönderebilirsiniz",
+  "activity_summary_meta": "Etkinlik özetleriniz her %{periodicity} günde bir defa gönderilir. Bu aralığı değiştirebilir veya [e-posta bildirim ayarları] 'nızdan (% {settingsHref}) bu e-postaları devre dışı bırakabilirsiniz.",
   "activity_summary_title": "Faaliyet özetiniz",
   "cancelled_timeline_action": "%{username} işlemi iptal etti",
   "confirmed_timeline_action": "%{username} kitabı aldığını onayladı",

@@ -7,7 +7,7 @@
   "P921": "главная тема",
   "accepted_timeline_action": "%{username} принял/а ваш запрос",
   "activity summary": "суммарная активность",
-  "activity_summary_meta": "Данные о вашей суммарной активности будут отправляться каждые %{periodicity} дней. Вы можете изменить периодичность получения писем в ваших [email notifications settings](%{settingsHref}). Если вы хотите увидеть что-то еще в суммарных активностях, вы можете отправить свои предложения ответом на это письмо",
+  "activity_summary_meta": "Данные о вашей суммарной активности будут отправляться каждые %{periodicity} дней. Вы можете изменить периодичность получения писем в ваших [email notifications settings](%{settingsHref}).",
   "activity_summary_title": "Ваша суммарная активность",
   "and_x_more_books_to_inventory": "и [еще %{itemsLength}](%{link})",
   "author_has_new_work": "Новое произведение было приписано [%{objectLabel}](%{objectUrl}): [%{subjectLabel}](%{subjectUrl})",

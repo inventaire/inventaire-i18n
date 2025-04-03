@@ -4,7 +4,7 @@
   "accepted_timeline_action": "%{username} さんがあなたのリクエストを承認しました",
   "active_transactions_count": "[進行中の取引](%{href})が**%{smart_count}**件あります  |||| [進行中の取引](%{href})が**%{smart_count}**件あります",
   "activity summary": "活動のサマリ",
-  "activity_summary_meta": "あなたの活動サマリは%{periodicity} 日ごとに送信されます。あなたの[メール通知設定](%{settingsHref})で、この期間を変えたり、無効にしたりできます。それらの活動の中で見たいものがあればこのメールに返信することであなたの提案を送ることができます",
+  "activity_summary_meta": "あなたの活動サマリは%{periodicity} 日ごとに送信されます。あなたの[メール通知設定](%{settingsHref})で、この期間を変えたり、無効にしたりできます。",
   "activity_summary_title": "あなたの活動サマリ",
   "cancelled_timeline_action": "%{username} さんが取引をキャンセルしました",
   "confirmed_timeline_action": "%{username} さんが本の受け取りを確認しました",

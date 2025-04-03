@@ -9,7 +9,7 @@
   "accepted_timeline_action": "%{username} accepted your request",
   "active_transactions_count": "you have **%{smart_count}** [ongoing transaction](%{href}) |||| you have **%{smart_count}** [ongoing transactions](%{href})",
   "activity summary": "activity summary",
-  "activity_summary_meta": "Your activity summaries are sent every %{periodicity} days. You can change this periodicity or even disable those emails in your [email notifications settings](%{settingsHref}). If there is anything you would like to see appear in those activity summaries, you can send your suggestions by replying to this email",
+  "activity_summary_meta": "Your activity summaries are sent every %{periodicity} days. You can change this periodicity or even disable those emails in your [email notifications settings](%{settingsHref}).",
   "activity_summary_title": "Your activity summary",
   "and_x_more_books_to_inventory": "and [%{itemsLength} more](%{link})",
   "author_has_new_work": "A new work has been attributed: [%{subjectLabel}](%{subjectUrl})",

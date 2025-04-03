@@ -9,7 +9,7 @@
   "accepted_timeline_action": "%{username} accepteerde je aanvraag",
   "active_transactions_count": "je hebt **%{smart_count}** [huidige transactie](%{href}) |||| je hebt **%{smart_count}** [huidige transacties](%{href})",
   "activity summary": "activiteits-overzicht",
-  "activity_summary_meta": "Je activiteitsoverzichten worden elke %{periodicity} dagen gestuurd. je kan dit interval veranderen of afzetten in je [e-mail notificatie instellingen](%{settingsHref}). Als er iets specifiek is dat je zou willen zien in deze activiteitsoverzichten kan je je suggesties doorsturen door op deze e-mail te antwoorden.",
+  "activity_summary_meta": "Je activiteitsoverzichten worden elke %{periodicity} dagen gestuurd. je kan dit interval veranderen of afzetten in je [e-mail notificatie instellingen](%{settingsHref}).",
   "activity_summary_title": "je activiteits-overzicht",
   "and_x_more_books_to_inventory": "en [%{itemsLength} meer](%{link})",
   "author_has_new_work": "Een nieuw werk is toegeschreven aan [%{objectLabel}](%{objectUrl}): [%{subjectLabel}](%{subjectUrl})",

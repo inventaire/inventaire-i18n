@@ -2,7 +2,7 @@
   "accepted_timeline_action": "%{username} akceptis vian peton",
   "active_transactions_count": "vi havas **%{smart_count}** [nunan interŝanĝon](%{href}) |||| vi havas **%{smart_count}** [nunajn interŝanĝojn](%{href})",
   "activity summary": "aktivecsumo",
-  "activity_summary_meta": "Vian aktivecsumo estas sendita ĉiuj %{periodicity} tagoj. Vi povas ŝanĝi tiu periodeco aŭ nuligi tiujn retmesaĵojn per viaj [agordoj de retpoŝto](%{settingsHref}). Se vi volas vidi ion ajn en tiuj aktivecsumo vi povas sendi viajn proponojn per respondi al ĉi tiu retmesaĵo",
+  "activity_summary_meta": "Vian aktivecsumo estas sendita ĉiuj %{periodicity} tagoj. Vi povas ŝanĝi tiu periodeco aŭ nuligi tiujn retmesaĵojn per viaj [agordoj de retpoŝto](%{settingsHref}).",
   "activity_summary_title": "Vian aktivecsumo",
   "and_x_more_books_to_inventory": "kaj [%{itemsLength} pli](%{link})",
   "cancelled_timeline_action": "%{username} nuligis la interŝanĝon",

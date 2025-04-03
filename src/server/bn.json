@@ -9,7 +9,7 @@
   "accepted_timeline_action": "%{username} আপনার অনুরোধ গ্রহণ করেছেন",
   "active_transactions_count": "আপনার আছে **%{smart_count}** [চলমান লেনদেন](%{href}) ||||  আপনার আছে **%{smart_count}** [চলমান লেনদেন](%{href})",
   "activity summary": "কার্যকলাপ সারাংশ",
-  "activity_summary_meta": "আপনার কার্যকলাপের সারাংশ প্রতি %{periodicity} দিনে পাঠানো হয়।  আপনি আপনার [ইমেল বিজ্ঞপ্তি সেটিংস](%{settingsHref}) থেকে এই পর্যায়ক্রমিকতা পরিবর্তন করতে পারেন বা সেই ইমেলগুলিকে অক্ষম করতে পারেন।  আপনি যদি এই কার্যকলাপের সারাংশে কিছু দেখতে চান তবে আপনি এই ইমেলের উত্তর দিয়ে আপনার পরামর্শ পাঠাতে পারেন",
+  "activity_summary_meta": "আপনার কার্যকলাপের সারাংশ প্রতি %{periodicity} দিনে পাঠানো হয়।  আপনি আপনার [ইমেল বিজ্ঞপ্তি সেটিংস](%{settingsHref}) থেকে এই পর্যায়ক্রমিকতা পরিবর্তন করতে পারেন বা সেই ইমেলগুলিকে অক্ষম করতে পারেন।",
   "activity_summary_title": "আপনার কার্যক্রমের সারাংশ",
   "and_x_more_books_to_inventory": "এবং [%{itemsLength} আরো](%{link})",
   "author_has_new_work": "একটি নতুন কাজের জন্য আবেদন করা হয়েছে [%{objectLabel}](%{objectUrl}): [%{subjectLabel}](%{subjectUrl})",

@@ -9,7 +9,7 @@
   "accepted_timeline_action": "%{username} v-a acceptat cererea",
   "active_transactions_count": "Aveți **%{smart_count}** [tranzacție în curs](%{href}) |||| Aveți **%{smart_count}** [tranzacții în curs](%{href})",
   "activity summary": "Rezumat de activitate",
-  "activity_summary_meta": "Sumarele activității tale sunt trimise la fiecare %{periodicity} zile. Puteți schimba această periodicitate sau chiar să dezactivați aceste emailuri în [setările de notificări prin email](%{settingsHref}). Dacă există ceva ce doriți să apară în aceste sumare de activitate, puteți trimite sugestiile dvs. răspunzând la acest email.",
+  "activity_summary_meta": "Sumarele activității tale sunt trimise la fiecare %{periodicity} zile. Puteți schimba această periodicitate sau chiar să dezactivați aceste emailuri în [setările de notificări prin email](%{settingsHref}).",
   "activity_summary_title": "Sumarul activității tale",
   "and_x_more_books_to_inventory": "și [%{itemsLength} more](%{link})",
   "author_has_new_work": "O nouă lucrare a fost atribuită la [%{objectLabel}](%{objectUrl}): [%{subjectLabel}](%{subjectUrl})",

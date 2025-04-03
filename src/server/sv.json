@@ -9,7 +9,7 @@
   "accepted_timeline_action": "%{username} accepterade din förfrågan",
   "active_transactions_count": "du har **%{smart_count}** [pågående transaktion](%{href}) |||| du har **%{smart_count}** [pågående transaktioner](%{href})",
   "activity summary": "aktivitetssammanställning",
-  "activity_summary_meta": "Din aktivitetssammanfattning skickas som e-post var %{periodicity} dag. Du kan ändra intervallet eller avstå helt från meddelanden i dina [e-postinställningar](%{settingsHref}). Om det är någon aktivitet som du skulle vilja se och få sammanställd i din aktivitetssammanfattning, så kan du sända Inventaire dina förslag genom att svara på detta meddelande",
+  "activity_summary_meta": "Din aktivitetssammanfattning skickas som e-post var %{periodicity} dag. Du kan ändra intervallet eller avstå helt från meddelanden i dina [e-postinställningar](%{settingsHref}).",
   "activity_summary_title": "Din aktivitetssammanställning",
   "and_x_more_books_to_inventory": "och [%{itemsLength} fler](%{link})",
   "author_has_new_work": "Ett nytt arbete har lagts till: [%{subjectLabel}](%{subjectUrl})",
