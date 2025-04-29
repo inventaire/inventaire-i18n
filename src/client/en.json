@@ -738,7 +738,7 @@
   "not found": "not found",
   "not_imported_books": "import was incomplete. The following books have not been imported: %{failedImports}",
   "notes": "notes",
-  "notes_placeholder": "you only will see it",
+  "notes_placeholder": "Only you will see it",
   "nothing here": "nothing here",
   "notifications": "notifications",
   "notifications_description": "choose which email notifications you would like to receive",
