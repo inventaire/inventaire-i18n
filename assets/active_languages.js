@@ -27,5 +27,5 @@ export const activeLanguages = [
   'th',
   'tr',
   'uk',
-  'zh-hans',
+  // 'zh-hans',
 ]
