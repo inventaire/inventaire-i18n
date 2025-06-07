@@ -358,7 +358,7 @@
   "confirmation_password_reset_email_sent": "Un correo electrónico fue enviado a esta dirección para habilitarle a restablecer su contraseña: ¡verifique su casilla!",
   "context": "contexto",
   "contribute": "contribuir",
-  "contribution_ideas": "Unete al equipo de traducción (https://weblate.framasoft.org/engage/inventaire/), abre una incidencia en el bug tracker ((https://github.com/inventaire/inventaire/issues)) o simplemente inicia una conversación desde aquí o en cualquiera de nuestros canales de comunicacion (https://wiki.inventaire.io/wiki/Communication_channels)!",
+  "contribution_ideas": "Unete al equipo de traducción (https://weblate.framasoft.org/engage/inventaire/), abre una incidencia en el bug tracker ((https://codeberg.org/inventaire/inventaire/issues)) o simplemente inicia una conversación desde aquí o en cualquiera de nuestros canales de comunicacion (https://wiki.inventaire.io/wiki/Communication_channels)!",
   "contributions": "contribuciones",
   "contributions_by": "contribuciones de %{username}",
   "cookies are disabled": "Las cookies están desactivadas",
