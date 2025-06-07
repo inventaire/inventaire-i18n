@@ -1,11 +1,11 @@
 # inventaire-i18n
 
-This repository bundles together translations (a.k.a. [i18n](https://en.wikipedia.org/wiki/I18n) strings) from the [Inventaire Weblate project](https://weblate.framasoft.org/engage/inventaire/), as well as some [Wikidata](https://wikidata.org) properties, into JSON files that are then consumed by the [server](https://github.com/inventaire/inventaire) and [client](https://github.com/inventaire/inventaire-client).
+This repository bundles together translations (a.k.a. [i18n](https://en.wikipedia.org/wiki/I18n) strings) from the [Inventaire Weblate project](https://weblate.framasoft.org/engage/inventaire/), as well as some [Wikidata](https://wikidata.org) properties, into JSON files that are then consumed by the [server](https://codeberg.org/inventaire/inventaire) and [client](https://codeberg.org/inventaire/inventaire-client).
 
 ## Development
 ### Install
 ```sh
-git clone https://github.com/inventaire/inventaire-i18n
+git clone https://codeberg.org/inventaire/inventaire-i18n
 cd inventaire-i18n
 npm install
 # This will fetch the latest commits from Weblate, as well as strings from Wikidata.
@@ -17,7 +17,7 @@ npm run build
 ## Production
 ### Install
 ```sh
-git clone https://github.com/inventaire/inventaire-i18n
+git clone https://codeberg.org/inventaire/inventaire-i18n
 cd inventaire-i18n
 npm install --production
 npm run build
