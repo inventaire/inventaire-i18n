@@ -34,7 +34,7 @@
   "email_invitation_subject": "%{username} t'ha convidat a compartir els teus llibres a Inventarie.io",
   "email_invitation_user_inventory": "Ja podeu veure els llibres públics de %{username} [aquí](%{pathname}) però necessiteu un compte per tenir accés a tots els llibres que %{username} vol compartir amb vós.",
   "friend_accepted_request_button": "ves a l'inventori de l'usuari %{username}",
-  "friend_accepted_request_subject": "%{username} ha acceptat la teva petició!",
+  "friend_accepted_request_subject": "%{username} ha acceptat la teva petició d'amistat!",
   "friendship_request_button": "ves a l'inventari de %{username} per acceptar la invitació",
   "friendship_request_subject": "L'usuari %{username} t'invita a connectar els vostres inventoris!",
   "giving_personalized": "%{username} el dóna",
