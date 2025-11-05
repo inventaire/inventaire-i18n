@@ -32,7 +32,7 @@
   "Connect Wikidata account": "Connecter votre compte Wikidata",
   "Connect your Wikidata account": "Connectez vous à votre compte Wikidata",
   "Contribution anonymization is disabled: anyone can see the list of your edits on bibliographic data.": "La contribution anonymisée est désactivée : tout le monde peut voir la liste de vos modifications sur les données bibliographiques.",
-  "Contribution anonymization is enabled: only %{instance} administrators can see the list of your edits on bibliographic data.": "La contribution anonymisée est activée : seuls les administrateur de l'%{instance} peuvent voir la liste de vos modifications sur les données bibliographiques.",
+  "Contribution anonymization is enabled: only %{instance} administrators can see the list of your edits on bibliographic data.": "La contribution anonymisée est activée : seuls les administrateur de %{instance} peuvent voir la liste de vos modifications sur les données bibliographiques.",
   "Copy URI to clipboard": "Copier l’URI dans le presse-papier",
   "Create a new list": "Créer une nouvelle liste",
   "Create account": "Créer un compte",
