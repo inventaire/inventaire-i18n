@@ -641,7 +641,7 @@
   "name": "Nume",
   "narrative_set_in_this_location": "Povești plasate în %{name}",
   "nearby": "Aproape",
-  "need more information": "Necesită mai mute informații",
+  "needs more information": "Necesită mai mute informații",
   "network": "Rețea",
   "network_counter_label": "În rețeaua dvs.",
   "new entity": "Entitate nouă",

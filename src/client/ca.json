@@ -712,7 +712,7 @@
   "name": "nom",
   "narrative_set_in_this_location": "Narratives establertes a %{name}",
   "nearby": "proper",
-  "need more information": "cal més informació",
+  "needs more information": "cal més informació",
   "network": "xarxa",
   "network_counter_label": "en la teva xarxa",
   "new entity": "entitat nova",

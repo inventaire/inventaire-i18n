@@ -706,7 +706,7 @@
   "name": "Name",
   "narrative_set_in_this_location": "Erzählungen, die in %{name} spielen",
   "nearby": "In der Nähe",
-  "need more information": "brauche mehr Infos",
+  "needs more information": "brauche mehr Infos",
   "network": "Netzwerk",
   "network_counter_label": "in Deinem Netzwerk",
   "new entity": "Neuer Eintrag",

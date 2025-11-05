@@ -718,7 +718,7 @@
   "name": "nombre",
   "narrative_set_in_this_location": "Narrativa localizada en %{name}",
   "nearby": "cerca",
-  "need more information": "se necesita más información",
+  "needs more information": "se necesita más información",
   "network": "red",
   "network_counter_label": "en su red",
   "new entity": "nueva entidad",

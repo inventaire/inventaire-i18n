@@ -599,7 +599,7 @@
   "name": "名字",
   "narrative_set_in_this_location": "剧情在 %{name} 发生",
   "nearby": "附近",
-  "need more information": "需要更多信息",
+  "needs more information": "需要更多信息",
   "network": "网络",
   "network_counter_label": "您的网络中",
   "new entity": "新实体",

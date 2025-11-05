@@ -698,7 +698,7 @@
   "name": "namn",
   "narrative_set_in_this_location": "Berättelser som utspelar sig i eller på %{name}",
   "nearby": "i närheten",
-  "need more information": "mer information behövs",
+  "needs more information": "mer information behövs",
   "network": "nätverk",
   "network_counter_label": "i ditt nätverk",
   "new entity": "ny entitet",

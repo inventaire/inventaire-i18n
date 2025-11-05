@@ -697,7 +697,7 @@
   "name": "nom",
   "narrative_set_in_this_location": "Récits se déroulant à %{name}",
   "nearby": "dans le coin",
-  "need more information": "plus d'information nécessaire",
+  "needs more information": "plus d'information nécessaire",
   "network": "réseau",
   "network_counter_label": "dans votre réseau",
   "new entity": "nouvelle entité",
