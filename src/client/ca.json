@@ -32,7 +32,7 @@
   "Close map": "Tanca el mapa",
   "Comment by %{username}": "Comentari per %{username}",
   "Comments": "Comentaris",
-  "Connect Wikidata account": "Enllaça un comte de Wikidata",
+  "Connect your Wikidata account": "Enllaça un comte de Wikidata",
   "Connect your Wikidata account": "Connecteu el vostre compte de Wikidata",
   "Contribution anonymization is disabled: anyone can see the list of your edits on bibliographic data.": "L'anonimat de contribucions està desactivat: qualsevol pot veure la llista de les vostres edicions a les dades bibliogràfiques.",
   "Contribution anonymization is enabled: only %{instance} administrators can see the list of your edits on bibliographic data.": "L'anonimat de contribucions està activat: només els administradors de %{instance} poden veure la llista d'edicions a les dades bibliogràfiques.",

@@ -33,7 +33,6 @@
   "Close map": "Close map",
   "Comment by %{username}": "Comment by %{username}",
   "Comments": "Comments",
-  "Connect Wikidata account": "Connect Wikidata account",
   "Connect your Wikidata account": "Connect your Wikidata account",
   "Contribution anonymization is disabled: anyone can see the list of your edits on bibliographic data.": "Contribution anonymization is disabled: anyone can see the list of your edits on bibliographic data.",
   "Contribution anonymization is enabled: only %{instance} administrators can see the list of your edits on bibliographic data.": "Contribution anonymization is enabled: only %{instance} administrators can see the list of your edits on bibliographic data.",
@@ -1121,5 +1120,8 @@
   "your position isn't set yet": "your position isn't set yet",
   "your profile contains information about you": "your profile contains information about you",
   "your request to join is waiting for approval": "your request to join is waiting for approval",
-  "your_item_was_requested_notification": "one of your books as been requested"
+  "your_item_was_requested_notification": "one of your books as been requested",
+  "About bibliographic data": "About bibliographic data",
+  "If you have any question about bibliographic data, you are welcome to ask in the dedicated channel in the project chat, or via any of our project communication channels.": "If you have any question about bibliographic data, you are welcome to ask in the dedicated channel in the project chat, or via any of our project communication channels.",
+  "If you have any question about bibliographic data, you are welcome to ask in the [dedicated channel in the project chat](https://app.element.io/#/room/#inventaire_entities:matrix.org), or via any of our [communication channels](https://wiki.inventaire.io/wiki/Communication_channels).": "If you have any question about bibliographic data, you are welcome to ask in the [dedicated channel in the project chat](https://app.element.io/#/room/#inventaire_entities:matrix.org), or via any of our [communication channels](https://wiki.inventaire.io/wiki/Communication_channels)."
 }
