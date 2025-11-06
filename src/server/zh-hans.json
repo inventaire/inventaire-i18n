@@ -19,7 +19,7 @@
   "declined_timeline_action": "%{username} 拒绝了您的请求",
   "did you know?": "您知道吗？",
   "did_you_know_1": "如果您的好友尚未加入 inventaire.io，您可以[通过电子邮件邀请他们](https://inventaire.io/network/users/invite) 来开始共享您的书库！",
-  "did_you_know_4": "在 inventaire.io 使用假名完全没问题，但如果您想要人们能找到您或者您想要邀请其他用户来和您的朋友建立联系，[请务必设置账户头像或者其他有特色的文字] (https://inventaire.io/me) 让他们能够认出您",
+  "did_you_know_4": "在 inventaire.io 使用假名完全没问题，但如果您想要人们能找到您或者您想要邀请其他用户来和您的朋友建立联系，[请务必设置账户头像或者其他有特色的文字](https://inventaire.io/me) 让他们能够认出您",
   "did_you_know_5": "您可以 [从您的浏览器搜索栏中搜索 Inventaire](https://wiki.inventaire.io/wiki/Add-Inventaire-to-your-browser-search-engines)",
   "email_confirmation_button": "确认您的电子邮件地址",
   "email_confirmation_paragraph": "请浏览此链接，这样我们以后就可以在确保这的确是您的电子邮件地址的情况下使用它（例如，帮助您重置密码）。",

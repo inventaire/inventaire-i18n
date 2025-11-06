@@ -12,7 +12,7 @@
   "activity_summary_meta": "Los resúmenes de tu actividad se envían cada %{periodicity} días. Puedes modificar la periodicidad o incluso deshabilitar estos correos electrónicos en tus [preferencias de notificaciones de correo](%{settingsHref}).",
   "activity_summary_title": "Resumen de su actividad",
   "and_x_more_books_to_inventory": "y [%{itemsLength} más](%{link})",
-  "author_has_new_work": "Una nueva obra ha sido atribuida: [%{subjectLabel}] (%{subjectUrl})",
+  "author_has_new_work": "Una nueva obra ha sido atribuida: [%{subjectLabel}](%{subjectUrl})",
   "cancelled_timeline_action": "%{username} canceló la transacción",
   "collection_has_new_edition": "Se ha añadido una nueva edición: [%{subjectLabel}](%{subjectUrl})",
   "confirmed_timeline_action": "%{username} ha confirmado que recibió el libro",

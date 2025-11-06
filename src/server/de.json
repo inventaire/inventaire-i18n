@@ -29,7 +29,7 @@
   "email_confirmation_title": "Danke %{username}, dass du Inventaire beitrittst!",
   "email_invitation_button": "Melde dich an und beginne, Bücher mit %{username} zu teilen",
   "email_invitation_intro": "Inventaire.io ist eine Webanwendung, die es dir ermöglicht, deine Bücher mit deinen Freunden und Communitys zu teilen",
-  "email_invitation_learn_more": "Inventaire ist ein Projekt, das sich für eine bessere Information über Ressourcen einsetzt. Dies bedeutet für uns, dass es von [Open Knowledge](https://en.wikipedia.org/wiki/Open_knowledge) und [Libre Software] (https://en.wikipedia.org/wiki/Free_software) angetrieben wird: [Erfahre mehr über inventaire.io](https://inventaire.io/welcome)",
+  "email_invitation_learn_more": "Inventaire ist ein Projekt, das sich für eine bessere Information über Ressourcen einsetzt. Dies bedeutet für uns, dass es von [Open Knowledge](https://en.wikipedia.org/wiki/Open_knowledge) und [Libre Software](https://en.wikipedia.org/wiki/Free_software) angetrieben wird: [Erfahre mehr über inventaire.io](https://inventaire.io/welcome)",
   "email_invitation_message": "**Nachricht von %{username:**",
   "email_invitation_subject": "%{username} hat dich eingeladen, deine Bücher auf Inventaire.io zu teilen!",
   "email_invitation_user_inventory": "Du kannst bereits die öffentlichen Bücher von %{username} [hier anschauen](%{pathname}), aber du benötigst ein Konto, um alle freigegebenen Bücher von %{username} zu sehen.",

@@ -13,10 +13,11 @@
     "translations"
   ],
   "scripts": {
-    "build": "./scripts/build/build.sh",
     "build-components": "./scripts/build/build_components.sh",
+    "build": "./scripts/build/build.sh",
     "fetch-translations": "./scripts/fetch/fetch_translations.sh",
     "find-duplicated-keys": "./scripts/maintenance/find_duplicated_keys.sh",
+    "lint-resources": "./scripts/lint_resources.sh",
     "prepare": "npm run build",
     "remove-matching-keys": "./scripts/maintenance/remove_matching_keys.sh",
     "reorder-all-resources": "./scripts/reorder/reorder_all_resources.sh",

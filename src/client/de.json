@@ -746,7 +746,7 @@
   "number of volumes": "Anzahl an Bänden",
   "number_of_elements_in_the_list": "Diese Liste enthält %{smart_count} Element |||| Diese Liste enthält %{smart_count} Elemente",
   "offline_help": "der Server konnte nicht erreicht werden: Bitte versuche das, was Du gemacht hast, erneut, wenn der Server wieder online ist",
-  "old_browser_message": "Hallo, vielen Dank für Dein Interesse an Inventaire!<br>Leider scheint **Dein Browser zu alt zu sein, um diese Webapplikation zu unterstützen**.<br> Kannst Du [einen moderneren Browser installieren] (https://www.mozilla.org/firefox)?",
+  "old_browser_message": "Hallo, vielen Dank für Dein Interesse an Inventaire!<br>Leider scheint **Dein Browser zu alt zu sein, um diese Webapplikation zu unterstützen**.<br> Kannst Du [einen moderneren Browser installieren](https://www.mozilla.org/firefox)?",
   "on Wikisource": "in Wikisource",
   "on_website": "auf %{name}",
   "on_wikipedia": "%{label} in Wikipedia",
