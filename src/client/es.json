@@ -32,7 +32,6 @@
   "Close map": "Cerrar mapa",
   "Comment by %{username}": "Comentario de %{username}",
   "Comments": "Comentarios",
-  "Connect your Wikidata account": "Conectar cuenta de Wikidata",
   "Connect your Wikidata account": "Conectar con tu cuenta de wikidata",
   "Contribution anonymization is disabled: anyone can see the list of your edits on bibliographic data.": "La contribución anónima esta deshabilitada: cualquier persona puede ver la lista de tus ediciones en los datos bibliográficos.",
   "Contribution anonymization is enabled: only %{instance} administrators can see the list of your edits on bibliographic data.": "La contribución anónima esta habilitada: unicamente los administradores de %{instance} puede ver la lista de tus ediciones bibliograficas.",

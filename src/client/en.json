@@ -5,6 +5,7 @@
   "A shelf name is required": "A shelf name is required",
   "A work of this series is missing in the common database?": "A work of this series is missing in the common database?",
   "API": "API",
+  "About bibliographic data": "About bibliographic data",
   "Abuse reports": "Abuse reports",
   "Active filters": "Active filters",
   "Add a work to this list": "Add a work to this list",
@@ -34,6 +35,7 @@
   "Comment by %{username}": "Comment by %{username}",
   "Comments": "Comments",
   "Connect your Wikidata account": "Connect your Wikidata account",
+  "Connecting a Wikidata account is not required to contribute, but is recommended if you make a lot of contributions, as it helps the Wikidata community to give you direct feedback.": "Connecting a Wikidata account is not required to contribute, but is recommended if you make a lot of contributions, as it helps the Wikidata community to give you direct feedback.",
   "Contribution anonymization is disabled: anyone can see the list of your edits on bibliographic data.": "Contribution anonymization is disabled: anyone can see the list of your edits on bibliographic data.",
   "Contribution anonymization is enabled: only %{instance} administrators can see the list of your edits on bibliographic data.": "Contribution anonymization is enabled: only %{instance} administrators can see the list of your edits on bibliographic data.",
   "Copied": "Copied",
@@ -93,6 +95,8 @@
   "I'm giving it": "I'm giving it",
   "I'm selling it": "I'm selling it",
   "ISBNs list": "ISBNs list",
+  "If you have any question about bibliographic data, you are welcome to ask in the [dedicated channel in the project chat](https://app.element.io/#/room/#inventaire_entities:matrix.org), or via any of our [communication channels](https://wiki.inventaire.io/wiki/Communication_channels).": "If you have any question about bibliographic data, you are welcome to ask in the [dedicated channel in the project chat](https://app.element.io/#/room/#inventaire_entities:matrix.org), or via any of our [communication channels](https://wiki.inventaire.io/wiki/Communication_channels).",
+  "If you have any question about bibliographic data, you are welcome to ask in the dedicated channel in the project chat, or via any of our project communication channels.": "If you have any question about bibliographic data, you are welcome to ask in the dedicated channel in the project chat, or via any of our project communication channels.",
   "Image preview": "Image preview",
   "Include all your present and future groups": "Include all your present and future groups",
   "Inventaire - your friends and communities are your best library": "Inventaire - your friends and communities are your best library",
@@ -1120,8 +1124,5 @@
   "your position isn't set yet": "your position isn't set yet",
   "your profile contains information about you": "your profile contains information about you",
   "your request to join is waiting for approval": "your request to join is waiting for approval",
-  "your_item_was_requested_notification": "one of your books as been requested",
-  "About bibliographic data": "About bibliographic data",
-  "If you have any question about bibliographic data, you are welcome to ask in the dedicated channel in the project chat, or via any of our project communication channels.": "If you have any question about bibliographic data, you are welcome to ask in the dedicated channel in the project chat, or via any of our project communication channels.",
-  "If you have any question about bibliographic data, you are welcome to ask in the [dedicated channel in the project chat](https://app.element.io/#/room/#inventaire_entities:matrix.org), or via any of our [communication channels](https://wiki.inventaire.io/wiki/Communication_channels).": "If you have any question about bibliographic data, you are welcome to ask in the [dedicated channel in the project chat](https://app.element.io/#/room/#inventaire_entities:matrix.org), or via any of our [communication channels](https://wiki.inventaire.io/wiki/Communication_channels)."
+  "your_item_was_requested_notification": "one of your books as been requested"
 }
