@@ -11,6 +11,7 @@
   "activity_summary_title": "Seu resumo de atividade",
   "cancelled_timeline_action": "%{username} cancelo a operação",
   "confirmed_timeline_action": "%{username} confirmou ter recibido o livro",
+  "create_items_activity": "Novo livro",
   "declined_timeline_action": "%{username} recusou o seu pedido",
   "did you know?": "você sabia ?",
   "did_you_know_1": "Se seus amigos ainda não estão no inventaire.io, você pode [convidar-os por email](https://inventaire.io/network/users/invite) para começar a partilhar os seus inventários de livros !",
