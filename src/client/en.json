@@ -1061,7 +1061,7 @@
   "username should be 2 characters minimum": "username should be 2 characters minimum",
   "username should be 20 characters maximum": "username should be 20 characters maximum",
   "username_change_confirmation": "Your current username is **%{currentUsername}**<br>Are you sure you want to change for **%{requestedUsername}**?",
-  "username_change_warning": " You shouldn't change your username too often, as it's the way others can find you",
+  "username_change_warning": "You shouldn't change your username too often, as it's the way others can find you",
   "username_tip": "Username can be anything made of 1 to 20 letters, figures or _",
   "users": "users",
   "users_count_have_this_book": "%{smart_count} user has this book |||| %{smart_count} users have this book",
