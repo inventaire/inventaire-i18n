@@ -1,9 +1,11 @@
 {
   "P123": "editora",
   "P136": "género",
+  "P1412": "idioma de expressão",
   "P407": "língua",
   "P577": "data da publicação",
   "P629": "edição de",
+  "P921": "tópico principal",
   "accepted_timeline_action": "%{username} aceitou o seu pedido",
   "active_transactions_count": "tem **%{smart_count}** [operação em curso](%{href}) |||| tem **%{smart_count}** [operações em curso](%{href})",
   "activity summary": "resumo de atividade",
