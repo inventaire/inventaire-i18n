@@ -621,7 +621,7 @@
   "invalid property value": "invalid property value",
   "invalid url": "invalid url",
   "invalid username": "invalid username",
-  "invalid_isbns_warning": "The following isbns are invalid, they will be ignored: %{invalidIsbns}",
+  "invalid_isbns_warning": "The following ISBNs are invalid, they will be ignored: %{invalidIsbns}",
   "inventaire id": "inventaire id",
   "inventories_activity_summary_notification": "receive the summary of what happened in your network",
   "inventorize_it": "just add it to my inventory",

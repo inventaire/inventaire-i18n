@@ -610,7 +610,7 @@
   "invalid property value": "valor de la propietat invalid",
   "invalid url": "url invàlida",
   "invalid username": "nom d'usuari invàlid",
-  "invalid_isbns_warning": "Els següents isbns són invàlids, seran ignorats: %{invalidisbns}",
+  "invalid_isbns_warning": "Els següents ISBNs són invàlids, seran ignorats: %{invalidisbns}",
   "inventaire id": "inventarie id",
   "inventories_activity_summary_notification": "rep el resum del que ha passat en la teva xarxa",
   "inventorize_it": "afegeix-lo al meu inventari",

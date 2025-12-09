@@ -443,7 +443,7 @@
   "invalid property value": "valore della proprietà non valido",
   "invalid url": "URL non valido",
   "invalid username": "nome utente non valido",
-  "invalid_isbns_warning": "I seguenti isbns non sono validi, verranno ignorati: %{invalidIsbns}",
+  "invalid_isbns_warning": "I seguenti ISBNs non sono validi, verranno ignorati: %{invalidIsbns}",
   "inventaire id": "id inventaire",
   "inventories_activity_summary_notification": "ricevi il riepilogo di ciò che è successo sulla tua rete",
   "inventorize_it": "aggiungilo solamente al mio inventario",
