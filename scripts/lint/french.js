@@ -15,14 +15,14 @@ function lintFrenchValue (value) {
     .replace(/auteur(e)/g, 'auteur·ice')
     .replace(/(au|crea|utilisa)teur ou (au|crea|utilisa)trice/g, '$1teur·ice')
     .replace(/un (au|crea|utilisa)teur/g, 'un·e $1teur·ice')
-    .replace(/l['’](au|crea|utilisa)teur([^·])/g, 'l’$1teur·ice$1')
-    .replace(/l['’](au|crea|utilisa)teur$/g, 'l’$1teur·ice')
+    .replace(/(au|crea|utilisa)teur([^·])/g, "$1teur·ice$2")
+    .replace(/(au|crea|utilisa)teur$/g, "$1teur·ice")
 
     // Add missing non-breaking spaces
     .replace(/([^\s])\s+([:;?!])/g, '$1 $2')
 
     // Harmonize apostrophies
-    .replace(/(\w)'(\w)/g, '$1’$2')
+    .replace(/’/g, "'")
 
     // Add missing "^" in "tâche"
     .replace(/(t)ache(s?)/ig, '$1âche$2')
