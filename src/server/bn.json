@@ -74,7 +74,7 @@
   "selling_personalized": "%{username} এটি বিক্রি করছেন",
   "selling_personalized_strong": "**%{username}** এটি বিক্রি করছেন",
   "stop_email_invitations": "আপনি যদি আমাদের কাছ থেকে ইমেল পেতে না চান তবে এখানে একটি ইমেল পাঠান [stop-emails@inventaire.io](mailto:stop-emails@inventaire.io?subject=Please%20never%20email%20me%20again&body=I' আমি%20দুঃখিত%20এটি%20would%20কখনও না%20have%20কাজ করেছে%20এর মধ্যে%20us।",
-  "stop_email_notifications": "[ইমেল সেটিংস পরিবর্তন করুন](https://inventaire.io/settings/notifications)। যেকোনো সমস্যা বা প্রশ্নের জন্য, এখানে একটি ইমেল পাঠান: [help@inventaire.io](mailto:help@inventaire.io?subject=Help!&body=Dear%20Inventaire%2C%5Cn%20I%20need%20your%20help%3A )",
+  "stop_email_notifications": "[ইমেল সেটিংস পরিবর্তন করুন](https://inventaire.io/settings/notifications)। যেকোনো সমস্যা বা প্রশ্নের জন্য, এখানে একটি ইমেল পাঠান: [help@inventaire.io](mailto:help@inventaire.io?subject=Help!&body=Dear%20Inventaire%2C%0A%20I%20need%20your%20help%3A )",
   "subject_has_new_work": "একটি নতুন কাজের বিষয়ের জন্য [%{অবজেক্ট লেবেল}](%{অবজেক্ট ইউআরএল}) রয়েছে: [%{বিষয় লেবেল}](%{subjectUrl})",
   "unread_notifications_count": "আপনার আছে **%{smart_count}** [অপঠিত বিজ্ঞপ্তি](%{href}) ||||  আপনার আছে **%{smart_count}** [অপঠিত বিজ্ঞপ্তি](%{href})",
   "update_on_item_you_requested_button": "উত্তর",
