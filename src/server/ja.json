@@ -1,6 +1,4 @@
 {
-  "P407": "言語",
-  "P577": "出版日",
   "accepted_timeline_action": "%{username} さんがあなたのリクエストを承認しました",
   "active_transactions_count": "[進行中の取引](%{href})が**%{smart_count}**件あります  |||| [進行中の取引](%{href})が**%{smart_count}**件あります",
   "activity summary": "活動のサマリ",
@@ -44,6 +42,8 @@
   "lending_personalized_strong": "**%{username}** さんが貸出可能",
   "news": "ニュース",
   "no_activity": "表示対象の活動はありません",
+  "P407": "言語",
+  "P577": "出版日",
   "pending_friends_requests_count": "[保留中の友達リクエスト](%{href})が**%{smart_count}**件あります  |||| [保留中の友達リクエスト](%{href})が**%{smart_count}** 件あります",
   "pending_group_invitations_count": "[保留中のグループへの招待](%{href})が**%{smart_count}** 件あります |||| [保留中のグループへの招待](%{href})が**%{smart_count}** 件あります",
   "pending_group_requests_count": "[あなたの承認待ちのグループ参加リクエスト](%{href}) が**%{smart_count}**件あります |||| [あなたの承認待ちのグループ参加リクエスト](%{href}) が**%{smart_count}**件あります",
