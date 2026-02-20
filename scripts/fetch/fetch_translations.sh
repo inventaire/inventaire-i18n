@@ -11,3 +11,6 @@ log_blue "fetch wikidata translations"
 ./scripts/fetch/fetch_wikidata_translations.sh
 
 log_green "done fetching"
+
+# Always linting after fetching translation, to apply language-specific lints
+./scripts/lint_resources.sh

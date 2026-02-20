@@ -2,6 +2,8 @@
 
 set -eu
 
+echo Linting resources
+
 echo Detect suspicious html markup
 ./scripts/maintenance/detect_suspicious_html_markup.sh
 echo Remove stalled keys
