@@ -88,7 +88,7 @@
   "articles": "articles",
   "Articles & videos": "Articles & videos",
   "as you are not a member of the group, you can only see members' public books": "as you are not a member of the group, you can only see members' public books",
-  "associated_with_this_movement": null,
+  "associated_with_this_movement": "Movements with which %{name} is associated",
   "author": "author",
   "author of foreword": "author of foreword",
   "author picture": "author picture",
