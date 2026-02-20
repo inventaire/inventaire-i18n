@@ -43,6 +43,6 @@ async function saveTranslationFiles () {
   }))
 }
 
-await getData()
-.then(prepareForSave)
-.then(saveTranslationFiles)
+const allProperties = await getData()
+prepareForSave(allProperties)
+await saveTranslationFiles()
