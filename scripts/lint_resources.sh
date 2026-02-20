@@ -15,4 +15,7 @@ sed --in-place 's/(]\s+()/](/' src/server/*json src/client/*json
 echo Lint French
 json-apply --in-place ./scripts/lint/french.js src/server/fr.json src/client/fr.json src/wikidata/fr.json
 
+echo Align formatting of empty files with Weblate
+sed --in-place 's/^{}$/{\n}/' src/server/*json src/client/*json
+
 echo Done

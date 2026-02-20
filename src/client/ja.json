@@ -1,4 +1,7 @@
 {
+  "P407": "言語",
+  "P577": "出版日",
+  "P1476": "原語のタイトル",
   "a few words on you?": "簡単な自己紹介",
   "accept": "承諾",
   "accept friend request": "友達リクエストを承認",
@@ -280,9 +283,6 @@
   "other_user_selling": "**%{username}** さんが販売中",
   "our love wasn't possible because": "次の理由で至らない部分があり申し訳ありません",
   "owner": "所有者",
-  "P1476": "原語のタイトル",
-  "P407": "言語",
-  "P577": "出版日",
   "pages": "ページ数",
   "password": "パスワード",
   "password should be 8 characters minimum": "パスワードは8文字以上にしてください",

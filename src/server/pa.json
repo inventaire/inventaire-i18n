@@ -1,4 +1,5 @@
 {
+  "P407": "ਭਾਸ਼ਾ",
   "accepted_timeline_action": "%{username} ਨੇ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰ ਲਿਆ ਹੈ",
   "activity_summary_title": "ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਦਾ ਸਾਰ",
   "declined_timeline_action": "%{username} ਨੇ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਨਾਮਨਜ਼ੂਰ ਕਰ ਦਿੱਤਾ ਹੈ",
@@ -6,7 +7,6 @@
   "email_confirmation_button": "ਆਪਣੇ ਈਮੇਲ ਪਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
   "email_invitation_message": "**%{username} ਦਾ ਸੁਨੇਹਾ:**",
   "news": "ਖ਼ਬਰਾਂ",
-  "P407": "ਭਾਸ਼ਾ",
   "requested_timeline_action": "%{username} ਨੇ ਇੱਕ ਬੇਨਤੀ ਕੀਤੀ ਹੈ",
   "reset_password_button": "ਆਪਣਾ ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ",
   "reset_password_subject": "ਆਪਣਾ ਇਨਵੈਨਤੈਰ ਪਾਸਵਰਡ ਬਦਲੋ",

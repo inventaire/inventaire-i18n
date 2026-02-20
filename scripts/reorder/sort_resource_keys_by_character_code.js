@@ -3,7 +3,18 @@ export default function (resource) {
   return Object.fromEntries(entries)
 }
 
+const isPropertyId = key => /^P\d+$/.test(key)
+const parseNumericId = key => parseInt(key.substring(1))
+
 function byLowerCasedCharacterCode ([ a ], [ b ]) {
+  if (isPropertyId(a) && isPropertyId(b)) {
+    return parseNumericId(a) - parseNumericId(b)
+  } else if (isPropertyId(a)) {
+    return -1
+  } else if (isPropertyId(b)) {
+    return 1
+  }
+
   a = a.toLowerCase()
   b = b.toLowerCase()
 

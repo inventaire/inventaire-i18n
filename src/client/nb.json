@@ -1,4 +1,5 @@
 {
+  "P123": "forlag",
   "About bibliographic data": "Om bibliografisk data",
   "add a picture": "Last opp bilde",
   "add books": "Legg til bøker",
@@ -20,7 +21,6 @@
   "login": "logg inn",
   "no notification": "ingen varsling",
   "notifications": "varslinger",
-  "P123": "forlag",
   "scan a barcode": "skanne en strekkode",
   "search": "søke",
   "selling": "å selge",

@@ -1,4 +1,7 @@
 {
+  "P407": "dil",
+  "P577": "yayımlanma tarihi",
+  "P629": "bunun baskısı",
   "accepted_timeline_action": "%{username} isteğinizi onayladı",
   "active_transactions_count": "**%{smart_count}** [devam eden işleminiz] var(%{href}) |||| **%{smart_count}** [devam eden işlemleriniz] var(%{href})",
   "activity summary": "etkinlik özeti",
@@ -42,9 +45,6 @@
   "lending_personalized_strong": "**%{username}**  bunu ödünç verebilir",
   "news": "haberler",
   "no_activity": "gösterilecek etkinlik yok",
-  "P407": "dil",
-  "P577": "yayımlanma tarihi",
-  "P629": "bunun baskısı",
   "pending_friends_requests_count": "**%{smart_count}** [bekleyen arkadaşlık isteği] var (%{href}) ||||  **%{smart_count}** [bekleyen arkadaşlık isteği] var(%{href})",
   "pending_group_invitations_count": "**%{smart_count}** [bekleyen grup daveti] var (%{href}) |||| **%{smart_count}** [bekleyen grup daveti] var(%{href})",
   "pending_group_requests_count": "**%{smart_count}** [onayınızı bekleyen gruba katılma isteğiniz] var(%{href}) |||| **%{smart_count}** [onayınızı bekleyen gruba katılma istekleriniz] var(%{href}) ",
