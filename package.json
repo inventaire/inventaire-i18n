@@ -38,6 +38,10 @@
     "#root/*": "./*"
   },
   "devDependencies": {
+    "@types/node": "^25.3.0",
     "json-apply": "^1.0.1"
+  },
+  "engines": {
+    "node": ">= 24"
   }
 }

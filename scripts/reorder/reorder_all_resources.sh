@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -eu
+
 # Reorder resouces keys as they would be reordered by the Weblate "Customize JSON output" addon
 # to reduce diffs when adding new keys for instance
 
