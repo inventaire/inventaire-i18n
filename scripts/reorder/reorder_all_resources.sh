@@ -8,3 +8,6 @@ json-apply --in-place ./scripts/reorder/sort_resource_keys_by_character_code.js 
 
 # Align formatting of empty files with Weblate
 sed --in-place 's/^{}$/{\n}/' src/server/*json src/client/*json
+
+cat ./src/client/keys_translated_from_wikidata | sed 's/^P//' | sort --numeric-sort | sed 's/^/P/' > ./src/client/keys_translated_from_wikidata.tmp
+mv ./src/client/keys_translated_from_wikidata.tmp ./src/client/keys_translated_from_wikidata
