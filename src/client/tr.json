@@ -5,7 +5,6 @@
   "accept invitation": "daveti onayla",
   "accept_request": "%{username}'in isteğini kabul et",
   "actions": "eylemler",
-  "activity": "eylem",
   "activity_summary_periodicity_tip": "etkinlik özeti süreniz **days** günde bir kez",
   "add": "ekle",
   "add a book": "kitap ekle",
@@ -328,7 +327,6 @@
   "see_on_website": "%{website} üzerinde gör",
   "select": "seç",
   "select a picture": "bir resim seçin",
-  "select the books you want to add": "eklemek istediğiniz kitapları seçin",
   "select the settings to apply to the selected books": "seçilen kitaplara uygulanacak ayarları seçin",
   "select this edition": "bu basımı seçin",
   "selected": "seçili",
@@ -350,7 +348,6 @@
   "share it with your friends and communities": "onları arkadaşlarınızla ve topluluklarınızla paylaşın",
   "show": "göster",
   "sign up": "kaydol",
-  "some of the last books listed": "listelenen son kitaplardan bazıları",
   "something went wrong :(": "bir şeyler ters gitti :(",
   "source": "kaynak",
   "subject": "konu",
@@ -440,7 +437,6 @@
   "your friends": "arkadaşlarınız",
   "your friends and communities are the best library": "arkadaşlarınız ve topluluklarınız en iyi kütüphanedir",
   "your friends and communities are your best library": "arkadaşlarınız ve topluluklarınız en iyi kitaplığınızdır",
-  "your message": "mesajınız",
   "your position isn't set yet": "konumun henüz ayarlanmadı",
   "your_item_was_requested_notification": "kitaplarınızdan biri talep edildi"
 }

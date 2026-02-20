@@ -10,7 +10,6 @@
   "account": "account",
   "actions": "acties",
   "Active filters": "Actieve filters",
-  "activity": "activiteit",
   "activity_summary_periodicity_tip": "het aantal **dagen** tussen e-mails met een activiteitssamenvatting",
   "add": "toevoegen",
   "add a book": "een boek toevoegen",
@@ -404,7 +403,6 @@
   "select": "selecteer",
   "select a picture": "selecteer een foto",
   "select all": "alles selecteer",
-  "select the books you want to add": "selecteer de boeken die je wil toevoegen",
   "select the settings to apply to the selected books": "selecteer de instellingen om toe te passen op de geselecteerde boeken",
   "select this edition": "selecteer deze editie",
   "selected": "geselecteerd",
@@ -428,7 +426,6 @@
   "share it with your friends and communities": "deel het met je vrienden en communities",
   "show": "toon",
   "sign up": "registreer",
-  "some of the last books listed": "een selectie van de laatst ingevoerde boeken",
   "something went wrong :(": "er is iets verkeerd gegaan :(",
   "source": "bron",
   "subject": "onderwerp",
@@ -522,7 +519,6 @@
   "your friends": "jouw vrienden",
   "your friends and communities are the best library": "je vrienden en communities zijn de beste bibliotheek",
   "your friends and communities are your best library": "je vrienden en communities zijn je beste bibliotheek",
-  "your message": "jouw bericht",
   "your position isn't set yet": "je locatie is nog niet geselecteerd",
   "your_item_was_requested_notification": "een van je boeken is aangevraagd geweest"
 }

@@ -10,7 +10,6 @@
   "account": "účet",
   "actions": "úkony",
   "Active filters": "Aktívne filtre",
-  "activity": "činnosť",
   "add": "pridať",
   "add a book": "pridať knihu",
   "add a collection from this publisher": "pridať zbierku od tohto vydavateľa",
@@ -228,6 +227,5 @@
   "yes": "áno",
   "you are offline": "ste offline",
   "your friends": "vaši priatelia",
-  "your message": "Vaša správa",
   "your message…": "vaša správa…"
 }
