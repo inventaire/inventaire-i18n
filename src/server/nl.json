@@ -1,11 +1,11 @@
 {
   "P123": "uitgever",
   "P136": "genre",
+  "P1412": "taal van uiting",
   "P407": "taal",
   "P577": "publicatiedatum",
   "P629": "editie van",
   "P921": "belangrijk thema",
-  "P1412": "taal van uiting",
   "accepted_timeline_action": "%{username} accepteerde je aanvraag",
   "active_transactions_count": "je hebt **%{smart_count}** [huidige transactie](%{href}) |||| je hebt **%{smart_count}** [huidige transacties](%{href})",
   "activity summary": "activiteits-overzicht",

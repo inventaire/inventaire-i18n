@@ -1,6 +1,7 @@
 {
-  "P123": "forlag",
   "About bibliographic data": "Om bibliografisk data",
+  "I can lend it": "Jeg kan låne den",
+  "P123": "forlag",
   "add a picture": "Last opp bilde",
   "add books": "Legg til bøker",
   "available for": "tilgjengelig for",
@@ -16,7 +17,6 @@
   "examples": "eksempler",
   "friends requests": "venneforespørsler",
   "giving": "å gi",
-  "I can lend it": "Jeg kan låne den",
   "lending": "å lån",
   "login": "logg inn",
   "no notification": "ingen varsling",

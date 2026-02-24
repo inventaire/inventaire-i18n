@@ -1,11 +1,11 @@
 {
   "P123": "maison d'édition",
   "P136": "genre",
+  "P1412": "langue d'expression",
   "P407": "langue",
   "P577": "date de publication",
   "P629": "édition de",
   "P921": "sujet principal",
-  "P1412": "langue d'expression",
   "accepted_timeline_action": "%{username} a accepté votre demande",
   "active_transactions_count": "vous avez **%{smart_count}** [transaction en cours](%{href}) |||| vous avez **%{smart_count}** [transactions en cours](%{href})",
   "activity summary": "résumé d'activité",

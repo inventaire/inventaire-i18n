@@ -1,11 +1,11 @@
 {
   "P123": "Verlag",
   "P136": "Genre",
+  "P1412": "Ausdrucksform",
   "P407": "Sprache",
   "P577": "Erscheinungsdatum",
   "P629": "Ausgabe von",
   "P921": "Hauptthema",
-  "P1412": "Ausdrucksform",
   "accepted_timeline_action": "%{username} hat deine Anfrage angenommen",
   "active_transactions_count": "Du hast **%{smart_count}** [laufende Transaktion](%{href}) |||| Du hast **%{smart_count}** [laufende Transaktionen](%{href})",
   "activity summary": "Zusammenfassung deiner Aktivitäten",

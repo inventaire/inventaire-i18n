@@ -1,11 +1,11 @@
 {
   "P123": "editură",
   "P136": "gen",
+  "P1412": "Limbajul de exprimare",
   "P407": "Limbă",
   "P577": "Data de publicare",
   "P629": "ediția",
   "P921": "Subiectul principal",
-  "P1412": "Limbajul de exprimare",
   "accepted_timeline_action": "%{username} v-a acceptat cererea",
   "active_transactions_count": "Aveți **%{smart_count}** [tranzacție în curs](%{href}) |||| Aveți **%{smart_count}** [tranzacții în curs](%{href})",
   "activity summary": "Rezumat de activitate",

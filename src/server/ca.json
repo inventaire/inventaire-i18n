@@ -1,11 +1,11 @@
 {
   "P123": "editor",
   "P136": "gènere",
+  "P1412": "llengua d'expressióó",
   "P407": "idioma",
   "P577": "data de la publicació",
   "P629": "edició de",
   "P921": "tema principal",
-  "P1412": "llengua d'expressióó",
   "accepted_timeline_action": "%{username} ha acceptat la vostra petició",
   "active_transactions_count": "té una **%{smart_count}** [ongoing transaction](%{href}) |||| té una **%{smart_count}** [ongoing transactions](%{href})",
   "activity summary": "resum d'activitat",

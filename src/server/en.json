@@ -1,11 +1,11 @@
 {
   "P123": "publisher",
   "P136": "genre",
+  "P1412": "language of expression",
   "P407": "language",
   "P577": "date of publication",
   "P629": "edition of",
   "P921": "main subject",
-  "P1412": "language of expression",
   "accepted_timeline_action": "%{username} accepted your request",
   "active_transactions_count": "you have **%{smart_count}** [ongoing transaction](%{href}) |||| you have **%{smart_count}** [ongoing transactions](%{href})",
   "activity summary": "activity summary",

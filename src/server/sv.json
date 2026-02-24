@@ -1,11 +1,11 @@
 {
   "P123": "förlag",
   "P136": "genre",
+  "P1412": "talade, skrivna eller tecknade språk",
   "P407": "språk",
   "P577": "utgivningsår",
   "P629": "utgåva av",
   "P921": "huvudämne",
-  "P1412": "talade, skrivna eller tecknade språk",
   "accepted_timeline_action": "%{username} accepterade din förfrågan",
   "active_transactions_count": "du har **%{smart_count}** [pågående transaktion](%{href}) |||| du har **%{smart_count}** [pågående transaktioner](%{href})",
   "activity summary": "aktivitetssammanställning",

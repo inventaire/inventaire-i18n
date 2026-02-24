@@ -1,11 +1,11 @@
 {
   "P123": "出版商",
   "P136": "类型",
+  "P1412": "表述语言",
   "P407": "语言",
   "P577": "发行日期",
   "P629": "版本",
   "P921": "主要内容",
-  "P1412": "表述语言",
   "accepted_timeline_action": "%{username} 接受了您的请求",
   "active_transactions_count": "您有 **%{smart_count}** 个 [进行中的交易](%{href}) |||| 您有 **%{smart_count}** 个 [进行中的交易](%{href})",
   "activity summary": "行为总结",
