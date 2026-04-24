@@ -1,6 +1,7 @@
 {
   "\"%{name}\" is already the group name": "„%{name}“ ist bereits der Gruppenname",
   "A collection or an edition from this publisher is missing in the common database?": "Eine Sammlung oder eine Ausgabe dieses Verlags fehlt in der gemeinsamen Datenbank?",
+  "A merge request has been created": "Es wurde ein Merge-Request erstellt",
   "A series or a work by this author is missing in the common database?": "Eine Serie oder ein Werk dieses Autors fehlt in der gemeinsamen Datenbank?",
   "A shelf name is required": "Ein Regalname ist erforderlich",
   "A work of this series is missing in the common database?": "Ein Werk aus dieser Serie fehlt in der gemeinsamen Datenbank?",
