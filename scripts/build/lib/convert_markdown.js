@@ -1,30 +1,36 @@
-import { linkify } from '#scripts/build/lib/linkify'
+import { marked } from 'marked'
+import sanitizeHtml from 'sanitize-html'
 
 function convertMarkdownBoldAndItalic (text) {
   return text?.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
   .replace(/\*([^*]+)\*/g, '<i>$1</i>')
 }
 
-function convertMarkdownLinks (text) {
-  if (text == null) return
-
+function addLinksAttributes (text) {
   return text
-  // Replacing local links first
-  // that is links starting by / or a variable starting with %
-  // Example:
-  // - "your_item_was_requested_subject": "%{username} requested your book [%{title}](%{link})"
-  .replace(/\[([^\]]+)\]\(((\/|%)[^)]+)\)/g, dynamicLink)
-  // Remove the target on those local links
-  .replace(" target='_blank'", '')
-  // Then replace other links and keep the target='_blank'
-  .replace(/\[([^\]]+)\]\(([^)]+)\)/g, dynamicLink)
-  // Replace newline breaks by their HTML equivalent
-  .replace(/\n/g, '<br />')
+  .replace(/<a href="(http[^"]+)"/g, '<a href="$1" class="link" target="_blank" rel="noopener"')
+  // Not setting target on internal links
+  .replace(/<a href="(\/[^"]+)"/g, '<a href="$1" class="link" rel="noopener"')
 }
 
-// used by String::replace to pass text -> $1 and url -> $2 values
-const dynamicLink = linkify('$1', '$2')
+function convertNewlineBreaks (text) {
+  return text.replace(/\n/g, '<br />')
+}
+
+const allowedTags = [
+  'a',
+  'em',
+  'strong',
+]
+
+const allowedAttributes = {
+  'a': [ 'href' ]
+}
 
 export function convertMarkdown (text) {
-  return convertMarkdownLinks(convertMarkdownBoldAndItalic(text))
+  // @ts-expect-error
+  const html = marked(text).trim()
+  const sanitizedHtml = sanitizeHtml(html, { allowedTags, allowedAttributes })
+  const after = convertNewlineBreaks(addLinksAttributes(sanitizedHtml))
+  return after
 }

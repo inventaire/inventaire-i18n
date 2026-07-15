@@ -21,13 +21,15 @@
     "prepare": "npm run build",
     "remove-matching-keys": "./scripts/maintenance/remove_matching_keys.sh",
     "reorder-all-resources": "./scripts/reorder/reorder_all_resources.sh",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --test tests/*.test.js",
     "update-stats": "./scripts/stats/update_language_stats.js"
   },
   "keywords": [],
   "author": "",
   "license": "AGPL-3.0",
   "dependencies": {
+    "marked": "^18.0.6",
+    "sanitize-html": "^2.17.6",
     "tiny-chalk": "^3.0.1",
     "wikibase-sdk": "^9.0.5"
   },
