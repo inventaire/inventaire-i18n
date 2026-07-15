@@ -1,6 +1,6 @@
 {
   "\"%{name}\" is already the group name": "\"%{name}\" is already the group name",
-  "\"%{subjectLabel}\" is a Wikidata entity, so it can't link to \"[%{valueLabel}](%{valuePathname})\", which is an Inventaire entity.\n\n**Would you like to move \"%{valueLabel}\" to Wikidata to be able to make that link?**": "\"%{subjectLabel}\" is a Wikidata entity, so it can't link to \"[%{valueLabel}](%{valuePathname})\", which is an Inventaire entity.\n\n**Would you like to move \"%{valueLabel}\" to Wikidata to be able to make that link?**",
+  "\"*%{subjectLabel}*\" is a Wikidata entity, so it can't link to \"*[%{valueLabel}](%{valuePathname})*\", which is an Inventaire entity.\n**Would you like to move \"*%{valueLabel}*\" to Wikidata to be able to make that link?**": "\"*%{subjectLabel}*\" is a Wikidata entity, so it can't link to \"*[%{valueLabel}](%{valuePathname})*\", which is an Inventaire entity.\n**Would you like to move \"*%{valueLabel}*\" to Wikidata to be able to make that link?**",
   "A collection or an edition from this publisher is missing in the common database?": "A collection or an edition from this publisher is missing in the common database?",
   "A merge request has been created": "A merge request has been created",
   "A series or a work by this author is missing in the common database?": "A series or a work by this author is missing in the common database?",
