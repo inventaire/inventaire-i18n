@@ -1,11 +1,11 @@
 import { linkify } from '#scripts/build/lib/linkify'
 
-const convertMarkdownBoldAndItalic = text => {
+function convertMarkdownBoldAndItalic (text) {
   return text?.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
   .replace(/\*([^*]+)\*/g, '<i>$1</i>')
 }
 
-const convertMarkdownLinks = text => {
+function convertMarkdownLinks (text) {
   if (text == null) return
 
   return text
@@ -18,6 +18,8 @@ const convertMarkdownLinks = text => {
   .replace(" target='_blank'", '')
   // Then replace other links and keep the target='_blank'
   .replace(/\[([^\]]+)\]\(([^)]+)\)/g, dynamicLink)
+  // Replace newline breaks by their HTML equivalent
+  .replace(/\n/g, '<br />')
 }
 
 // used by String::replace to pass text -> $1 and url -> $2 values
