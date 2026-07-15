@@ -1,16 +1,13 @@
 import { marked } from 'marked'
 import sanitizeHtml from 'sanitize-html'
 
-function convertMarkdownBoldAndItalic (text) {
-  return text?.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-  .replace(/\*([^*]+)\*/g, '<i>$1</i>')
-}
-
 function addLinksAttributes (text) {
   return text
   .replace(/<a href="(http[^"]+)"/g, '<a href="$1" class="link" target="_blank" rel="noopener"')
   // Not setting target on internal links
   .replace(/<a href="(\/[^"]+)"/g, '<a href="$1" class="link" rel="noopener"')
+  // Do set the target on interpolation link (which might also be internal links)
+  .replace(/<a href="(%{[^}]+})"/g, '<a href="$1" class="link" target="_blank" rel="noopener"')
 }
 
 function convertNewlineBreaks (text) {
@@ -27,10 +24,17 @@ const allowedAttributes = {
   'a': [ 'href' ]
 }
 
+function recoverInterpolation (text) {
+  return text
+  // "{" and "}" would have been escaped by sanitizeHtml
+  .replace(/%7B/g, '{')
+  .replace(/%7D/g, '}')
+}
+
 export function convertMarkdown (text) {
   // @ts-expect-error
   const html = marked(text).trim()
   const sanitizedHtml = sanitizeHtml(html, { allowedTags, allowedAttributes })
-  const after = convertNewlineBreaks(addLinksAttributes(sanitizedHtml))
+  const after = convertNewlineBreaks(addLinksAttributes(recoverInterpolation(sanitizedHtml)))
   return after
 }
