@@ -10,3 +10,11 @@ if [ "$?" == "0" ]; then
   echo -e '\e[5;41m⮝ ⮝ ⮝ 🚨 Found suspicious HTML markup ⮝ ⮝ ⮝ \e[0m'
   exit 1
 fi
+
+# Detect escaped HTML entities
+grep --extended-regexp --color=always --only-matching --line-number  '&[A-Za-z0-9]+;' dist/*/*.json
+
+if [ "$?" == "0" ]; then
+  # shellcheck disable=SC2016
+  echo -e '\e[0;33m⮝ ⮝ ⮝ Some HTML entities were escaped ⮝ ⮝ ⮝ \e[0m'
+fi

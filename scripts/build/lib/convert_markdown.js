@@ -31,10 +31,15 @@ function recoverInterpolation (text) {
   .replace(/%7D/g, '}')
 }
 
+function parseAllowlistedHtmlEntities (text) {
+  return text
+  .replace(/&amp;/g, '&')
+}
+
 export function convertMarkdown (text) {
   // @ts-expect-error
   const html = marked(text).trim()
   const sanitizedHtml = sanitizeHtml(html, { allowedTags, allowedAttributes })
-  const after = convertNewlineBreaks(addLinksAttributes(recoverInterpolation(sanitizedHtml)))
+  const after = parseAllowlistedHtmlEntities(convertNewlineBreaks(addLinksAttributes(recoverInterpolation(sanitizedHtml))))
   return after
 }

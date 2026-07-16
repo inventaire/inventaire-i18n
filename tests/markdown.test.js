@@ -42,4 +42,9 @@ describe('markdown', () => {
     const value = "hello [%{title}](%{link})"
     equal(convertMarkdown(value), 'hello <a href="%{link}" class="link" target="_blank" rel="noopener">%{title}</a>')
   })
+
+  it('should support newline breaks', () => {
+    const value = "friends & groups"
+    equal(convertMarkdown(value), 'friends & groups')
+  })
 })
