@@ -1,6 +1,8 @@
 {
   "\"%{name}\" is already the group name": "\"%{name}\" is already the group name",
-  "\"*%{subjectLabel}*\" is a Wikidata entity, so it can't link to \"*[%{valueLabel}](%{valuePathname})*\", which is an Inventaire entity.\n**Would you like to move \"*%{valueLabel}*\" to Wikidata to be able to make that link?**": "\"*%{subjectLabel}*\" is a Wikidata entity, so it can't link to \"*[%{valueLabel}](%{valuePathname})*\", which is an Inventaire entity.\n**Would you like to move \"*%{valueLabel}*\" to Wikidata to be able to make that link?**",
+  "**%{subjectLabel}** is a Wikidata entity, so it can't link to **[%{valueLabel}](%{valuePathname})**, which is an Inventaire entity.": "**%{subjectLabel}** is a Wikidata entity, so it can't link to **[%{valueLabel}](%{valuePathname})**, which is an Inventaire entity.",
+  "**Would you like to move [%{valueLabel}](%{valuePathname}) to Wikidata to be able to make that link?**": "**Would you like to move [%{valueLabel}](%{valuePathname}) to Wikidata to be able to make that link?**",
+  "**[%{valueLabel}](%{valuePathname})** can unfortunately not be automatically moved to Wikidata, as it itself links to Inventaire entities.": "**[%{valueLabel}](%{valuePathname})** can unfortunately not be automatically moved to Wikidata, as it itself links to Inventaire entities.",
   "A collection or an edition from this publisher is missing in the common database?": "A collection or an edition from this publisher is missing in the common database?",
   "A merge request has been created": "A merge request has been created",
   "A series or a work by this author is missing in the common database?": "A series or a work by this author is missing in the common database?",
@@ -287,6 +289,7 @@
   "Wikipedia": "Wikipedia",
   "You already have this book in your inventory:": "You already have this book in your inventory:",
   "You need to select items to be able to edit the selection": "You need to select items to be able to edit the selection",
+  "You would need to move those entities to Wikidata first:": "You would need to move those entities to Wikidata first:",
   "Your Wikidata account is connected": "Your Wikidata account is connected",
   "Your inventory": "Your inventory",
   "Zoom-in to display more": "Zoom-in to display more",
