@@ -1,45 +1,20 @@
-import { marked } from 'marked'
-import sanitizeHtml from 'sanitize-html'
-
-function addLinksAttributes (text) {
-  return text
-  .replace(/<a href="(http[^"]+)"/g, '<a href="$1" class="link" target="_blank" rel="noopener"')
-  // Not setting target on internal links
-  .replace(/<a href="(\/[^"]+)"/g, '<a href="$1" class="link" rel="noopener"')
-  // Do set the target on interpolation link (which might also be internal links)
-  .replace(/<a href="(%{[^}]+})"/g, '<a href="$1" class="link" target="_blank" rel="noopener"')
-}
-
-function convertNewlineBreaks (text) {
-  return text.replace(/\n/g, '<br />')
-}
-
-const allowedTags = [
-  'a',
-  'em',
-  'strong',
-]
-
-const allowedAttributes = {
-  'a': [ 'href' ]
-}
-
-function recoverInterpolation (text) {
-  return text
-  // "{" and "}" would have been escaped by sanitizeHtml
-  .replace(/%7B/g, '{')
-  .replace(/%7D/g, '}')
-}
-
-function parseAllowlistedHtmlEntities (text) {
-  return text
-  .replace(/&amp;/g, '&')
-}
+const dynamicLink = '<a href="$2" class="link" target="_blank" rel="noopener">$1</a>'
 
 export function convertMarkdown (text) {
-  // @ts-expect-error
-  const html = marked(text).trim()
-  const sanitizedHtml = sanitizeHtml(html, { allowedTags, allowedAttributes })
-  const after = parseAllowlistedHtmlEntities(convertNewlineBreaks(addLinksAttributes(recoverInterpolation(sanitizedHtml))))
-  return after
+  return text
+    // Replacing local links first
+    // that is links starting by / or a variable starting with %
+    // Example:
+    // - "your_item_was_requested_subject": "%{username} requested your book [%{title}](%{link})"
+    .replace(/\[([^\]]+)\]\(((\/|%)[^)]+)\)/g, dynamicLink)
+    // Remove the target on those local links
+    .replace(' target="_blank"', '')
+    // Then replace other links and keep the target='_blank'
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, dynamicLink)
+    // Replace newline breaks by their HTML equivalent
+    .replace(/\n/g, '<br />')
+    // Bold
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    // Italic: not used, so skipped
+    // .replace(/\*([^*]+)\*/g, '<em>$1</em>')
 }

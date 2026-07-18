@@ -28,8 +28,6 @@
   "author": "",
   "license": "AGPL-3.0",
   "dependencies": {
-    "marked": "^18.0.6",
-    "sanitize-html": "^2.17.6",
     "tiny-chalk": "^3.0.1",
     "wikibase-sdk": "^9.0.5"
   },

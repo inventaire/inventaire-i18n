@@ -18,20 +18,6 @@ describe('markdown', () => {
     equal(convertMarkdown(value), 'hello <strong>foo</strong>')
   })
 
-  it('should support italic', () => {
-    const value = "hello *foo*"
-    equal(convertMarkdown(value), 'hello <em>foo</em>')
-  })
-
-  it('should support italic within bold', () => {
-    const value = "hello **this *foo* bar**"
-    equal(convertMarkdown(value), 'hello <strong>this <em>foo</em> bar</strong>')
-  })
-
-  it('should support bold in italic', () => {
-    const value = "hello *this **foo** bar*"
-    equal(convertMarkdown(value), 'hello <em>this <strong>foo</strong> bar</em>')
-  })
 
   it('should support newline breaks', () => {
     const value = "hello\nfoo"
@@ -40,11 +26,27 @@ describe('markdown', () => {
 
   it('should support string interpolation in links', () => {
     const value = "hello [%{title}](%{link})"
-    equal(convertMarkdown(value), 'hello <a href="%{link}" class="link" target="_blank" rel="noopener">%{title}</a>')
+    equal(convertMarkdown(value), 'hello <a href="%{link}" class="link" rel="noopener">%{title}</a>')
   })
 
   it('should support newline breaks', () => {
     const value = "friends & groups"
     equal(convertMarkdown(value), 'friends & groups')
   })
+
+  // Italic isn't needed at the moment
+  // it('should support italic', () => {
+  //   const value = "hello *foo*"
+  //   equal(convertMarkdown(value), 'hello <em>foo</em>')
+  // })
+
+  // it('should support italic within bold', () => {
+  //   const value = "hello **this *foo* bar**"
+  //   equal(convertMarkdown(value), 'hello <strong>this <em>foo</em> bar</strong>')
+  // })
+
+  // it('should support bold in italic', () => {
+  //   const value = "hello *this **foo** bar*"
+  //   equal(convertMarkdown(value), 'hello <em>this <strong>foo</strong> bar</em>')
+  // })
 })
