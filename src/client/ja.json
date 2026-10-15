@@ -30,7 +30,7 @@
   "An error occurred during creation of an entity:": "エンティティ作成中にエラーが発生:",
   "Anonymize contributions": "ローカルデータベースへの投稿を匿名化",
   "Archive this task. Shortkey: a": "このタスクをアーカイブ。ショートキー: a",
-  "Are you sure you want to **delete this element**? That will also delete the following text: *\"%{deletingData}\"*": "本当に**このエレメントを削除**しますか？次のテキストも削除されます: *\"%{deletingData}\"*",
+  "Are you sure you want to **delete this element**? That will also delete the following text: \"%{deletingData}\"": "本当に**このエレメントを削除**しますか？次のテキストも削除されます: \"%{deletingData}\"",
   "Are you sure you want to delete this statement?": "この文を本当に削除しますか？",
   "Articles & videos": "記事&ビデオ",
   "Author roles": "著者の役割",
