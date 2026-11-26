@@ -1,7 +1,7 @@
 {
   "\"%{name}\" is already the group name": "\"%{name}\" est déjà le nom du groupe",
   "**%{subjectLabel}** is a Wikidata entity, so it can't link to **[%{valueLabel}](%{valuePathname})**, which is an Inventaire entity.": "**%{subjectLabel}** est une entité Wikidata et ne peut donc être liée **[%{valueLabel}](%{valuePathname})**, qui est une entité Inventaire.",
-  "**Would you like to move [%{valueLabel}](%{valuePathname}) to Wikidata to be able to make that link?**": "**Souhaitez-vous déplacer [%{valueLabel}](%{valuePathname}) vers Wikidata pour pouvoir faire ce lien ?**",
+  "**Would you like to move [%{valueLabel}](%{valuePathname}) to Wikidata to be able to make that link?**": "**Souhaitez-vous déplacer [%{valueLabel}](%{valuePathname}) vers Wikidata pour pouvoir faire ce lien ?**",
   "**[%{valueLabel}](%{valuePathname})** can unfortunately not be automatically moved to Wikidata, as it itself links to Inventaire entities.": "**[%{valueLabel}](%{valuePathname})** ne peut malheureusement pas être déplacé automatiquement vers  Wikidata, qui est lui-même lié aux entités Inventaire.",
   "A collection or an edition from this publisher is missing in the common database?": "Une collection ou une édition de cette éditeur manque dans la base de données commune ?",
   "A merge request has been created": "Une proposition de fusion a été créée",
